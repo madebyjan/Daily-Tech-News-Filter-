@@ -1,0 +1,47 @@
+# .github/workflows/daily_signal.yml
+#
+# Runs every morning at 7:00 AM CET (06:00 UTC)
+# and commits the fresh daily_signal.json to the repo.
+#
+# Setup:
+#   1. Go to your GitHub repo → Settings → Secrets and variables → Actions
+#   2. Add a secret: ANTHROPIC_API_KEY = your_key
+
+name: Daily Investor Signal
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 07:00 CET / 06:00 UTC, every day
+  workflow_dispatch:        # allows manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to commit daily_signal.json back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install anthropic feedparser requests
+
+      - name: Run signal filter
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python investor_signal.py
+
+      - name: Commit & push daily_signal.json
+        run: |
+          git config user.name  "investor-signal-bot"
+          git config user.email "bot@investor-signal"
+          git add daily_signal.json
+          git diff --cached --quiet || git commit -m "signal: $(date +'%Y-%m-%d')"
+          git push
