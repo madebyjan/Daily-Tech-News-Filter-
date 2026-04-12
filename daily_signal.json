@@ -1,0 +1,26 @@
+{
+  "date": "2026-04-11",
+  "picks": [
+    {
+      "rank": 1,
+      "title": "Nvidia-backed SiFive hits $3.65 billion valuation for open AI chips",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/04/11/nvidia-backed-sifive-hits-3-65-billion-valuation-for-open-ai-chips/",
+      "why_it_matters": "RISC-V's growing traction in AI infrastructure signals a potential platform shift away from ARM/x86 dominance, creating opportunities for startups building on open chip architectures."
+    },
+    {
+      "rank": 2,
+      "title": "Cirrus Labs to join OpenAI",
+      "source": "Hacker News",
+      "url": "https://cirruslabs.org/",
+      "why_it_matters": "AI talent and team acquisitions by frontier labs indicate which capabilities are most valued and may reveal gaps where new startups can emerge from departing founders."
+    },
+    {
+      "rank": 3,
+      "title": "Small models also found the vulnerabilities that Mythos found",
+      "source": "Hacker News",
+      "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+      "why_it_matters": "Smaller, cheaper AI models matching frontier model performance in security tasks validates the opportunity for capital-efficient startups in AI-powered cybersecurity."
+    }
+  ]
+}

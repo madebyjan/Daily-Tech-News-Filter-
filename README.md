@@ -1,50 +1,61 @@
-# Welcome to your Expo app 👋
+# Daily Tech News Filter
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> Cuts through the noise. 2–3 stories that matter today — filtered for early-stage VCs.
 
-## Get started
+Every morning, this tool automatically pulls hundreds of headlines from TechCrunch, Axios, and Hacker News, and uses Claude AI to select only the most relevant stories for early-stage venture capitalists — with a one-sentence "Why it matters" for each.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## How it works
 
-2. Start the app
+1. **Aggregates** news from RSS feeds and Hacker News API
+2. **Filters** with Claude — an LLM prompt tuned for early-stage VC relevance
+3. **Outputs** a clean `daily_signal.json` — ready to power a mobile app
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Today's signal
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Updated daily at 7:00 AM CET via GitHub Actions. See [`daily_signal.json`](./daily_signal.json) for today's picks.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
-
-When you're ready, run:
+## Setup
 
 ```bash
-npm run reset-project
+git clone https://github.com/madebyjan/Daily-Tech-News-Filter-.git
+cd Daily-Tech-News-Filter-
+pip install anthropic feedparser requests
+export ANTHROPIC_API_KEY=your_key_here
+python3 investor_signal.py
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## Stack
 
-To learn more about developing your project with Expo, look at the following resources:
+- **Python** — news aggregation and scheduling
+- **Claude API (Anthropic)** — LLM-powered relevance filtering
+- **GitHub Actions** — runs automatically every morning
+- **React Native** *(coming soon)* — mobile app for iOS and Android
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## Roadmap
 
-Join our community of developers creating universal apps.
+- [x] News aggregation (TechCrunch, Axios, Hacker News)
+- [x] Claude-powered filtering
+- [x] Daily automation via GitHub Actions
+- [ ] Mobile app (React Native)
+- [ ] Personalized filters by investment thesis
+- [ ] X/Twitter integration
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## Why this exists
+
+VCs read dozens of newsletters and check multiple feeds every morning. Most of it is noise. This tool uses AI to do the filtering — so you start your day with signal, not scroll.
+
+---
+
+Built by [@madebyjan](https://github.com/madebyjan)
