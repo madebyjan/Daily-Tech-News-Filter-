@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "source": "Hacker News",
-      "url": "https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/",
-      "why_it_matters": "AMD's ROCm progress signals a potential opening in the GPU compute stack, which could create opportunities for startups building AI infrastructure tools that aren't locked into NVIDIA's ecosystem."
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "why_it_matters": "Signals OpenAI's expansion into vertical AI applications, validating AI-native fintech as an acquisition target and potentially closing the window for standalone personal finance AI startups."
     },
     {
       "rank": 2,
-      "title": "Exploiting the most prominent AI agent benchmarks",
-      "source": "Hacker News",
-      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "why_it_matters": "Flawed AI agent benchmarks expose a gap in reliable evaluation tooling\u2014a potential opportunity for startups building trusted testing and validation infrastructure as enterprises demand accountability from AI deployments."
+      "title": "No company in American history has ever grown like Anthropic",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/13/anthropic-revenue-growth-ai",
+      "why_it_matters": "Anthropic's unprecedented revenue scaling reinforces the massive platform opportunity in foundation models and suggests enterprise AI spending is accelerating faster than any previous tech wave."
     },
     {
       "rank": 3,
-      "title": "Apple's accidental moat: How the 'AI Loser' may end up winning",
-      "source": "Hacker News",
-      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-      "why_it_matters": "Apple's on-device AI positioning could reshape distribution dynamics for AI startups, making iOS integration and privacy-first architectures more strategically valuable than pure model performance."
+      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
+      "why_it_matters": "A significant late-stage round in climate tech shows continued investor appetite for EV infrastructure plays, particularly in the underserved affordable vehicle segment."
     }
   ]
 }
