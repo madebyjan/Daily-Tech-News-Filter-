@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "title": "Financial risk management platform Pillar raises $20M seed in round led by a16z",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "why_it_matters": "Signals OpenAI's expansion into vertical AI applications, validating AI-native fintech as an acquisition target and potentially closing the window for standalone personal finance AI startups."
+      "url": "https://techcrunch.com/2026/04/14/financial-risk-management-platform-pillar-raises-20m-seed-in-round-led-by-a16z/",
+      "why_it_matters": "A $20M seed led by a16z for fintech infrastructure signals strong investor appetite for B2B tools that democratize sophisticated financial capabilities for SMBs\u2014a category with proven enterprise value creation."
     },
     {
       "rank": 2,
-      "title": "No company in American history has ever grown like Anthropic",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/13/anthropic-revenue-growth-ai",
-      "why_it_matters": "Anthropic's unprecedented revenue scaling reinforces the massive platform opportunity in foundation models and suggests enterprise AI spending is accelerating faster than any previous tech wave."
+      "title": "AI data center startup Fluidstack in talks for $1B round at $18B valuation months after hitting $7.5B, says report",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/14/ai-datacenter-startup-fluidstack-in-talks-for-1b-round-at-18b-valuation-months-after-hitting-7-5b-says-report/",
+      "why_it_matters": "The rapid 2.4x valuation jump validates AI infrastructure as the picks-and-shovels play of this cycle, suggesting early-stage opportunities in adjacent areas like cooling, power optimization, and data center tooling."
     },
     {
       "rank": 3,
-      "title": "Slate Auto raises $650M to fund its affordable EV truck plans",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/13/slate-auto-raises-650m-to-fund-its-affordable-ev-truck-plans/",
-      "why_it_matters": "A significant late-stage round in climate tech shows continued investor appetite for EV infrastructure plays, particularly in the underserved affordable vehicle segment."
+      "title": "OpenAI expands access to cyber AI as hacking risks grow",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/14/openai-model-cyber-program-release",
+      "why_it_matters": "OpenAI opening access to advanced cyber-capable models creates immediate startup opportunities in AI-powered security tools, while the access controls hint at emerging compliance frameworks founders will need to navigate."
     }
   ]
 }
