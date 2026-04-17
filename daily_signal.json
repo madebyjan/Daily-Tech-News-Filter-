@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "picks": [
     {
       "rank": 1,
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "why_it_matters": "A $22M Series A with 13M users signals strong investor appetite for AI-native edtech and validates consumer traction as a fundable thesis in the space."
+      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "why_it_matters": "A 3-year-old startup reaching unicorn status with Khosla leading signals continued strong appetite for AI dev tools and validates the enterprise AI coding market as a category worth watching at earlier stages."
     },
     {
       "rank": 2,
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "why_it_matters": "Growing $70M ARR in 20 months via AI agents shows the velocity possible when layering AI onto existing data infrastructure\u2014a playbook early-stage founders can replicate."
+      "url": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
+      "why_it_matters": "Demonstrates fintech spend management still has room for new entrants, and $300M ARR proof point shows younger founders can scale B2B companies\u2014a signal to take non-traditional founder profiles seriously."
     },
     {
       "rank": 3,
-      "title": "This energy startup's bet on 100-year-old grid tech is paying off",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/15/this-energy-startups-bet-on-100-year-old-grid-tech-is-paying-off/",
-      "why_it_matters": "Ayr Energy exploiting supply-chain bottlenecks in grid equipment highlights overlooked infrastructure gaps where startups can win without inventing new science."
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "source": "Hacker News",
+      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+      "why_it_matters": "High-performing open-weight models reaching developer zeitgeist (1000+ HN score) accelerates the commoditization of foundational AI, creating opportunities for startups building differentiated applications and tooling layers on top."
     }
   ]
 }
