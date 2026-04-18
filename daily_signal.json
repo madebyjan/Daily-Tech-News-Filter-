@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "picks": [
     {
       "rank": 1,
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "why_it_matters": "A 3-year-old startup reaching unicorn status with Khosla leading signals continued strong appetite for AI dev tools and validates the enterprise AI coding market as a category worth watching at earlier stages."
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "why_it_matters": "Cursor's meteoric rise from developer tool to $50B validates AI-native productivity software as a category and signals that enterprise GTM in dev tools can scale exceptionally fast\u2014a thesis worth watching for adjacent opportunities."
     },
     {
       "rank": 2,
-      "title": "Slash, a Ramp competitor founded by teenagers, raises $100M at $1.4B valuation",
+      "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/16/slash-a-ramp-competitor-founded-by-teenagers-raises-100m-at-1-4b-valuation/",
-      "why_it_matters": "Demonstrates fintech spend management still has room for new entrants, and $300M ARR proof point shows younger founders can scale B2B companies\u2014a signal to take non-traditional founder profiles seriously."
+      "url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
+      "why_it_matters": "A $95M Series C for supply chain AI shows continued investor appetite for vertical AI applications solving enterprise pain points, and Valor's involvement (major xAI backer) suggests smart money sees this as a durable category."
     },
     {
       "rank": 3,
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "source": "Hacker News",
-      "url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
-      "why_it_matters": "High-performing open-weight models reaching developer zeitgeist (1000+ HN score) accelerates the commoditization of foundational AI, creating opportunities for startups building differentiated applications and tooling layers on top."
+      "title": "Scoop: Anthropic to have peace talks at White House",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos",
+      "why_it_matters": "Anthropic's direct engagement with the White House signals that AI regulatory frameworks are being shaped now at the highest levels\u2014early-stage AI founders should anticipate compliance requirements emerging from these conversations."
     }
   ]
 }
