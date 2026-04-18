@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import {
   ActivityIndicator,
   Linking,
@@ -13,6 +13,7 @@ import {
 import * as Notifications from 'expo-notifications';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { WebView } from 'react-native-webview';
+import ExtantiaLogo from '../../assets/Extantia_Logo_White.svg';
 
 Notifications.setNotificationHandler({
   handleNotification: async () => ({
@@ -73,7 +74,7 @@ async function registerForPushNotifications() {
   });
 }
 
-export default function App() {
+export default function HomeScreen() {
   const [signal, setSignal] = useState<Signal | null>(null);
   const [loading, setLoading] = useState(true);
   const [refreshing, setRefreshing] = useState(false);
@@ -143,11 +144,12 @@ export default function App() {
     fetchSignal();
   }
 
+  // Onboarding Screen
   if (onboarded === false) {
     return (
       <SafeAreaView style={s.safe}>
         <ScrollView contentContainerStyle={s.onboarding}>
-          <Text style={s.logoText}>Extantia</Text>
+          <ExtantiaLogo width={140} height={36} />
           <Text style={s.obTitle}>Your daily edge{'\n'}as an investor.</Text>
           <Text style={s.obSub}>Every morning at 7 AM, AI curates the 3 most relevant VC news stories — just for you. Select your focus areas:</Text>
           <View style={s.topicsGrid}>
@@ -172,6 +174,7 @@ export default function App() {
     );
   }
 
+  // In-App Browser
   if (webUrl) {
     return (
       <SafeAreaView style={[s.safe, { backgroundColor: '#0E0E0E' }]}>
@@ -222,7 +225,7 @@ export default function App() {
       contentContainerStyle={s.container}
       refreshControl={<RefreshControl refreshing={refreshing} onRefresh={onRefresh} tintColor="#fff" />}
     >
-      <Text style={s.logoText}>Extantia</Text>
+      <ExtantiaLogo width={160} height={40} />
       <Text style={s.headline}>Daily Top 3{'\n'}VC News.</Text>
       <Text style={s.date}>{formatDate(signal.date)}</Text>
 
@@ -314,7 +317,6 @@ const s = StyleSheet.create({
   errorText:       { fontSize: 14, color: '#666', marginBottom: 16 },
   retryBtn:        { paddingHorizontal: 20, paddingVertical: 10, borderRadius: 4, borderWidth: 0.5, borderColor: BORDER },
   retryText:       { fontSize: 13, color: '#fff' },
-  logoText:        { fontSize: 20, fontWeight: '500', color: '#E8E4DC', letterSpacing: 1, marginBottom: 20 },
   onboarding:      { padding: 28, paddingTop: 60, paddingBottom: 48 },
   obTitle:         { fontSize: 34, fontWeight: '500', color: '#fff', lineHeight: 42, marginTop: 24, marginBottom: 16 },
   obSub:           { fontSize: 14, color: '#888', lineHeight: 22, marginBottom: 32 },
@@ -330,7 +332,7 @@ const s = StyleSheet.create({
   browserClose:    { fontSize: 14, color: '#fff' },
   browserUrl:      { flex: 1, fontSize: 12, color: '#555', marginHorizontal: 12 },
   browserOpen:     { fontSize: 13, color: '#888' },
-  headline:        { fontSize: 36, fontWeight: '500', color: '#fff', lineHeight: 42, marginBottom: 12 },
+  headline:        { fontSize: 36, fontWeight: '500', color: '#fff', lineHeight: 42, marginBottom: 12, marginTop: 20 },
   date:            { fontSize: 13, color: '#555', marginBottom: 12 },
   topicPills:      { marginBottom: 16 },
   pill:            { paddingHorizontal: 10, paddingVertical: 4, borderRadius: 20, borderWidth: 0.5, borderColor: BORDER, marginRight: 8 },
