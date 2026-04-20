@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-18",
+  "date": "2026-04-20",
   "picks": [
     {
       "rank": 1,
-      "title": "AI chip startup Cerebras files for IPO",
+      "title": "The 12-month window",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
-      "why_it_matters": "A major AI infrastructure exit signals continued appetite for AI hardware plays and validates the massive capital being deployed into compute infrastructure startups."
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "why_it_matters": "Signals a critical thesis shift for AI investing\u2014VCs must now evaluate whether startups can build defensible moats before foundation model providers expand into their verticals."
     },
     {
       "rank": 2,
-      "title": "NIST scientists create 'any wavelength' lasers",
-      "source": "Hacker News",
-      "url": "https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits",
-      "why_it_matters": "Breakthrough in tunable laser technology could unlock new startup opportunities in sensing, communications, medical devices, and quantum computing applications."
+      "title": "Scoop: NSA using Anthropic's Mythos despite Defense Department blacklist",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/19/nsa-anthropic-mythos-pentagon",
+      "why_it_matters": "Validates Anthropic's enterprise/gov positioning at the highest levels and signals growing fragmentation in federal AI procurement\u2014creating openings for startups building compliant AI infrastructure."
     },
     {
       "rank": 3,
-      "title": "Show HN: MDV \u2013 a Markdown superset for docs, dashboards, and slides with data",
+      "title": "The Bromine Chokepoint",
       "source": "Hacker News",
-      "url": "https://github.com/drasimwagan/mdv",
-      "why_it_matters": "Developer tools that reimagine documentation and data presentation represent a persistent category opportunity, and strong HN traction suggests founder-market resonance worth monitoring."
+      "url": "https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/",
+      "why_it_matters": "Combined with the RAM shortage story, highlights acute supply chain vulnerabilities in semiconductor manufacturing\u2014a potential catalyst for startups in materials alternatives, chip recycling, or memory-efficient computing."
     }
   ]
 }
