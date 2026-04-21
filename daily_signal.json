@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-17",
+  "date": "2026-04-21",
   "picks": [
     {
       "rank": 1,
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "why_it_matters": "Cursor's meteoric rise from developer tool to $50B validates AI-native productivity software as a category and signals that enterprise GTM in dev tools can scale exceptionally fast\u2014a thesis worth watching for adjacent opportunities."
+      "title": "Anthropic bites back in the compute wars with Amazon partnership",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/21/anthropic-amazon-compute-wars",
+      "why_it_matters": "A $100B+ compute commitment signals AI infrastructure is becoming a winner-take-most game, raising the bar for AI startups competing on model capabilities and potentially creating opportunities for startups building efficiency-focused or vertical AI solutions."
     },
     {
       "rank": 2,
-      "title": "Loop raises $95M to build supply chain AI that predicts disruptions",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/17/loop-raises-95m-to-build-supply-chain-ai-that-predicts-disruptions/",
-      "why_it_matters": "A $95M Series C for supply chain AI shows continued investor appetite for vertical AI applications solving enterprise pain points, and Valor's involvement (major xAI backer) suggests smart money sees this as a durable category."
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "source": "Hacker News",
+      "url": "https://qwen.ai/blog?id=qwen3.6-max-preview",
+      "why_it_matters": "Alibaba's continued rapid iteration on open-weight frontier models intensifies competition and lowers barriers for startups building AI applications, while potentially commoditizing the model layer faster than expected."
     },
     {
       "rank": 3,
-      "title": "Scoop: Anthropic to have peace talks at White House",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/17/anthropic-trump-administration-mythos",
-      "why_it_matters": "Anthropic's direct engagement with the White House signals that AI regulatory frameworks are being shaped now at the highest levels\u2014early-stage AI founders should anticipate compliance requirements emerging from these conversations."
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "source": "Hacker News",
+      "url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
+      "why_it_matters": "Major hardware regulation creates market openings for startups in modular device design, sustainable battery tech, and circular economy services targeting the EU's 450M consumers."
     }
   ]
 }
