@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-21",
+  "date": "2026-04-22",
   "picks": [
     {
       "rank": 1,
-      "title": "SpaceX says it has agreement to acquire Cursor for $60B",
-      "source": "Hacker News",
-      "url": "https://twitter.com/spacex/status/2046713419978453374",
-      "why_it_matters": "A $60B acquisition of an AI coding startup signals massive validation for developer tools and could reshape how later-stage AI infrastructure companies get valued\u2014creating both exit comps and competitive pressure for early-stage dev-tooling plays."
+      "title": "Esther and Anne Wojcicki back new healthcare accelerator, fund",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
+      "why_it_matters": "A new AI Health Fund and Treehub accelerator from proven operators signals fresh capital and co-investment opportunities at the intersection of healthcare and AI\u2014a sector seeing sustained founder and investor interest."
     },
     {
       "rank": 2,
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "why_it_matters": "A $40M seed round for an AI agents startup from academic research shows continued investor appetite for frontier AI bets and sets a high bar for competing seed-stage deals in the autonomous agent space."
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "why_it_matters": "10x Science's $4.8M seed round highlights a growing infrastructure opportunity: as AI-generated drug candidates explode, startups that help pharma validate and prioritize molecules become critical enabling layers."
     },
     {
       "rank": 3,
-      "title": "Former Pinterest team redesigns email with Extra \u2014 and it's actually good",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/21/former-pinterest-team-redesigns-email-with-extra-and-its-actually-good/",
-      "why_it_matters": "Strong founder pedigree from Pinterest tackling a massive, unsexy market like email is the kind of contrarian bet that can produce outlier returns if execution matches design DNA."
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "source": "Hacker News",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "why_it_matters": "A flagship-quality coding model at 27B parameters lowers the compute barrier for startups building AI-native dev tools, potentially reshaping the competitive landscape for code-generation applications."
     }
   ]
 }
