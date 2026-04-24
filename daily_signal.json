@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-22",
+  "date": "2026-04-23",
   "picks": [
     {
       "rank": 1,
-      "title": "Esther and Anne Wojcicki back new healthcare accelerator, fund",
+      "title": "Era raises $11M to build a software platform for AI gadgets",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/22/esther-and-anne-wojcicki-back-new-healthcare-accelerator-fund/",
-      "why_it_matters": "A new AI Health Fund and Treehub accelerator from proven operators signals fresh capital and co-investment opportunities at the intersection of healthcare and AI\u2014a sector seeing sustained founder and investor interest."
+      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "why_it_matters": "Fresh Series A signals investor conviction that AI hardware will fragment beyond phones\u2014creating platform opportunities similar to early mobile OS plays."
     },
     {
       "rank": 2,
-      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
+      "title": "Bret Taylor's Sierra buys YC-backed AI startup Fragment",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-      "why_it_matters": "10x Science's $4.8M seed round highlights a growing infrastructure opportunity: as AI-generated drug candidates explode, startups that help pharma validate and prioritize molecules become critical enabling layers."
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "why_it_matters": "Well-capitalized AI application layer companies are now acqui-hiring YC startups, shortening exit timelines and validating the AI agent customer service thesis."
     },
     {
       "rank": 3,
-      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
-      "source": "Hacker News",
-      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
-      "why_it_matters": "A flagship-quality coding model at 27B parameters lowers the compute barrier for startups building AI-native dev tools, potentially reshaping the competitive landscape for code-generation applications."
+      "title": "OpenAI releases \"Spud\" GPT-5.5 model",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/23/openai-releases-spud-gpt-model",
+      "why_it_matters": "Foundation model leapfrogging continues\u2014startups building on frontier capabilities need to reassess differentiation as the underlying intelligence layer keeps shifting weekly."
     }
   ]
 }
