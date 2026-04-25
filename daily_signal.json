@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "picks": [
     {
       "rank": 1,
-      "title": "Era raises $11M to build a software platform for AI gadgets",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "why_it_matters": "Fresh Series A signals investor conviction that AI hardware will fragment beyond phones\u2014creating platform opportunities similar to early mobile OS plays."
+      "title": "Google plans to invest up to $40B in Anthropic",
+      "source": "Hacker News / Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
+      "why_it_matters": "A $40B investment signals AI foundation model companies remain the most capital-intensive category in tech, reshaping competitive dynamics and raising the bar for what it takes to compete in enterprise AI."
     },
     {
       "rank": 2,
-      "title": "Bret Taylor's Sierra buys YC-backed AI startup Fragment",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "why_it_matters": "Well-capitalized AI application layer companies are now acqui-hiring YC startups, shortening exit timelines and validating the AI agent customer service thesis."
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "why_it_matters": "The $30M raise at a $500M valuation for open-source AI tooling validates the creator-control layer as a fundable category, opening opportunities for startups building workflow tools on top of generative models."
     },
     {
       "rank": 3,
-      "title": "OpenAI releases \"Spud\" GPT-5.5 model",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/23/openai-releases-spud-gpt-model",
-      "why_it_matters": "Foundation model leapfrogging continues\u2014startups building on frontier capabilities need to reassess differentiation as the underlying intelligence layer keeps shifting weekly."
+      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
+      "why_it_matters": "A $5M+ pre-seed for college founders building on iMessage shows investor appetite for AI-native social products and distribution strategies that leverage existing platform infrastructure."
     }
   ]
 }
