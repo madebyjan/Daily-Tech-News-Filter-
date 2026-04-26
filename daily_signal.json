@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-26",
   "picks": [
     {
       "rank": 1,
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "source": "Hacker News / Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "why_it_matters": "A $40B investment signals AI foundation model companies remain the most capital-intensive category in tech, reshaping competitive dynamics and raising the bar for what it takes to compete in enterprise AI."
+      "title": "India's Snabbit seeks fresh funding at a $400M valuation, sources say",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
+      "why_it_matters": "A fast-scaling Indian gig/jobs platform hitting 1M jobs and raising at $400M signals strong traction in India's services marketplace category\u2014worth tracking for competitive dynamics and potential co-investment or follow-on opportunities."
     },
     {
       "rank": 2,
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "why_it_matters": "The $30M raise at a $500M valuation for open-source AI tooling validates the creator-control layer as a fundable category, opening opportunities for startups building workflow tools on top of generative models."
+      "title": "America's Geothermal Breakthrough",
+      "source": "Hacker News",
+      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
+      "why_it_matters": "A potential 150GW geothermal unlock represents a major emerging platform for climate tech startups in drilling, grid integration, and energy software\u2014creating new investment categories beyond solar and wind."
     },
     {
       "rank": 3,
-      "title": "Two college kids raise a $5.1 million pre-seed to build an AI social network in iMessage",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/24/two-college-kids-raise-a-5-1-million-pre-seed-to-build-an-ai-social-network-in-imessage/",
-      "why_it_matters": "A $5M+ pre-seed for college founders building on iMessage shows investor appetite for AI-native social products and distribution strategies that leverage existing platform infrastructure."
+      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "source": "Hacker News",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "why_it_matters": "Demonstrates LLMs enabling non-experts to make research breakthroughs, validating the 'AI copilot for specialized domains' thesis and signaling opportunities for vertical AI tools in science and R&D."
     }
   ]
 }
