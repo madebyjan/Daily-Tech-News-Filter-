@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "picks": [
     {
       "rank": 1,
-      "title": "India's Snabbit seeks fresh funding at a $400M valuation, sources say",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/25/indias-snabbit-seeks-fresh-funding-at-a-400m-valuation-sources-say/",
-      "why_it_matters": "A fast-scaling Indian gig/jobs platform hitting 1M jobs and raising at $400M signals strong traction in India's services marketplace category\u2014worth tracking for competitive dynamics and potential co-investment or follow-on opportunities."
+      "title": "AI can cost more than human workers now",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
+      "why_it_matters": "Signals a potential market correction in AI infrastructure spending, creating opportunities for startups building more cost-efficient AI tooling or hybrid human-AI workflow solutions."
     },
     {
       "rank": 2,
-      "title": "America's Geothermal Breakthrough",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
       "source": "Hacker News",
-      "url": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/Americas-Geothermal-Breakthrough-Could-Unlock-a-150-Gigawatt-Energy-Revolution.html",
-      "why_it_matters": "A potential 150GW geothermal unlock represents a major emerging platform for climate tech startups in drilling, grid integration, and energy software\u2014creating new investment categories beyond solar and wind."
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "why_it_matters": "High-profile AI agent failures highlight an emerging whitespace for startups building AI safety rails, guardrails, and oversight tooling for autonomous systems in production environments."
     },
     {
       "rank": 3,
-      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
       "source": "Hacker News",
-      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-      "why_it_matters": "Demonstrates LLMs enabling non-experts to make research breakthroughs, validating the 'AI copilot for specialized domains' thesis and signaling opportunities for vertical AI tools in science and R&D."
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "why_it_matters": "OpenAI retiring a key benchmark signals rapid capability gains in AI coding agents, accelerating the timeline for startups building developer tools and raising the bar for differentiation."
     }
   ]
 }
