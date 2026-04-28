@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-27",
+  "date": "2026-04-28",
   "picks": [
     {
       "rank": 1,
-      "title": "AI can cost more than human workers now",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/26/ai-cost-human-workers",
-      "why_it_matters": "Signals a potential market correction in AI infrastructure spending, creating opportunities for startups building more cost-efficient AI tooling or hybrid human-AI workflow solutions."
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "source": "Hacker News",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
+      "why_it_matters": "A major restructuring of the most important AI partnership signals OpenAI may seek new capital partners and opens competitive opportunities for startups building on alternative foundation models."
     },
     {
       "rank": 2,
-      "title": "An AI agent deleted our production database. The agent's confession is below",
-      "source": "Hacker News",
-      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
-      "why_it_matters": "High-profile AI agent failures highlight an emerging whitespace for startups building AI safety rails, guardrails, and oversight tooling for autonomous systems in production environments."
+      "title": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
+      "why_it_matters": "Validates renewed investor appetite for operationally-intensive marketplace models in emerging markets, with unit economics improving at scale\u2014a template for similar plays in other geographies."
     },
     {
       "rank": 3,
-      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
-      "source": "Hacker News",
-      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-      "why_it_matters": "OpenAI retiring a key benchmark signals rapid capability gains in AI coding agents, accelerating the timeline for startups building developer tools and raising the bar for differentiation."
+      "title": "Investors back Skye's AI home screen app for iPhone ahead of launch",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch",
+      "why_it_matters": "Pre-launch funding for a consumer AI interface signals growing conviction that the OS/home screen layer is up for grabs as AI reshapes how users interact with their devices."
     }
   ]
 }
