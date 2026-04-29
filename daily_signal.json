@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "source": "Hacker News",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-      "why_it_matters": "A major restructuring of the most important AI partnership signals OpenAI may seek new capital partners and opens competitive opportunities for startups building on alternative foundation models."
+      "title": "OpenAI breaks free of Microsoft's cloud",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/28/openai-microsoft-cloud-amazon",
+      "why_it_matters": "OpenAI's multi-cloud expansion signals a major platform shift that will reshape enterprise AI distribution and create new partnership opportunities for startups building on foundation models."
     },
     {
       "rank": 2,
-      "title": "India's Snabbit closes $56M round as investor interest in on-demand home services heats up",
+      "title": "BCI startup Neurable looks to license its 'mind-reading' tech for consumer wearables",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/27/indias-snabbit-closes-56m-round-as-investor-interest-heats-up-in-on-demand-home-services/",
-      "why_it_matters": "Validates renewed investor appetite for operationally-intensive marketplace models in emerging markets, with unit economics improving at scale\u2014a template for similar plays in other geographies."
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "why_it_matters": "Neurable's licensing pivot signals BCI technology may be reaching commercial maturity for consumer applications, opening a potential platform play in the emerging neural interface category."
     },
     {
       "rank": 3,
-      "title": "Investors back Skye's AI home screen app for iPhone ahead of launch",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch",
-      "why_it_matters": "Pre-launch funding for a consumer AI interface signals growing conviction that the OS/home screen layer is up for grabs as AI reshapes how users interact with their devices."
+      "title": "Scoop: White House workshops plan to bring back Anthropic",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/04/29/trump-anthropic-pentagon-ai-executive-order-gov",
+      "why_it_matters": "Government AI procurement pathways reopening for frontier model providers could accelerate govtech startup opportunities and validate enterprise-grade safety standards as a competitive moat."
     }
   ]
 }
