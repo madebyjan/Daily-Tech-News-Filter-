@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI breaks free of Microsoft's cloud",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/28/openai-microsoft-cloud-amazon",
-      "why_it_matters": "OpenAI's multi-cloud expansion signals a major platform shift that will reshape enterprise AI distribution and create new partnership opportunities for startups building on foundation models."
+      "title": "Bill Gurley, Jack Altman back startup Pursuit, which helps companies sell to government",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+      "why_it_matters": "GovTech is heating up as top-tier VCs signal conviction in the space\u2014early-stage founders solving government procurement pain points now have clear proof of market appetite and a potential acquirer/partnership path."
     },
     {
       "rank": 2,
-      "title": "BCI startup Neurable looks to license its 'mind-reading' tech for consumer wearables",
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-      "why_it_matters": "Neurable's licensing pivot signals BCI technology may be reaching commercial maturity for consumer applications, opening a potential platform play in the emerging neural interface category."
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "why_it_matters": "Defense tech continues attracting significant capital for distributed manufacturing solutions, validating the thesis that modular, deployable production infrastructure is a fundable category beyond traditional defense primes."
     },
     {
       "rank": 3,
-      "title": "Scoop: White House workshops plan to bring back Anthropic",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/29/trump-anthropic-pentagon-ai-executive-order-gov",
-      "why_it_matters": "Government AI procurement pathways reopening for frontier model providers could accelerate govtech startup opportunities and validate enterprise-grade safety standards as a competitive moat."
+      "title": "BMW i Ventures has a new $300M fund and AI is riding shotgun",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+      "why_it_matters": "Corporate venture arms with fresh capital and explicit focus on agentic AI, physical AI, and industrial software represent both co-investment opportunities and strategic acquirer signals for founders in these verticals."
     }
   ]
 }
