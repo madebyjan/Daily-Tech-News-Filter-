@@ -1,26 +1,26 @@
 {
-  "date": "2026-04-30",
+  "date": "2026-05-01",
   "picks": [
     {
       "rank": 1,
-      "title": "Y Combinator alum Skio sells for $105M cash, only raised $8M, founder says",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/30/y-combinator-alum-skio-sells-for-105m-cash-only-raised-8m-founder-says/",
-      "why_it_matters": "A 13x return on just $8M raised demonstrates that capital-efficient startups in unsexy fintech infrastructure can still deliver exceptional outcomes for early investors."
+      "title": "Musely secures $360M from General Catalyst without giving up equity",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
+      "why_it_matters": "A $360M non-dilutive deal signals GC is experimenting with alternative capital structures that could reshape how growth-stage DTC companies finance customer acquisition\u2014worth watching if this model trickles down to earlier stages."
     },
     {
       "rank": 2,
-      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-      "why_it_matters": "The intensifying legal AI battle signals a maturing vertical AI market where adjacent opportunities (contract management, compliance, legal ops tooling) may emerge for early-stage founders."
+      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
+      "why_it_matters": "Major VCs vertically integrating into AI infrastructure reveals the compute bottleneck is so severe that investors are securing physical assets\u2014creating openings for startups solving power, cooling, or efficiency at the edge."
     },
     {
       "rank": 3,
-      "title": "Exclusive: Data center firm inks carbon removal deal as AI demand surges",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/04/30/data-center-deal-carbon-removal-ai",
-      "why_it_matters": "As AI infrastructure scales, data center operators face mounting pressure to offset emissions\u2014creating a growing market for climate tech startups targeting enterprise sustainability buyers."
+      "title": "Eka's robotic claw feels like we're approaching a ChatGPT moment",
+      "source": "Hacker News / Wired",
+      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+      "why_it_matters": "Emerging signal that robotics manipulation may be hitting an inflection point similar to LLMs in 2022\u2014early-stage VCs should be scouting founding teams building on this wave before valuations spike."
     }
   ]
 }
