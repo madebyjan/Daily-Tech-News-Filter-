@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-01",
+  "date": "2026-05-02",
   "picks": [
     {
       "rank": 1,
-      "title": "Musely secures $360M from General Catalyst without giving up equity",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/05/01/musely-secures-360m-from-general-catalyst-without-giving-up-equity/",
-      "why_it_matters": "A $360M non-dilutive deal signals GC is experimenting with alternative capital structures that could reshape how growth-stage DTC companies finance customer acquisition\u2014worth watching if this model trickles down to earlier stages."
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "why_it_matters": "A curated list of under-the-radar European startups represents potential deal flow and signals which sectors insiders see momentum building in."
     },
     {
       "rank": 2,
-      "title": "Coatue has a plan to buy up land for data centers, possibly for Anthropic",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/05/01/coatue-has-a-plan-to-buy-up-land-for-data-centers-possibly-for-anthropic/",
-      "why_it_matters": "Major VCs vertically integrating into AI infrastructure reveals the compute bottleneck is so severe that investors are securing physical assets\u2014creating openings for startups solving power, cooling, or efficiency at the edge."
+      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "source": "Hacker News",
+      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+      "why_it_matters": "Open-weights models matching frontier performance reshapes the AI infrastructure stack and creates opportunities for startups building on commoditized model layers."
     },
     {
       "rank": 3,
-      "title": "Eka's robotic claw feels like we're approaching a ChatGPT moment",
-      "source": "Hacker News / Wired",
-      "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-      "why_it_matters": "Emerging signal that robotics manipulation may be hitting an inflection point similar to LLMs in 2022\u2014early-stage VCs should be scouting founding teams building on this wave before valuations spike."
+      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+      "source": "Hacker News",
+      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
+      "why_it_matters": "State-level AI pricing regulation signals emerging compliance requirements that could both constrain and create market opportunities for B2B startups in retail tech."
     }
   ]
 }
