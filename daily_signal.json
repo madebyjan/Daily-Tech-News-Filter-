@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-04",
   "picks": [
     {
       "rank": 1,
-      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
-      "why_it_matters": "A curated list of under-the-radar European startups represents potential deal flow and signals which sectors insiders see momentum building in."
+      "title": "Trump administration considering safety review for new AI models",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/04/trump-white-house-ai-safety-tests-mythos",
+      "why_it_matters": "New federal AI safety testing requirements could create compliance hurdles for AI startups selling to government customers while potentially opening opportunities for safety/evaluation tooling companies."
     },
     {
       "rank": 2,
-      "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
       "source": "Hacker News",
-      "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-      "why_it_matters": "Open-weights models matching frontier performance reshapes the AI infrastructure stack and creates opportunities for startups building on commoditized model layers."
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "why_it_matters": "OpenAI revealing its voice infrastructure architecture signals real-time voice AI is maturing as a platform layer, creating opportunities for startups building voice-native applications on top."
     },
     {
       "rank": 3,
-      "title": "Maryland to ban A.I.-driven price increases in grocery stores",
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
       "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/05/01/business/surveillance-pricing-groceries-maryland.html",
-      "why_it_matters": "State-level AI pricing regulation signals emerging compliance requirements that could both constrain and create market opportunities for B2B startups in retail tech."
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "why_it_matters": "YC's potential multi-billion dollar OpenAI stake could significantly expand their capital base and influence LP dynamics across the early-stage ecosystem."
     }
   ]
 }
