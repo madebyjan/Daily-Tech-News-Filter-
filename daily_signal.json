@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "picks": [
     {
       "rank": 1,
-      "title": "Altara secures $7M to bridge the data gap that's slowing down physical sciences",
+      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "why_it_matters": "Early-stage deal in vertical AI for physical sciences R&D signals investor appetite for AI infrastructure plays beyond software, targeting the massive legacy data problem in biotech, materials, and manufacturing."
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "why_it_matters": "A $105M seed round for foundational robotics AI signals major investor conviction in embodied AI as the next platform shift\u2014watch for adjacent opportunities in simulation, sensors, and manipulation software."
     },
     {
       "rank": 2,
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-      "why_it_matters": "Major infrastructure players enabling autonomous AI agents to transact and deploy code represents a platform shift that will spawn a new wave of agentic startups and reshape how software gets built and distributed."
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "why_it_matters": "DeepSeek's efficient training approach validates that compute cost advantages can disrupt incumbents\u2014creating openings for startups building on cheaper, capable open-weight models rather than relying on expensive API providers."
     },
     {
       "rank": 3,
-      "title": "New frontier of AI forces Trump's heavy hand",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/05/trump-anthropic-ai-regulation-mythos-cyber/",
-      "why_it_matters": "Incoming federal AI gatekeeping for frontier models could create significant regulatory moats for well-capitalized incumbents while raising compliance costs and timelines for early-stage AI startups."
+      "title": "A 20-minute pitch wins Indian startup Pronto backing from Lachy Groom",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/06/a-20-minute-pitch-wins-indian-startup-pronto-backing-from-lachy-groom/",
+      "why_it_matters": "Pronto's 26K daily bookings and an $18B TAM in India's travel sector highlight high-velocity consumer marketplaces emerging in India as a compelling early-stage hunting ground."
     }
   ]
 }
