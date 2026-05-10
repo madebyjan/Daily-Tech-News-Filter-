@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-07",
+  "date": "2026-05-09",
   "picks": [
     {
       "rank": 1,
-      "title": "Voi founders' new AI startup Pit has become the latest rising star out of Stockholm",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "why_it_matters": "Serial founders with a successful exit (Voi) raising a $16M seed from a16z signals strong conviction in both the team and the European AI ecosystem\u2014worth tracking for co-investment or competitive landscape mapping."
+      "title": "Nvidia has already committed $40B to equity AI deals this year",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "why_it_matters": "Nvidia's aggressive $40B deployment signals continued AI infrastructure momentum and creates co-investment opportunities for early-stage VCs backing AI startups that could attract strategic capital."
     },
     {
       "rank": 2,
-      "title": "India's first space tech unicorn emerges as Skyroot gears up for orbital launch",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/07/indias-first-space-tech-unicorn-emerges-as-skyroot-gears-up-for-orbital-launch/",
-      "why_it_matters": "India's private space sector hitting unicorn status with imminent orbital launch validates the market opportunity and could unlock a wave of upstream/downstream space tech startups in the region."
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "why_it_matters": "Wispr Flow's Hinglish traction validates the emerging opportunity in multilingual voice AI for underserved markets\u2014a pattern worth watching for other regional AI plays."
     },
     {
       "rank": 3,
-      "title": "China's Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "why_it_matters": "Rapid revenue growth ($200M ARR) in open-source AI infrastructure signals a major platform shift\u2014early-stage VCs should look for application-layer startups building on top of these emerging open models."
+      "title": "EU Parliamentary Research Service calls VPNs 'a loophole that needs closing'",
+      "source": "Hacker News",
+      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
+      "why_it_matters": "Potential EU regulatory action on VPNs could reshape the privacy tech landscape, creating both risks for existing portfolio companies and opportunities in compliant identity/verification startups."
     }
   ]
 }
