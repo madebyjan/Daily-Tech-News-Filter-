@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-09",
+  "date": "2026-05-11",
   "picks": [
     {
       "rank": 1,
-      "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-      "why_it_matters": "Nvidia's aggressive $40B deployment signals continued AI infrastructure momentum and creates co-investment opportunities for early-stage VCs backing AI startups that could attract strategic capital."
+      "title": "Local AI needs to be the norm",
+      "source": "Hacker News",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "why_it_matters": "Signals growing developer momentum toward on-device AI inference, opening opportunities for startups building local-first AI infrastructure, edge deployment tools, and privacy-preserving ML solutions."
     },
     {
       "rank": 2,
-      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "why_it_matters": "Wispr Flow's Hinglish traction validates the emerging opportunity in multilingual voice AI for underserved markets\u2014a pattern worth watching for other regional AI plays."
+      "title": "Bumble plans a reset to lure Gen Z back",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/11/bumble-reset-gen-z-dating-apps",
+      "why_it_matters": "A major incumbent admitting product-market fit erosion with Gen Z validates whitespace for startups rethinking social discovery and dating with fresh engagement models."
     },
     {
       "rank": 3,
-      "title": "EU Parliamentary Research Service calls VPNs 'a loophole that needs closing'",
+      "title": "Hardware Attestation as Monopoly Enabler",
       "source": "Hacker News",
-      "url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-      "why_it_matters": "Potential EU regulatory action on VPNs could reshape the privacy tech landscape, creating both risks for existing portfolio companies and opportunities in compliant identity/verification startups."
+      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+      "why_it_matters": "High engagement on platform lock-in concerns suggests regulatory and market tailwinds for startups building open, interoperable alternatives to closed hardware/software ecosystems."
     }
   ]
 }
