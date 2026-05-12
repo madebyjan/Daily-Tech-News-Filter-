@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Local AI needs to be the norm",
-      "source": "Hacker News",
-      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-      "why_it_matters": "Signals growing developer momentum toward on-device AI inference, opening opportunities for startups building local-first AI infrastructure, edge deployment tools, and privacy-preserving ML solutions."
+      "title": "Korea's biggest manufacturers back Config, the TSMC of robot data",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
+      "why_it_matters": "Signals a major funding round in robotics infrastructure with strategic corporate backing, validating the emerging 'picks and shovels' opportunity in robot training data as the sector scales."
     },
     {
       "rank": 2,
-      "title": "Bumble plans a reset to lure Gen Z back",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/11/bumble-reset-gen-z-dating-apps",
-      "why_it_matters": "A major incumbent admitting product-market fit erosion with Gen Z validates whitespace for startups rethinking social discovery and dating with fresh engagement models."
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "source": "Hacker News",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "why_it_matters": "High-profile supply chain attack on a widely-used open source library highlights growing market opportunity for developer security and software supply chain startups."
     },
     {
       "rank": 3,
-      "title": "Hardware Attestation as Monopoly Enabler",
+      "title": "Interfaze: A new model architecture built for high accuracy at scale",
       "source": "Hacker News",
-      "url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-      "why_it_matters": "High engagement on platform lock-in concerns suggests regulatory and market tailwinds for startups building open, interoperable alternatives to closed hardware/software ecosystems."
+      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
+      "why_it_matters": "New AI model architectures challenging transformer dominance could reshape the foundation model landscape and create openings for startups building on alternative approaches."
     }
   ]
 }
