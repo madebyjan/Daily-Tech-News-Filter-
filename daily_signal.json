@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "picks": [
     {
       "rank": 1,
-      "title": "Korea's biggest manufacturers back Config, the TSMC of robot data",
+      "title": "Kevin Hartz's A* just closed its third fund with $450M",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/",
-      "why_it_matters": "Signals a major funding round in robotics infrastructure with strategic corporate backing, validating the emerging 'picks and shovels' opportunity in robot training data as the sector scales."
+      "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
+      "why_it_matters": "A* deploying $3-5M checks across 30+ startups in AI, fintech, healthcare, and security signals continued LP appetite for early-stage and creates a well-capitalized co-investor to partner with on deals."
     },
     {
       "rank": 2,
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
       "source": "Hacker News",
-      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-      "why_it_matters": "High-profile supply chain attack on a widely-used open source library highlights growing market opportunity for developer security and software supply chain startups."
+      "url": "https://github.com/cactus-compute/needle",
+      "why_it_matters": "A 26M parameter model matching large model tool-calling capabilities represents the kind of efficiency breakthrough that enables new startups to build AI-native products without massive compute costs."
     },
     {
       "rank": 3,
-      "title": "Interfaze: A new model architecture built for high accuracy at scale",
-      "source": "Hacker News",
-      "url": "https://interfaze.ai/blog/interfaze-a-new-model-architecture-built-for-high-accuracy-at-scale",
-      "why_it_matters": "New AI model architectures challenging transformer dominance could reshape the foundation model landscape and create openings for startups building on alternative approaches."
+      "title": "Marty Makary out as FDA chief",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/12/makary-out-fda-chief-turmoil",
+      "why_it_matters": "FDA leadership turnover creates regulatory uncertainty for healthtech and biotech startups\u2014founders should factor potential approval timeline shifts into their fundraising and go-to-market plans."
     }
   ]
 }
