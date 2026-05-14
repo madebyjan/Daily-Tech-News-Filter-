@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-12",
+  "date": "2026-05-13",
   "picks": [
     {
       "rank": 1,
-      "title": "Kevin Hartz's A* just closed its third fund with $450M",
+      "title": "Anduril raises $5B, doubles valuation to $61B",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/12/kevin-hartzs-a-just-closed-its-third-fund-with-450-million/",
-      "why_it_matters": "A* deploying $3-5M checks across 30+ startups in AI, fintech, healthcare, and security signals continued LP appetite for early-stage and creates a well-capitalized co-investor to partner with on deals."
+      "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
+      "why_it_matters": "Defense tech's largest private round signals sustained LP appetite for dual-use startups and validates the sector as a durable category for early-stage bets."
     },
     {
       "rank": 2,
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "source": "Hacker News",
-      "url": "https://github.com/cactus-compute/needle",
-      "why_it_matters": "A 26M parameter model matching large model tool-calling capabilities represents the kind of efficiency breakthrough that enables new startups to build AI-native products without massive compute costs."
+      "title": "Clio's $500M milestone arrives just as Anthropic ups the ante",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "why_it_matters": "Legal tech hitting $500M ARR amid AI model advances shows vertical SaaS categories are ripe for disruption by AI-native startups that can move faster than incumbents."
     },
     {
       "rank": 3,
-      "title": "Marty Makary out as FDA chief",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/12/makary-out-fda-chief-turmoil",
-      "why_it_matters": "FDA leadership turnover creates regulatory uncertainty for healthtech and biotech startups\u2014founders should factor potential approval timeline shifts into their fundraising and go-to-market plans."
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "source": "Hacker News",
+      "url": "https://github.com/cactus-compute/needle",
+      "why_it_matters": "A 26M-parameter model matching large model tool-calling capabilities points to edge AI infrastructure opportunities and cost-efficient agentic startups worth sourcing."
     }
   ]
 }
