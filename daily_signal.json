@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-13",
+  "date": "2026-05-14",
   "picks": [
     {
       "rank": 1,
-      "title": "Anduril raises $5B, doubles valuation to $61B",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/",
-      "why_it_matters": "Defense tech's largest private round signals sustained LP appetite for dual-use startups and validates the sector as a durable category for early-stage bets."
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "why_it_matters": "Signals strong VC appetite for AI-native vertical SaaS plays in back-office automation, and shows top firms still back founders with high-profile failures if the new thesis is compelling."
     },
     {
       "rank": 2,
-      "title": "Clio's $500M milestone arrives just as Anthropic ups the ante",
+      "title": "Lovable just backed a company that's looking to bring vibe coding to hardware",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "why_it_matters": "Legal tech hitting $500M ARR amid AI model advances shows vertical SaaS categories are ripe for disruption by AI-native startups that can move faster than incumbents."
+      "url": "https://techcrunch.com/2026/05/14/lovable-just-backed-a-company-thats-looking-to-bring-vibe-coding-to-hardware/",
+      "why_it_matters": "Pre-seed round with a16z and Sequoia scouts validates the emerging thesis that AI-assisted 'vibe coding' can expand beyond software into hardware development\u2014a category to watch for future deal flow."
     },
     {
       "rank": 3,
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "source": "Hacker News",
-      "url": "https://github.com/cactus-compute/needle",
-      "why_it_matters": "A 26M-parameter model matching large model tool-calling capabilities points to edge AI infrastructure opportunities and cost-efficient agentic startups worth sourcing."
+      "title": "The energy squeeze behind the Iran war and AI boom",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/14/energy-squeeze-iran-ai-boom",
+      "why_it_matters": "Energy constraints for AI infrastructure are creating urgent market opportunities for startups in power optimization, alternative energy, and data center efficiency."
     }
   ]
 }
