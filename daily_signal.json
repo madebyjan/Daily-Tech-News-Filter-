@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-15",
+  "date": "2026-05-16",
   "picks": [
     {
       "rank": 1,
-      "title": "Meridian Ventures launched a $35M fund with a focus on MBA-deferred founders",
+      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/15/meridian-ventures-launched-35m-fund-to-back-mba-deferred-founders/",
-      "why_it_matters": "A new pre-seed/seed competitor entering the market with a differentiated thesis around MBA-deferred founders signals continued appetite for enterprise tech and creates potential co-investment opportunities."
+      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
+      "why_it_matters": "Signals continued investor appetite for AI-native vertical SaaS, with Menlo's Anthropic-affiliated Anthology Fund validating the marketing automation space as a key AI application layer."
     },
     {
       "rank": 2,
-      "title": "The 3 big conflicts in AI race against China",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/15/us-china-ai-race-3-conflicts",
-      "why_it_matters": "The regulatory fragmentation between federal, state, and EU AI laws will create compliance burdens for AI startups but also opportunities for govtech and compliance-focused founders."
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "source": "Hacker News",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "why_it_matters": "Open-source video generation models at this quality level create new infrastructure for startups to build video-first applications without dependency on closed APIs or massive compute budgets."
     },
     {
       "rank": 3,
-      "title": "Scoop: Tech CEOs summoned to Capitol for June hearing",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/15/tech-ceos-grassley-june-hearing",
-      "why_it_matters": "Increased regulatory scrutiny on Big Tech often opens market gaps for startups in privacy, safety, and content moderation\u2014watch for deal flow in these adjacent spaces post-hearing."
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "why_it_matters": "ChatGPT-Codex integration signals OpenAI's push into developer tools, potentially reshaping competitive dynamics for startups building AI coding assistants or adjacent developer infrastructure."
     }
   ]
 }
