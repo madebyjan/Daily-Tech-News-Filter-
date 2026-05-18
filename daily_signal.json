@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-16",
+  "date": "2026-05-17",
   "picks": [
     {
       "rank": 1,
-      "title": "Marketing operating system Nectar Social raises $30M Series A led by Menlo",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/16/marketing-operating-system-nectar-social-raises-30m-series-a-in-round-led-by-menlo/",
-      "why_it_matters": "Signals continued investor appetite for AI-native vertical SaaS, with Menlo's Anthropic-affiliated Anthology Fund validating the marketing automation space as a key AI application layer."
+      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
+      "why_it_matters": "Eclipse's massive Cerebras exit validates the 'hard tech' investing thesis and signals continued LP appetite for physical-world infrastructure startups over pure software plays."
     },
     {
       "rank": 2,
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "source": "Hacker News",
-      "url": "https://nvlabs.github.io/Sana/WM/",
-      "why_it_matters": "Open-source video generation models at this quality level create new infrastructure for startups to build video-first applications without dependency on closed APIs or massive compute budgets."
+      "title": "Scoop: 60+ MAGA allies tell Trump to vet AI before release",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/18/trump-ai-steve-bannon-humans-first-letter",
+      "why_it_matters": "Pre-release government approval for frontier AI models would fundamentally reshape the competitive landscape, potentially favoring well-capitalized incumbents over agile AI startups."
     },
     {
       "rank": 3,
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "why_it_matters": "ChatGPT-Codex integration signals OpenAI's push into developer tools, potentially reshaping competitive dynamics for startups building AI coding assistants or adjacent developer infrastructure."
+      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
+      "source": "Hacker News",
+      "url": "https://github.com/MinishLab/semble",
+      "why_it_matters": "Strong HN traction (334 points) for AI-agent infrastructure tooling suggests a maturing market opportunity in the developer tools layer enabling autonomous coding agents."
     }
   ]
 }
