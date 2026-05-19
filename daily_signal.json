@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-17",
+  "date": "2026-05-19",
   "picks": [
     {
       "rank": 1,
-      "title": "For Eclipse, the $2.5B Cerebras win is just the start of realizing its physical-world thesis",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/05/17/for-eclipse-the-2-5b-cerebras-win-is-just-the-start-of-realizing-its-physical-world-thesis/",
-      "why_it_matters": "Eclipse's massive Cerebras exit validates the 'hard tech' investing thesis and signals continued LP appetite for physical-world infrastructure startups over pure software plays."
+      "title": "Anthropic acquires Stainless",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "why_it_matters": "A major AI lab acquiring developer tooling infrastructure signals consolidation in the AI stack and validates the API/SDK tooling category as a strategic investment area."
     },
     {
       "rank": 2,
-      "title": "Scoop: 60+ MAGA allies tell Trump to vet AI before release",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/18/trump-ai-steve-bannon-humans-first-letter",
-      "why_it_matters": "Pre-release government approval for frontier AI models would fundamentally reshape the competitive landscape, potentially favoring well-capitalized incumbents over agile AI startups."
+      "title": "South Korea's LetinAR is building optics behind AI glasses",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "why_it_matters": "As AI glasses emerge as a major platform shift, deep-tech component suppliers like LetinAR represent potential picks-and-shovels plays with multiple acquirer paths."
     },
     {
       "rank": 3,
-      "title": "Show HN: Semble \u2013 Code search for agents that uses 98% fewer tokens than grep",
-      "source": "Hacker News",
-      "url": "https://github.com/MinishLab/semble",
-      "why_it_matters": "Strong HN traction (334 points) for AI-agent infrastructure tooling suggests a maturing market opportunity in the developer tools layer enabling autonomous coding agents."
+      "title": "Congress is scrambling to regulate prediction markets",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/19/prediction-market-kalshi-polymarket-bill-congress",
+      "why_it_matters": "Regulatory clarity\u2014or crackdown\u2014on prediction markets will reshape the opportunity set for fintech founders building in forecasting, information markets, and adjacent categories."
     }
   ]
 }
