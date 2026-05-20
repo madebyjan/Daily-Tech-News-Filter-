@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Anthropic acquires Stainless",
-      "source": "Hacker News",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "why_it_matters": "A major AI lab acquiring developer tooling infrastructure signals consolidation in the AI stack and validates the API/SDK tooling category as a strategic investment area."
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/19/anthropic-openai-karpathy-andrej-claude",
+      "why_it_matters": "A top-tier AI researcher moving from OpenAI to Anthropic signals shifting talent dynamics in the foundation model race and could reshape competitive positioning among AI infrastructure players that startups build on."
     },
     {
       "rank": 2,
-      "title": "South Korea's LetinAR is building optics behind AI glasses",
+      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "why_it_matters": "As AI glasses emerge as a major platform shift, deep-tech component suppliers like LetinAR represent potential picks-and-shovels plays with multiple acquirer paths."
+      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+      "why_it_matters": "A $28M raise for AI-native email security validates the emerging category of defensive AI tools built to counter AI-generated threats\u2014a market likely to expand as phishing attacks become more sophisticated."
     },
     {
       "rank": 3,
-      "title": "Congress is scrambling to regulate prediction markets",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/19/prediction-market-kalshi-polymarket-bill-congress",
-      "why_it_matters": "Regulatory clarity\u2014or crackdown\u2014on prediction markets will reshape the opportunity set for fintech founders building in forecasting, information markets, and adjacent categories."
+      "title": "Stilta raises $10.5M from a16z and YC to help companies rediscover the patents they forgot they had",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/19/legal-tech-announced-stilta-announces-10m-seed-backed-by-yc-and-a16z-months-after-launch/",
+      "why_it_matters": "Top-tier investors backing AI-powered legal tech just months after launch suggests strong early traction and growing appetite for AI automation in traditionally manual, high-margin professional services."
     }
   ]
 }
