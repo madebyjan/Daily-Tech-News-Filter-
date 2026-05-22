@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-22",
   "picks": [
     {
       "rank": 1,
-      "title": "Sam Altman makes 'mic drop' offer to every Y Combinator startup",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/20/sam-altman-makes-mic-drop-offer-to-every-y-combinator-startup/",
-      "why_it_matters": "OpenAI offering tokens-for-equity to every YC startup signals a major shift in how AI infrastructure companies may compete for early-stage deal flow, potentially disrupting traditional VC dynamics and creating a new class of strategic investor."
+      "title": "Fusion energy poised for simpler U.S. review",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/22/fusion-energy-simpler-federal-review",
+      "why_it_matters": "Simplified federal permitting for fusion could accelerate commercialization timelines and make fusion startups significantly more attractive investment opportunities."
     },
     {
       "rank": 2,
-      "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+      "title": "Maka Kids is redefining kids' screen time with a streaming app optimized for well-being, not engagement",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "why_it_matters": "A founder rejecting a $20M acquisition for a $12M seed round signals strong conviction in the AI agent infrastructure space, and sandboxed/containerized agent execution is emerging as a critical security layer VCs should watch."
+      "url": "https://techcrunch.com/2026/05/21/maka-kids-is-redefining-kids-screen-time-with-a-streaming-app-optimized-for-well-being-not-engagement/",
+      "why_it_matters": "A $3M seed round signals investor appetite for children's digital wellness\u2014a category poised to grow as parents and regulators push back against engagement-maximizing algorithms."
     },
     {
       "rank": 3,
-      "title": "This startup raised $43M to build a hive mind for ships",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/20/this-startup-raised-43m-to-build-a-hive-mind-for-ships/",
-      "why_it_matters": "A $43M raise for maritime sensor technology highlights growing investor appetite for defense-adjacent and logistics infrastructure plays that modernize legacy systems with real-time data networks."
+      "title": "Convective Capital raises an $85 million fund to build disaster resilience",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/05/21/convective-capital-raises-an-85-million-fund-to-build-disaster-resilience/",
+      "why_it_matters": "New dedicated capital for climate resilience tech validates the category and signals co-investment opportunities for early-stage VCs backing startups in fire, flood, and disaster response."
     }
   ]
 }
