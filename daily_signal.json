@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "picks": [
     {
       "rank": 1,
-      "title": "Peec, one of Berlin's rising startups, more than doubled annualized revenue in months to $10M, sources say",
+      "title": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/23/peec-one-of-berlins-rising-startups-more-than-doubled-annualized-revenue-in-months-to-10m-sources-say/",
-      "why_it_matters": "AI search optimization is emerging as a fundable category with real revenue traction, signaling a new infrastructure layer as brands shift discovery spend from traditional SEO to LLM visibility."
+      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
+      "why_it_matters": "Signals strong VC appetite for climate tech in emerging markets, with India's rooftop solar sector reaching growth-stage valuations that validate earlier bets in the space."
     },
     {
       "rank": 2,
-      "title": "Fusion energy poised for simpler U.S. review",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/22/fusion-energy-simpler-federal-review",
-      "why_it_matters": "Streamlined federal permitting for fusion dramatically de-risks the regulatory timeline for fusion startups, potentially accelerating deployment and making the sector more attractive for early-stage capital."
+      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "source": "Hacker News",
+      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
+      "why_it_matters": "Major regulatory shift that could disrupt startup talent pipelines and create urgency for immigration tech solutions, remote work infrastructure, and global hiring platforms."
     },
     {
       "rank": 3,
-      "title": "How VCs and founders use inflated 'ARR' to crown AI startups",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "why_it_matters": "Due diligence on AI deals requires extra scrutiny on revenue quality\u2014understanding which metrics are being stretched helps early-stage VCs avoid overpaying and identify founders with genuine traction."
+      "title": "The end of the internet's golden age",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/23/google-search-internet-social-media",
+      "why_it_matters": "Google's AI search overhaul fundamentally changes discovery economics, creating both existential risk for SEO-dependent startups and openings for new distribution models."
     }
   ]
 }
