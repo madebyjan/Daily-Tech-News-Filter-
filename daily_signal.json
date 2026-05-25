@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "picks": [
     {
       "rank": 1,
-      "title": "SolarSquare in talks to raise up to $60M as India's rooftop solar market draws major VC interest",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/23/solarsquare-in-talks-to-raise-up-to-60m-as-indias-rooftop-solar-market-draws-major-vc-interest/",
-      "why_it_matters": "Signals strong VC appetite for climate tech in emerging markets, with India's rooftop solar sector reaching growth-stage valuations that validate earlier bets in the space."
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "source": "Hacker News",
+      "url": "https://esengine.github.io/DeepSeek-Reasonix/",
+      "why_it_matters": "Low-cost AI coding agents signal commoditization of dev tools, creating opportunities for startups building differentiated vertical applications on top of cheaper inference."
     },
     {
       "rank": 2,
-      "title": "Green card seekers must leave U.S. to apply, Trump administration says",
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
       "source": "Hacker News",
-      "url": "https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html",
-      "why_it_matters": "Major regulatory shift that could disrupt startup talent pipelines and create urgency for immigration tech solutions, remote work infrastructure, and global hiring platforms."
+      "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+      "why_it_matters": "Memory becoming the dominant cost driver in AI hardware creates investment opportunities in memory-efficient architectures, novel memory technologies, and infrastructure startups optimizing for this constraint."
     },
     {
       "rank": 3,
-      "title": "The end of the internet's golden age",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/23/google-search-internet-social-media",
-      "why_it_matters": "Google's AI search overhaul fundamentally changes discovery economics, creating both existential risk for SEO-dependent startups and openings for new distribution models."
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2605.06445",
+      "why_it_matters": "Research exposing reliability gaps in LLM code agents highlights whitespace for startups building guardrails, testing frameworks, and human-in-the-loop tooling for AI-assisted development."
     }
   ]
 }
