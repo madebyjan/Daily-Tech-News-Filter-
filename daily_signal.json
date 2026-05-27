@@ -1,26 +1,26 @@
 {
-  "date": "2025-05-26",
+  "date": "2026-05-27",
   "picks": [
     {
       "rank": 1,
-      "title": "What ClickUp's mass layoff tells us about the future of work",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "why_it_matters": "A major SaaS company replacing hundreds of employees with AI agents signals a fundamental shift in startup economics and headcount assumptions that will reshape how founders build and VCs model workforce-light companies."
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "why_it_matters": "5x usage growth in six months validates the multi-model AI infrastructure layer thesis, signaling opportunity for startups building model-agnostic tooling and orchestration."
     },
     {
       "rank": 2,
-      "title": "The pitch trick that helped an eSports startup raise $20M when VCs only wanted AI",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/25/the-pitch-trick-that-helped-an-esports-startup-raise-20m-when-vcs-only-wanted-ai/",
-      "why_it_matters": "A $20M raise in a non-AI vertical provides tactical insight into how founders are successfully navigating the current AI-dominated funding environment\u2014useful intelligence for evaluating pitches from non-AI startups."
+      "title": "Dropbox CEO Drew Houston to step down",
+      "source": "Hacker News",
+      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
+      "why_it_matters": "A iconic founder stepping down from a mature SaaS company may free up experienced talent and signal renewed disruption opportunities in cloud storage and productivity."
     },
     {
       "rank": 3,
-      "title": "CISA sidelined as White House scrambles on AI cyber threats",
+      "title": "Tech giants back new data center climate initiative",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/26/cisa-white-house-cybersecurity-ai",
-      "why_it_matters": "Government fragmentation on AI cybersecurity creates both market opportunity for startups filling the gap and regulatory uncertainty that could affect AI security and compliance-focused investments."
+      "url": "https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative",
+      "why_it_matters": "Big tech using AI data centers as test beds for climate tech creates a new enterprise sales channel and validation pathway for early-stage cleantech and efficiency startups."
     }
   ]
 }
