@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "title": "SOND, a sleep tech startup from Bose's former head of sleep, exits stealth with $7M",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "why_it_matters": "5x usage growth in six months validates the multi-model AI infrastructure layer thesis, signaling opportunity for startups building model-agnostic tooling and orchestration."
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "why_it_matters": "Strong founder-market fit signal\u2014experienced hardware executive from Bose spinning out with domain expertise in an underserved consumer health category represents the type of early-stage opportunity worth tracking."
     },
     {
       "rank": 2,
-      "title": "Dropbox CEO Drew Houston to step down",
-      "source": "Hacker News",
-      "url": "https://www.cnbc.com/2026/05/26/dropbox-ceo-drew-houston-ashraf-alkarmi.html",
-      "why_it_matters": "A iconic founder stepping down from a mature SaaS company may free up experienced talent and signal renewed disruption opportunities in cloud storage and productivity."
+      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
+      "why_it_matters": "Battery-led Series B in vertical AI for healthcare signals continued investor appetite for domain-specific AI applications with clear enterprise buyers and regulatory moats."
     },
     {
       "rank": 3,
-      "title": "Tech giants back new data center climate initiative",
+      "title": "Corporate America enters its AI reckoning",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/27/tech-giants-data-center-climate-initiative",
-      "why_it_matters": "Big tech using AI data centers as test beds for climate tech creates a new enterprise sales channel and validation pathway for early-stage cleantech and efficiency startups."
+      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+      "why_it_matters": "Enterprise AI ROI skepticism creates opportunity for startups that can demonstrate measurable value and shorter payback periods versus bloated incumbent solutions."
     }
   ]
 }
