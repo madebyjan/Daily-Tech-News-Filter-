@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "picks": [
     {
       "rank": 1,
-      "title": "SOND, a sleep tech startup from Bose's former head of sleep, exits stealth with $7M",
+      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "why_it_matters": "Strong founder-market fit signal\u2014experienced hardware executive from Bose spinning out with domain expertise in an underserved consumer health category represents the type of early-stage opportunity worth tracking."
+      "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
+      "why_it_matters": "Strategic corporate investment from CVS validates that vertical SaaS with proprietary data moats can still command funding even as AI threatens commodity workflow tools\u2014a thesis early-stage investors should note when evaluating defensibility."
     },
     {
       "rank": 2,
-      "title": "Triomics nabs $22M to bring oncology-specific AI to cancer centers",
+      "title": "Why Paris may be the most important AI city outside Silicon Valley",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/27/triomics-nabs-22m-to-bring-oncology-specific-ai-to-cancer-centers/",
-      "why_it_matters": "Battery-led Series B in vertical AI for healthcare signals continued investor appetite for domain-specific AI applications with clear enterprise buyers and regulatory moats."
+      "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
+      "why_it_matters": "Signals a maturing European founder ecosystem willing to scale locally, opening new sourcing opportunities for VCs looking beyond the Bay Area for AI talent at potentially better valuations."
     },
     {
       "rank": 3,
-      "title": "Corporate America enters its AI reckoning",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-      "why_it_matters": "Enterprise AI ROI skepticism creates opportunity for startups that can demonstrate measurable value and shorter payback periods versus bloated incumbent solutions."
+      "title": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "why_it_matters": "Demonstrates that enterprise AI startups can win against Big Tech incumbents by focusing on cost reduction ROI\u2014a go-to-market positioning early-stage founders should consider as enterprises shift from AI experimentation to deployment."
     }
   ]
 }
