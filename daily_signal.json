@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "picks": [
     {
       "rank": 1,
-      "title": "H1 secures $40M from CVS, proving SaaS startups can still attract investment",
+      "title": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute \u2014 it's memory",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/28/h1-secures-40m-from-cvs-proving-saas-startups-can-still-attract-investment/",
-      "why_it_matters": "Strategic corporate investment from CVS validates that vertical SaaS with proprietary data moats can still command funding even as AI threatens commodity workflow tools\u2014a thesis early-stage investors should note when evaluating defensibility."
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "why_it_matters": "A $135M Series raise at $570M valuation signals strong investor conviction in memory-as-bottleneck thesis, potentially opening opportunities for startups building memory-optimized AI infrastructure."
     },
     {
       "rank": 2,
-      "title": "Why Paris may be the most important AI city outside Silicon Valley",
+      "title": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/28/why-paris-may-be-the-most-important-ai-city-outside-silicon-valley/",
-      "why_it_matters": "Signals a maturing European founder ecosystem willing to scale locally, opening new sourcing opportunities for VCs looking beyond the Bay Area for AI talent at potentially better valuations."
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "why_it_matters": "Groq's pivot from hardware to AI inference software while raising at scale validates inference as a massive market opportunity and suggests strategic openings for startups in the inference stack."
     },
     {
       "rank": 3,
-      "title": "Glean's top line crosses $300M as AI budget-cutting becomes its major selling point",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "why_it_matters": "Demonstrates that enterprise AI startups can win against Big Tech incumbents by focusing on cost reduction ROI\u2014a go-to-market positioning early-stage founders should consider as enterprises shift from AI experimentation to deployment."
+      "title": "Shift will clean homes for free to train future robots",
+      "source": "Hacker News",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "why_it_matters": "A novel data-collection-as-service model for robotics training data signals creative approaches to the real-world data bottleneck that could spawn new startup models in embodied AI."
     }
   ]
 }
