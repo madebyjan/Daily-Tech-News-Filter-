@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "picks": [
     {
       "rank": 1,
-      "title": "This chip startup just raised $135M on a bet that AI's biggest bottleneck isn't compute \u2014 it's memory",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "why_it_matters": "A $135M Series raise at $570M valuation signals strong investor conviction in memory-as-bottleneck thesis, potentially opening opportunities for startups building memory-optimized AI infrastructure."
+      "title": "OpenRouter raises $113M Series B",
+      "source": "Hacker News",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "why_it_matters": "Major growth-stage funding in AI infrastructure signals continued investor appetite for picks-and-shovels plays in the LLM ecosystem, and validates the API routing/aggregation layer as a durable category."
     },
     {
       "rank": 2,
-      "title": "After Nvidia's $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
+      "title": "Snap alums unveil Ghost Angels fund",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "why_it_matters": "Groq's pivot from hardware to AI inference software while raising at scale validates inference as a massive market opportunity and suggests strategic openings for startups in the inference stack."
+      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
+      "why_it_matters": "New operator-angel funds create co-investment opportunities and signal where experienced builders see whitespace\u2014here it's the next wave of social apps, a sector ripe for disruption."
     },
     {
       "rank": 3,
-      "title": "Shift will clean homes for free to train future robots",
-      "source": "Hacker News",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "why_it_matters": "A novel data-collection-as-service model for robotics training data signals creative approaches to the real-world data bottleneck that could spawn new startup models in embodied AI."
+      "title": "Scoop: First Windows PCs powered by Nvidia chips to debut next week",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
+      "why_it_matters": "Nvidia entering consumer PC silicon reshapes the competitive landscape and could unlock new on-device AI startup opportunities as edge compute capabilities expand dramatically."
     }
   ]
 }
