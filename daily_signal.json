@@ -1,26 +1,26 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-06-01",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenRouter raises $113M Series B",
-      "source": "Hacker News",
-      "url": "https://openrouter.ai/announcements/series-b",
-      "why_it_matters": "Major growth-stage funding in AI infrastructure signals continued investor appetite for picks-and-shovels plays in the LLM ecosystem, and validates the API routing/aggregation layer as a durable category."
+      "title": "Black founders raise highest amount of quarterly funding since 2022, but there's a catch",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
+      "why_it_matters": "Signals a potential thawing in undercapitalized founder segments, presenting both a sourcing opportunity and a reminder that network-driven deal access remains a structural barrier VCs can exploit or help solve."
     },
     {
       "rank": 2,
-      "title": "Snap alums unveil Ghost Angels fund",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/30/snap-alums-unveil-ghost-angels-fund/",
-      "why_it_matters": "New operator-angel funds create co-investment opportunities and signal where experienced builders see whitespace\u2014here it's the next wave of social apps, a sector ripe for disruption."
+      "title": "Nvidia's new world model helps robots navigate the world",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model",
+      "why_it_matters": "Open-source world models from Nvidia lower the barrier for robotics and AV startups, creating a new infrastructure layer that could spawn fundable applications in embodied AI."
     },
     {
       "rank": 3,
-      "title": "Scoop: First Windows PCs powered by Nvidia chips to debut next week",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/05/30/nvidia-microsoft-pcs-ai-surface-dell",
-      "why_it_matters": "Nvidia entering consumer PC silicon reshapes the competitive landscape and could unlock new on-device AI startup opportunities as edge compute capabilities expand dramatically."
+      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "source": "Hacker News",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "why_it_matters": "Efficient on-device generative models unlock edge AI startup opportunities in privacy-sensitive verticals where cloud dependency is a dealbreaker."
     }
   ]
 }
