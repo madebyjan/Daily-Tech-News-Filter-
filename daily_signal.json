@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Black founders raise highest amount of quarterly funding since 2022, but there's a catch",
+      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/05/31/black-founders-raise-highest-amount-of-quarterly-funding-since-2022-but-theres-a-catch/",
-      "why_it_matters": "Signals a potential thawing in undercapitalized founder segments, presenting both a sourcing opportunity and a reminder that network-driven deal access remains a structural barrier VCs can exploit or help solve."
+      "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
+      "why_it_matters": "A $300M raise at 4x valuation growth in 12 months signals sustained LP appetite for defense tech and validates autonomous vehicles as a hot category for follow-on rounds."
     },
     {
       "rank": 2,
-      "title": "Nvidia's new world model helps robots navigate the world",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/01/nvidia-ai-push-cosmos-3-world-model",
-      "why_it_matters": "Open-source world models from Nvidia lower the barrier for robotics and AV startups, creating a new infrastructure layer that could spawn fundable applications in embodied AI."
+      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
+      "why_it_matters": "Schroepfer's Gigascale Capital entering climate creates a well-capitalized co-investor for early-stage climate deals and signals big tech talent sees opportunity in energy/materials startups."
     },
     {
       "rank": 3,
-      "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "source": "Hacker News",
-      "url": "https://prismml.com/news/bonsai-image-4b",
-      "why_it_matters": "Efficient on-device generative models unlock edge AI startup opportunities in privacy-sensitive verticals where cloud dependency is a dealbreaker."
+      "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/local/tampa-bay/2026/06/01/florida-openai-ceo-sam-altman-chatgpt",
+      "why_it_matters": "State-level AI litigation creates regulatory uncertainty that could shape disclosure requirements and liability frameworks for any startup building on or competing with foundation models."
     }
   ]
 }
