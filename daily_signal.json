@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "picks": [
     {
       "rank": 1,
-      "title": "Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year",
+      "title": "Ex-Anduril engineer raises $42M to build the Amazon of composite parts",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/",
-      "why_it_matters": "A $300M raise at 4x valuation growth in 12 months signals sustained LP appetite for defense tech and validates autonomous vehicles as a hot category for follow-on rounds."
+      "url": "https://techcrunch.com/2026/06/02/ex-anduril-engineer-raises-42m-to-build-the-amazon-of-composite-parts/",
+      "why_it_matters": "Strong founder pedigree (Anduril, SpaceX) attacking a fragmented manufacturing vertical signals continued investor appetite for defense-adjacent industrial tech plays."
     },
     {
       "rank": 2,
-      "title": "Zigging when most are zagging, ex-Meta CTO raises $250M climate fund",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/06/01/zigging-when-most-are-zagging-ex-meta-cto-raises-250m-climate-fund/",
-      "why_it_matters": "Schroepfer's Gigascale Capital entering climate creates a well-capitalized co-investor for early-stage climate deals and signals big tech talent sees opportunity in energy/materials startups."
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "why_it_matters": "AI compliance infrastructure is emerging as a must-have category as enterprise adoption accelerates, creating greenfield opportunities for startups building the safety/governance layer."
     },
     {
       "rank": 3,
-      "title": "Florida sues OpenAI and CEO Sam Altman over ChatGPT",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/local/tampa-bay/2026/06/01/florida-openai-ceo-sam-altman-chatgpt",
-      "why_it_matters": "State-level AI litigation creates regulatory uncertainty that could shape disclosure requirements and liability frameworks for any startup building on or competing with foundation models."
+      "title": "MAI-Code-1-Flash",
+      "source": "Hacker News",
+      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "why_it_matters": "Microsoft's new coding model release signals the AI coding assistant space is heating up, which could both threaten existing dev tools startups and create new platform opportunities."
     }
   ]
 }
