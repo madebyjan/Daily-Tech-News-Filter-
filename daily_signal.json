@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "picks": [
     {
       "rank": 1,
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "why_it_matters": "Signals a maturing AI infrastructure stack where observability for autonomous agents is becoming a fundable category, creating opportunities for early-stage startups building adjacent tooling."
+      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
+      "why_it_matters": "A massive late-stage raise for fusion energy signals deepening investor conviction in hard tech and energy infrastructure plays, with AI-driven power demand creating urgent market pull for breakthrough energy solutions."
     },
     {
       "rank": 2,
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "why_it_matters": "Demonstrates the opportunity in applying AI infrastructure to underserved emerging markets (Africa, Middle East), a thesis early-stage VCs can replicate across other vertical applications."
+      "title": "VoidZero Is Joining Cloudflare",
+      "source": "Hacker News",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "why_it_matters": "A high-profile developer tools acquisition by Cloudflare validates the infrastructure/DevEx space and signals potential exit pathways for startups building in the JavaScript tooling ecosystem."
     },
     {
       "rank": 3,
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "source": "Hacker News",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-      "why_it_matters": "A capable open-weight multimodal model at 12B parameters lowers the barrier for startups to build differentiated AI applications without depending on expensive proprietary API costs."
+      "title": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is.",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+      "why_it_matters": "A fourth-generation home robot release indicates maturing hardware-AI integration and potential timing for consumer robotics investments as costs decrease and capabilities improve."
     }
   ]
 }
