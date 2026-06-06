@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "picks": [
     {
       "rank": 1,
-      "title": "Helion, the Sam Altman-backed fusion startup, raises $465M to build a power plant for Microsoft",
+      "title": "Supabase doubles valuation to $10B in 8 months",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/04/helion-the-sam-altman-backed-fusion-startup-raises-465m-to-build-a-power-plant-for-microsoft/",
-      "why_it_matters": "A massive late-stage raise for fusion energy signals deepening investor conviction in hard tech and energy infrastructure plays, with AI-driven power demand creating urgent market pull for breakthrough energy solutions."
+      "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
+      "why_it_matters": "Validates that open-source developer tools leveraged by AI coding assistants represent a massive growth category\u2014signal to look for similar picks-and-shovels plays in the AI infrastructure stack."
     },
     {
       "rank": 2,
-      "title": "VoidZero Is Joining Cloudflare",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-      "why_it_matters": "A high-profile developer tools acquisition by Cloudflare validates the infrastructure/DevEx space and signals potential exit pathways for startups building in the JavaScript tooling ecosystem."
+      "title": "Reid Hoffman is leaving Microsoft's board to go 'founder mode' with startup Manus",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
+      "why_it_matters": "A legendary founder-investor going full-time on AI drug discovery signals conviction in the AI+biotech intersection and will likely catalyze dealflow and co-investment opportunities in the space."
     },
     {
       "rank": 3,
-      "title": "Is Silicon Valley ready to put robots in people's homes? Hello Robot is.",
+      "title": "The 'together tech' wave might be the most intriguing startup bet of 2026",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "why_it_matters": "A fourth-generation home robot release indicates maturing hardware-AI integration and potential timing for consumer robotics investments as costs decrease and capabilities improve."
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "why_it_matters": "Emerging counter-trend to screen addiction with funded founders like Brynn Putnam building IRL social experiences\u2014worth tracking as a potential contrarian thesis while AI dominates most portfolios."
     }
   ]
 }
