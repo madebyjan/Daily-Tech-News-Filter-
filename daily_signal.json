@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "picks": [
     {
       "rank": 1,
-      "title": "Supabase doubles valuation to $10B in 8 months",
+      "title": "Beyond Instagram: Introducing the next generation of social apps",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/05/supabase-doubles-valuation-to-10b-in-8-months/",
-      "why_it_matters": "Validates that open-source developer tools leveraged by AI coding assistants represent a massive growth category\u2014signal to look for similar picks-and-shovels plays in the AI infrastructure stack."
+      "url": "https://techcrunch.com/2026/06/06/beyond-instagram-introducing-the-next-generation-of-social-apps/",
+      "why_it_matters": "Signals a potential market window for consumer social startups as user fatigue with Big Tech feeds creates openings for interest-based and community-driven alternatives."
     },
     {
       "rank": 2,
-      "title": "Reid Hoffman is leaving Microsoft's board to go 'founder mode' with startup Manus",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/06/05/reid-hoffman-is-leaving-microsofts-board-to-go-founder-mode-with-startup-manus/",
-      "why_it_matters": "A legendary founder-investor going full-time on AI drug discovery signals conviction in the AI+biotech intersection and will likely catalyze dealflow and co-investment opportunities in the space."
+      "title": "I design with Claude more than Figma now",
+      "source": "Hacker News",
+      "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+      "why_it_matters": "Emerging behavior shift showing AI tools displacing established design workflows\u2014points to investment opportunities in AI-native design tooling and potential disruption of incumbents like Figma."
     },
     {
       "rank": 3,
-      "title": "The 'together tech' wave might be the most intriguing startup bet of 2026",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "why_it_matters": "Emerging counter-trend to screen addiction with funded founders like Brynn Putnam building IRL social experiences\u2014worth tracking as a potential contrarian thesis while AI dominates most portfolios."
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "source": "Hacker News",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "why_it_matters": "Highlights a growing attack surface as companies rush to deploy AI features\u2014creates urgent demand for AI security, prompt injection defense, and LLM safety startups."
     }
   ]
 }
