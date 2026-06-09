@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
-      "source": "Hacker News",
-      "url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
-      "why_it_matters": "A Chinese AI lab outperforming OpenAI on key benchmarks signals the foundation model layer is commoditizing faster than expected, creating openings for startups building differentiated applications rather than competing on base models."
+      "title": "OpenAI files IPO paperwork",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/08/openai-ipo",
+      "why_it_matters": "OpenAI's IPO filing signals a potential liquidity event that could reshape AI startup valuations and create new benchmarks for how the market prices frontier AI companies."
     },
     {
       "rank": 2,
-      "title": "The business of AI is facing 4 harsh realities",
+      "title": "Scoop: White House, Hill relaunch effort to block state AI laws",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/07/ai-business-technology-stocks-broadcom",
-      "why_it_matters": "Investor recalibration on AI economics\u2014including compute costs and monetization challenges\u2014may cool late-stage valuations and create better entry points for early-stage deals with capital-efficient approaches."
+      "url": "https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws",
+      "why_it_matters": "Federal preemption of state AI laws would dramatically simplify the regulatory landscape for AI startups, reducing compliance costs and removing a key barrier to scaling nationally."
     },
     {
       "rank": 3,
-      "title": "New drug 'functionally cures' many hepatitis B virus infections",
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
       "source": "Hacker News",
-      "url": "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08",
-      "why_it_matters": "A breakthrough in treating a disease affecting 250M+ people globally validates continued opportunity in biotech platforms tackling chronic viral infections with novel mechanisms."
+      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+      "why_it_matters": "A 1000 tokens/second inference speed at 1T parameters represents a step-change in cost-efficiency that could enable new categories of real-time AI applications and disrupt current inference-focused startups."
     }
   ]
 }
