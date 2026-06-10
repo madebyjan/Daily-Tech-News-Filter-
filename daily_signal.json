@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-08",
+  "date": "2026-06-09",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI files IPO paperwork",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/08/openai-ipo",
-      "why_it_matters": "OpenAI's IPO filing signals a potential liquidity event that could reshape AI startup valuations and create new benchmarks for how the market prices frontier AI companies."
+      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+      "why_it_matters": "Signals an emerging alternative fund structure that could reshape how LPs deploy capital and how emerging managers compete for deals without lengthy fundraising cycles."
     },
     {
       "rank": 2,
-      "title": "Scoop: White House, Hill relaunch effort to block state AI laws",
+      "title": "Anthropic and OpenAI spark new race for frontier AI access",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/08/white-house-hill-relaunch-effort-block-state-ai-laws",
-      "why_it_matters": "Federal preemption of state AI laws would dramatically simplify the regulatory landscape for AI startups, reducing compliance costs and removing a key barrier to scaling nationally."
+      "url": "https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access",
+      "why_it_matters": "Selective access models for frontier AI create new platform dynamics that will determine which startups can build on the most capable foundation models\u2014critical for evaluating AI-native deal flow."
     },
     {
       "rank": 3,
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "title": "German ruling declares Google liable for false answers in AI Overviews",
       "source": "Hacker News",
-      "url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-      "why_it_matters": "A 1000 tokens/second inference speed at 1T parameters represents a step-change in cost-efficiency that could enable new categories of real-time AI applications and disrupt current inference-focused startups."
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "why_it_matters": "Landmark liability precedent for AI-generated content could create regulatory tailwinds for startups building AI safety, accuracy verification, and compliance tooling across Europe and beyond."
     }
   ]
 }
