@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "picks": [
     {
       "rank": 1,
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "why_it_matters": "Signals an emerging alternative fund structure that could reshape how LPs deploy capital and how emerging managers compete for deals without lengthy fundraising cycles."
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "why_it_matters": "Strong founder pedigree (Datadog exits) entering the red-hot AI coding agent space with a differentiated thesis around model portability\u2014signals both investor appetite and a potential wedge against incumbent AI platforms."
     },
     {
       "rank": 2,
-      "title": "Anthropic and OpenAI spark new race for frontier AI access",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/09/anthropic-openai-mythos-ai-model-access",
-      "why_it_matters": "Selective access models for frontier AI create new platform dynamics that will determine which startups can build on the most capable foundation models\u2014critical for evaluating AI-native deal flow."
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "why_it_matters": "Significant seed/Series A round in the emerging AI agent infrastructure layer, with strategic backing from Snowflake signaling enterprise demand for context management as agentic AI deployments scale."
     },
     {
       "rank": 3,
-      "title": "German ruling declares Google liable for false answers in AI Overviews",
-      "source": "Hacker News",
-      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
-      "why_it_matters": "Landmark liability precedent for AI-generated content could create regulatory tailwinds for startups building AI safety, accuracy verification, and compliance tooling across Europe and beyond."
+      "title": "Anthropic CEO says government should block dangerous AI",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai",
+      "why_it_matters": "Amodei publicly advocating for regulatory intervention signals potential compliance moats forming around AI safety\u2014early-stage founders building in AI should anticipate regulatory overhead becoming a market shaping force."
     }
   ]
 }
