@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "picks": [
     {
       "rank": 1,
-      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-      "why_it_matters": "Strong founder pedigree (Datadog exits) entering the red-hot AI coding agent space with a differentiated thesis around model portability\u2014signals both investor appetite and a potential wedge against incumbent AI platforms."
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "why_it_matters": "An $85M round for modular industrial robotics signals strong investor appetite for flexible automation solutions that can address labor shortages across multiple manufacturing verticals\u2014a thesis early-stage VCs can underwrite in adjacent robotics and industrial AI plays."
     },
     {
       "rank": 2,
-      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "title": "Microsoft taps Alt Carbon in sign of India's growing role in carbon removal",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
-      "why_it_matters": "Significant seed/Series A round in the emerging AI agent infrastructure layer, with strategic backing from Snowflake signaling enterprise demand for context management as agentic AI deployments scale."
+      "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "why_it_matters": "A major enterprise buyer validating an India-based carbon removal startup after rigorous due diligence opens the door for early-stage climate tech deals in emerging markets with lower cost structures and growing technical talent."
     },
     {
       "rank": 3,
-      "title": "Anthropic CEO says government should block dangerous AI",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/10/anthropic-ceo-government-block-dangerous-ai",
-      "why_it_matters": "Amodei publicly advocating for regulatory intervention signals potential compliance moats forming around AI safety\u2014early-stage founders building in AI should anticipate regulatory overhead becoming a market shaping force."
+      "title": "MiMo Code is now released and open-source",
+      "source": "Hacker News",
+      "url": "https://mimo.xiaomi.com/mimocode",
+      "why_it_matters": "Xiaomi open-sourcing a competitive code model intensifies commoditization pressure on AI coding startups, signaling that early-stage bets in developer tools should focus on proprietary workflows and data moats rather than foundational models."
     }
   ]
 }
