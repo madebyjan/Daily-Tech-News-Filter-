@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "picks": [
     {
       "rank": 1,
-      "title": "Theker just raised $85M to build the factory robot that doesn't specialize in anything",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "why_it_matters": "An $85M round for modular industrial robotics signals strong investor appetite for flexible automation solutions that can address labor shortages across multiple manufacturing verticals\u2014a thesis early-stage VCs can underwrite in adjacent robotics and industrial AI plays."
+      "title": "Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
+      "why_it_matters": "Export controls on frontier AI models signal a new regulatory regime that could reshape competitive dynamics for AI startups and create openings for open-source alternatives in international markets."
     },
     {
       "rank": 2,
-      "title": "Microsoft taps Alt Carbon in sign of India's growing role in carbon removal",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
-      "why_it_matters": "A major enterprise buyer validating an India-based carbon removal startup after rigorous due diligence opens the door for early-stage climate tech deals in emerging markets with lower cost structures and growing technical talent."
+      "title": "Electric motors with no rare earths",
+      "source": "Hacker News",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "why_it_matters": "Rare earth-free motor technology removes a critical supply chain bottleneck for EV and robotics startups, potentially unlocking new hardware ventures previously constrained by China's mineral dominance."
     },
     {
       "rank": 3,
-      "title": "MiMo Code is now released and open-source",
+      "title": "CRISPR tech selectively shreds cancer cells, including 'undruggable' cancers",
       "source": "Hacker News",
-      "url": "https://mimo.xiaomi.com/mimocode",
-      "why_it_matters": "Xiaomi open-sourcing a competitive code model intensifies commoditization pressure on AI coding startups, signaling that early-stage bets in developer tools should focus on proprietary workflows and data moats rather than foundational models."
+      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+      "why_it_matters": "A breakthrough in precision oncology targeting previously untreatable cancers could trigger a new wave of biotech company formation around next-gen CRISPR therapeutics."
     }
   ]
 }
