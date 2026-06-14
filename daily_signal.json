@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-12",
+  "date": "2026-06-13",
   "picks": [
     {
       "rank": 1,
-      "title": "Scoop: Trump admin blocks foreign access to Anthropic's most powerful AI",
+      "title": "The power decisions that could shape the next century",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security",
-      "why_it_matters": "Export controls on frontier AI models signal a new regulatory regime that could reshape competitive dynamics for AI startups and create openings for open-source alternatives in international markets."
+      "url": "https://www.axios.com/2026/06/13/ai-power-electricity-data-centers-who-pays",
+      "why_it_matters": "AI infrastructure's insatiable energy demand is creating massive opportunities for startups in power generation, grid optimization, and energy-efficient computing."
     },
     {
       "rank": 2,
-      "title": "Electric motors with no rare earths",
-      "source": "Hacker News",
-      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-      "why_it_matters": "Rare earth-free motor technology removes a critical supply chain bottleneck for EV and robotics startups, potentially unlocking new hardware ventures previously constrained by China's mineral dominance."
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "source": "Hacker News (WSJ)",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "why_it_matters": "Emerging regulatory uncertainty around frontier AI models signals both risk for AI startups dependent on major platforms and opportunity for compliance/safety tooling ventures."
     },
     {
       "rank": 3,
-      "title": "CRISPR tech selectively shreds cancer cells, including 'undruggable' cancers",
+      "title": "GLM 5.2 Is Out",
       "source": "Hacker News",
-      "url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-      "why_it_matters": "A breakthrough in precision oncology targeting previously untreatable cancers could trigger a new wave of biotech company formation around next-gen CRISPR therapeutics."
+      "url": "https://twitter.com/jietang/status/2065784751345287314",
+      "why_it_matters": "New open-weight model releases expand the foundation model landscape, creating opportunities for startups building applications and fine-tuning services outside the OpenAI/Anthropic duopoly."
     }
   ]
 }
