@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-13",
+  "date": "2026-06-15",
   "picks": [
     {
       "rank": 1,
-      "title": "The power decisions that could shape the next century",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/13/ai-power-electricity-data-centers-who-pays",
-      "why_it_matters": "AI infrastructure's insatiable energy demand is creating massive opportunities for startups in power generation, grid optimization, and energy-efficient computing."
+      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
+      "why_it_matters": "Series A led by Dawn Capital validates continued investor appetite for HR automation targeting the massive, underserved frontline workforce segment\u2014a space with room for adjacent plays."
     },
     {
       "rank": 2,
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "source": "Hacker News (WSJ)",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "why_it_matters": "Emerging regulatory uncertainty around frontier AI models signals both risk for AI startups dependent on major platforms and opportunity for compliance/safety tooling ventures."
+      "title": "Apple Foundation Models",
+      "source": "Hacker News",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "why_it_matters": "Apple opening foundation model access to developers signals a major platform shift that could spawn new startup opportunities building native AI experiences on iOS/macOS."
     },
     {
       "rank": 3,
-      "title": "GLM 5.2 Is Out",
+      "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
       "source": "Hacker News",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "why_it_matters": "New open-weight model releases expand the foundation model landscape, creating opportunities for startups building applications and fine-tuning services outside the OpenAI/Anthropic duopoly."
+      "url": "https://traceapp.info",
+      "why_it_matters": "Privacy-first, offline AI tools are an emerging wedge against cloud-dependent incumbents\u2014worth watching for founder traction and differentiated positioning in the crowded meeting-AI space."
     }
   ]
 }
