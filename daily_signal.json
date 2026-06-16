@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "picks": [
     {
       "rank": 1,
-      "title": "Orbio raises $21 million to automate hiring and onboarding for frontline workers",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/14/orbio-raises-21-million-to-automate-hiring-and-onboarding-for-frontline-workers/",
-      "why_it_matters": "Series A led by Dawn Capital validates continued investor appetite for HR automation targeting the massive, underserved frontline workforce segment\u2014a space with room for adjacent plays."
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "why_it_matters": "Signals an emerging infrastructure layer for enterprise AI adoption\u2014identity and access management for AI agents could become as essential as IAM was for cloud, creating a new category for startups to build in."
     },
     {
       "rank": 2,
-      "title": "Apple Foundation Models",
-      "source": "Hacker News",
-      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-      "why_it_matters": "Apple opening foundation model access to developers signals a major platform shift that could spawn new startup opportunities building native AI experiences on iOS/macOS."
+      "title": "Sarvam becomes India's newest AI unicorn with $234 million funding round led by HCLTech",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "why_it_matters": "Validates the thesis that regional AI foundation model companies can reach unicorn status with enterprise backing, suggesting opportunities for similar plays in other non-US markets."
     },
     {
       "rank": 3,
-      "title": "Show HN: Trace \u2013 Offline Mac meeting transcripts you can flag mid-call",
-      "source": "Hacker News",
-      "url": "https://traceapp.info",
-      "why_it_matters": "Privacy-first, offline AI tools are an emerging wedge against cloud-dependent incumbents\u2014worth watching for founder traction and differentiated positioning in the crowded meeting-AI space."
+      "title": "Malaysia's AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "why_it_matters": "Per-conversation pricing for AI customer service shows a maturing business model for AI agents that aligns cost with value delivered\u2014a pricing innovation early-stage founders should study."
     }
   ]
 }
