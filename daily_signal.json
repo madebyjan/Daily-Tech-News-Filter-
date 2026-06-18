@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "picks": [
     {
       "rank": 1,
-      "title": "SpaceX to buy Cursor for $60B",
-      "source": "Hacker News / Reuters",
-      "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
-      "why_it_matters": "A $60B acquisition of an AI coding tool signals massive enterprise value in developer productivity software and validates the AI-native tooling category for early-stage investors."
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "why_it_matters": "A $27M seed signals strong conviction in AI reliability/safety infrastructure, and formal verification for high-stakes verticals (law, pharma, tax) could become essential middleware as enterprises demand accountable AI outputs."
     },
     {
       "rank": 2,
-      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "why_it_matters": "Early-stage funding for AI reliability infrastructure signals growing demand for 'picks and shovels' plays that solve enterprise-blocking hallucination problems\u2014a potential platform opportunity."
+      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+      "why_it_matters": "World models represent the next frontier beyond LLMs for robotics and simulation\u2014this mega-round validates the category and signals where strategic corporate capital sees the next platform shift."
     },
     {
       "rank": 3,
-      "title": "Foundation Alloy raises $22M for advanced metal manufacturing",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/16/this-startups-super-metals-could-soon-be-in-military-drones-luxury-watches-and-chefs-knives/",
-      "why_it_matters": "Deep tech materials startup with defense, aerospace, and consumer applications demonstrates continued investor appetite for hard-tech with diverse go-to-market paths and government tailwinds."
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "why_it_matters": "Physical AI's data bottleneck is creating a new picks-and-shovels opportunity\u2014startups solving robotics data collection at scale could become critical infrastructure as embodied AI investment accelerates."
     }
   ]
 }
