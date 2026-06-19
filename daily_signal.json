@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-17",
+  "date": "2026-06-18",
   "picks": [
     {
       "rank": 1,
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "title": "The 11 standout startups from YC's Demo Day, according to VCs",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "why_it_matters": "A $27M seed signals strong conviction in AI reliability/safety infrastructure, and formal verification for high-stakes verticals (law, pharma, tax) could become essential middleware as enterprises demand accountable AI outputs."
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "why_it_matters": "YC Demo Day is the premier signal for emerging founders and hot sectors\u2014$175M+ valuations at demo day indicate which themes (and competitors) are commanding early-stage capital right now."
     },
     {
       "rank": 2,
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "why_it_matters": "World models represent the next frontier beyond LLMs for robotics and simulation\u2014this mega-round validates the category and signals where strategic corporate capital sees the next platform shift."
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "why_it_matters": "A 3-year-old AI dev tools startup getting an $85M exit validates the AI-for-software-quality space and shows strategic acquirers are paying real premiums for early-stage AI infrastructure plays."
     },
     {
       "rank": 3,
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "why_it_matters": "Physical AI's data bottleneck is creating a new picks-and-shovels opportunity\u2014startups solving robotics data collection at scale could become critical infrastructure as embodied AI investment accelerates."
+      "title": "Longevity medicine's do-or-die moment",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/18/longevity-medicine-critical-moment",
+      "why_it_matters": "The first human trial of cellular rejuvenation drugs could unlock (or close) a massive longevity biotech investment thesis depending on results\u2014a category-defining proof point for the sector."
     }
   ]
 }
