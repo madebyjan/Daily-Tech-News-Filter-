@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "picks": [
     {
       "rank": 1,
-      "title": "The 11 standout startups from YC's Demo Day, according to VCs",
+      "title": "He made your free video player run smoothly. Now he's doing that for robots.",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
-      "why_it_matters": "YC Demo Day is the premier signal for emerging founders and hot sectors\u2014$175M+ valuations at demo day indicate which themes (and competitors) are commanding early-stage capital right now."
+      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
+      "why_it_matters": "A proven technical founder (VLC creator) entering robotics infrastructure signals maturing market demand for real-time device control\u2014a foundational layer that could enable the next wave of robotics startups."
     },
     {
       "rank": 2,
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "why_it_matters": "A 3-year-old AI dev tools startup getting an $85M exit validates the AI-for-software-quality space and shows strategic acquirers are paying real premiums for early-stage AI infrastructure plays."
+      "title": "John Jumper to join Anthropic",
+      "source": "Hacker News",
+      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
+      "why_it_matters": "The AlphaFold creator moving to Anthropic signals accelerating convergence of AI and life sciences, potentially opening new investment opportunities in AI-native biotech and drug discovery startups."
     },
     {
       "rank": 3,
-      "title": "Longevity medicine's do-or-die moment",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/18/longevity-medicine-critical-moment",
-      "why_it_matters": "The first human trial of cellular rejuvenation drugs could unlock (or close) a massive longevity biotech investment thesis depending on results\u2014a category-defining proof point for the sector."
+      "title": "Norway imposes near ban on AI in elementary school",
+      "source": "Hacker News",
+      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+      "why_it_matters": "First major regulatory precedent for AI in education could trigger a wave of similar policies across Europe, creating both compliance burdens and opportunities for startups building age-appropriate or teacher-focused AI tools."
     }
   ]
 }
