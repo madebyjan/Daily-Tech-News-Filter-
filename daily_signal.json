@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "picks": [
     {
       "rank": 1,
-      "title": "He made your free video player run smoothly. Now he's doing that for robots.",
+      "title": "Founders Fund's outlier bet on humanely killed fish",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/",
-      "why_it_matters": "A proven technical founder (VLC creator) entering robotics infrastructure signals maturing market demand for real-time device control\u2014a foundational layer that could enable the next wave of robotics startups."
+      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
+      "why_it_matters": "Founders Fund backing a robotics startup in sustainable food tech signals tier-1 VC appetite for deep tech plays in unsexy but massive legacy industries ripe for automation."
     },
     {
       "rank": 2,
-      "title": "John Jumper to join Anthropic",
+      "title": "Temporary Cloudflare accounts for AI agents",
       "source": "Hacker News",
-      "url": "https://twitter.com/JohnJumperSci/status/2068001285173834106",
-      "why_it_matters": "The AlphaFold creator moving to Anthropic signals accelerating convergence of AI and life sciences, potentially opening new investment opportunities in AI-native biotech and drug discovery startups."
+      "url": "https://blog.cloudflare.com/temporary-accounts/",
+      "why_it_matters": "Infrastructure giants building native support for AI agents validates the agentic AI thesis and creates new platform opportunities for startups building agent tooling, identity, and orchestration layers."
     },
     {
       "rank": 3,
-      "title": "Norway imposes near ban on AI in elementary school",
+      "title": "Building reliable agentic AI systems",
       "source": "Hacker News",
-      "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-      "why_it_matters": "First major regulatory precedent for AI in education could trigger a wave of similar policies across Europe, creating both compliance burdens and opportunities for startups building age-appropriate or teacher-focused AI tools."
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "why_it_matters": "Enterprise AI reliability remains unsolved\u2014Martin Fowler highlighting this gap at Bayer points to urgent demand for startups building observability, testing, and guardrails for production LLM systems."
     }
   ]
 }
