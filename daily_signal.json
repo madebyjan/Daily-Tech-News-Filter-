@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-22",
   "picks": [
     {
       "rank": 1,
-      "title": "Founders Fund's outlier bet on humanely killed fish",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/20/founders-funds-outlier-bet-on-humanely-killed-fish/",
-      "why_it_matters": "Founders Fund backing a robotics startup in sustainable food tech signals tier-1 VC appetite for deep tech plays in unsexy but massive legacy industries ripe for automation."
+      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "source": "Hacker News",
+      "url": "https://apertvs.ai/",
+      "why_it_matters": "Open-source foundation models with a sovereign AI angle could reshape competitive dynamics for AI startups, creating new infrastructure plays and reducing dependency on closed API providers."
     },
     {
       "rank": 2,
-      "title": "Temporary Cloudflare accounts for AI agents",
+      "title": "Deno Desktop",
       "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/temporary-accounts/",
-      "why_it_matters": "Infrastructure giants building native support for AI agents validates the agentic AI thesis and creates new platform opportunities for startups building agent tooling, identity, and orchestration layers."
+      "url": "https://docs.deno.com/runtime/desktop/",
+      "why_it_matters": "Deno expanding into desktop signals a potential platform shift for developer tools, opening opportunities for startups building cross-platform apps with modern JS/TS toolchains."
     },
     {
       "rank": 3,
-      "title": "Building reliable agentic AI systems",
-      "source": "Hacker News",
-      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-      "why_it_matters": "Enterprise AI reliability remains unsolved\u2014Martin Fowler highlighting this gap at Bayer points to urgent demand for startups building observability, testing, and guardrails for production LLM systems."
+      "title": "Data centers become the face of AI backlash",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/22/ai-data-center-backlash-poll",
+      "why_it_matters": "Growing NIMBY resistance to data centers creates both risk for AI infrastructure scaling and opportunity for startups solving efficiency, distributed compute, or edge AI solutions."
     }
   ]
 }
