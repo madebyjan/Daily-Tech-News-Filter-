@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "picks": [
     {
       "rank": 1,
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia's $20B not-acqui-hire deal",
+      "title": "Superhuman acquires AI detection startup GPTZero",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "why_it_matters": "Massive funding round signals continued investor appetite for AI infrastructure plays outside the Nvidia ecosystem, and the post-acqui-hire rebuild creates potential dealflow as displaced talent may spin out new ventures."
+      "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
+      "why_it_matters": "Signals consolidation in the AI tooling space and validates AI detection as a feature play rather than standalone company\u2014a cautionary data point for founders building single-feature AI products."
     },
     {
       "rank": 2,
-      "title": "Seedcamp raises $320M for its new fund to expand its US footprint",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/",
-      "why_it_matters": "A major European seed fund expanding stateside increases competition for US early-stage deals and may bring more cross-Atlantic co-investment opportunities."
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "why_it_matters": "Early-stage deal showing continued investor appetite for AI agents tackling specific workflow verticals, with HR tech being ripe for automation disruption."
     },
     {
       "rank": 3,
-      "title": "WhatsApp gets new chief as Meta taps India's CRED founder Kunal Shah and invests $900M in startup",
+      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/",
-      "why_it_matters": "A proven fintech founder moving to Meta creates a leadership vacuum at CRED and signals Big Tech's growing interest in India's consumer fintech playbook\u2014watch for CRED alumni starting new ventures."
+      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
+      "why_it_matters": "Alexis Ohanian's fund backing hardware-enabled services for underserved markets highlights opportunity in verticalized robotics and tools targeting overlooked consumer segments."
     }
   ]
 }
