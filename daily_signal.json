@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "picks": [
     {
       "rank": 1,
-      "title": "Superhuman acquires AI detection startup GPTZero",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/",
-      "why_it_matters": "Signals consolidation in the AI tooling space and validates AI detection as a feature play rather than standalone company\u2014a cautionary data point for founders building single-feature AI products."
+      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "why_it_matters": "Serial enterprise founder Vishal Sikka launching a new venture with top-tier backing (Mayfield, Aramco Ventures) signals a potential disruption opportunity in the massive IT services market worth watching for adjacent startup plays."
     },
     {
       "rank": 2,
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "why_it_matters": "Early-stage deal showing continued investor appetite for AI agents tackling specific workflow verticals, with HR tech being ripe for automation disruption."
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "source": "Hacker News",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "why_it_matters": "OpenAI's vertical integration into custom silicon reshapes the AI infrastructure stack and creates new opportunities for startups building tooling, optimization layers, or alternative compute solutions around emerging AI chip architectures."
     },
     {
       "rank": 3,
-      "title": "HaloBraid raises $7M from Seven Seven Six to end the six-hour hair salon appointment",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/",
-      "why_it_matters": "Alexis Ohanian's fund backing hardware-enabled services for underserved markets highlights opportunity in verticalized robotics and tools targeting overlooked consumer segments."
+      "title": "Qualcomm to Acquire Modular",
+      "source": "Hacker News",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "why_it_matters": "A major exit for an AI infrastructure startup validates the market for developer tooling/compiler optimization plays and signals strategic acquirers are paying premium prices for teams that can accelerate AI deployment on edge devices."
     }
   ]
 }
