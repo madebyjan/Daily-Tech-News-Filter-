@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "picks": [
     {
       "rank": 1,
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "title": "General Intuition's $2.3B bet that video games can train AI agents for the real world",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "why_it_matters": "Serial enterprise founder Vishal Sikka launching a new venture with top-tier backing (Mayfield, Aramco Ventures) signals a potential disruption opportunity in the massive IT services market worth watching for adjacent startup plays."
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "why_it_matters": "A $320M raise at a $2.3B valuation signals massive investor appetite for novel AI training approaches, and validates gaming data as a legitimate path to embodied AI\u2014opening a new category for early-stage startups to explore."
     },
     {
       "rank": 2,
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "source": "Hacker News",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "why_it_matters": "OpenAI's vertical integration into custom silicon reshapes the AI infrastructure stack and creates new opportunities for startups building tooling, optimization layers, or alternative compute solutions around emerging AI chip architectures."
+      "title": "Patronus AI lands $50M to build 'digital worlds' that stress-test AI agents",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "why_it_matters": "As AI agents proliferate, the testing/evaluation layer becomes critical infrastructure\u2014this raise from ex-Meta researchers confirms enterprise demand for agent reliability tools, a space still early enough for new entrants."
     },
     {
       "rank": 3,
-      "title": "Qualcomm to Acquire Modular",
-      "source": "Hacker News",
-      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-      "why_it_matters": "A major exit for an AI infrastructure startup validates the market for developer tooling/compiler optimization plays and signals strategic acquirers are paying premium prices for teams that can accelerate AI deployment on edge devices."
+      "title": "Trump administration asks OpenAI to limit next model release over security concerns",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release",
+      "why_it_matters": "Government intervention in frontier model releases signals emerging regulatory risk for AI startups and could reshape competitive dynamics by limiting which companies can deploy cutting-edge capabilities domestically."
     }
   ]
 }
