@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-28",
   "picks": [
     {
       "rank": 1,
-      "title": "U.S. allows Anthropic to release Mythos AI to 'trusted' US organizations",
-      "source": "Hacker News / Semafor",
-      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-      "why_it_matters": "Government-gated access to frontier AI models signals a new regulatory regime that could create moats for startups with security clearances while limiting others' access to cutting-edge infrastructure."
+      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "why_it_matters": "Export restrictions are creating a massive opening for non-US AI startups to capture international markets\u2014VCs should watch for emerging Asian AI infrastructure plays and consider how portfolio companies can navigate or benefit from this fragmentation."
     },
     {
       "rank": 2,
-      "title": "Robotaxis drive miles just to get cleaned and charged; this new startup wants to fix that",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/",
-      "why_it_matters": "Aseon Labs' $10M raise from Crane validates the emerging AV infrastructure layer as robotaxi fleets scale\u2014a picks-and-shovels opportunity adjacent to autonomous vehicle growth."
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "source": "Hacker News",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "why_it_matters": "With 760 upvotes and 320 comments, this inference optimization technique signals strong developer interest in reducing LLM compute costs\u2014a foundational unlock for startups building AI-native products at scale."
     },
     {
       "rank": 3,
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "source": "Hacker News / OpenAI",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "why_it_matters": "New frontier model releases reset the capability baseline for AI-native startups, opening fresh application opportunities while potentially commoditizing features built on previous model generations."
+      "title": "AI learns the 'dark art' of RFIC design",
+      "source": "Hacker News",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "why_it_matters": "AI automating notoriously difficult RF chip design could dramatically lower barriers for hardware startups in IoT, 5G/6G, and edge computing\u2014watch for new entrants challenging incumbents in wireless semiconductor design."
     }
   ]
 }
