@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "picks": [
     {
       "rank": 1,
-      "title": "Asian AI startups launch Mythos-like models as Anthropic's export ban drags on",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "why_it_matters": "Export restrictions are creating a massive opening for non-US AI startups to capture international markets\u2014VCs should watch for emerging Asian AI infrastructure plays and consider how portfolio companies can navigate or benefit from this fragmentation."
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "source": "Hacker News",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "why_it_matters": "A Chinese model outperforming Anthropic's Claude in cybersecurity benchmarks signals the AI competitive landscape is shifting faster than expected, with implications for which foundation model bets will pay off."
     },
     {
       "rank": 2,
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "source": "Hacker News",
-      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-      "why_it_matters": "With 760 upvotes and 320 comments, this inference optimization technique signals strong developer interest in reducing LLM compute costs\u2014a foundational unlock for startups building AI-native products at scale."
+      "title": "The pro-AI movement is splintering",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/06/29/trump-ai-model-release-delays-tech-backlash",
+      "why_it_matters": "National security-driven restrictions on AI model releases could create regulatory moats for compliant startups while slowing go-to-market for others\u2014portfolio companies building on frontier models need to factor in potential deployment delays."
     },
     {
       "rank": 3,
-      "title": "AI learns the 'dark art' of RFIC design",
+      "title": "The KIDS Act would require age checks to get online",
       "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "why_it_matters": "AI automating notoriously difficult RF chip design could dramatically lower barriers for hardware startups in IoT, 5G/6G, and edge computing\u2014watch for new entrants challenging incumbents in wireless semiconductor design."
+      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+      "why_it_matters": "Mandatory age verification legislation creates immediate market opportunity for identity/verification startups while threatening business models of consumer apps that rely on frictionless onboarding."
     }
   ]
 }
