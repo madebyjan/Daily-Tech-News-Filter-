@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "picks": [
     {
       "rank": 1,
-      "title": "GLM 5.2 beats Claude in our benchmarks",
-      "source": "Hacker News",
-      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
-      "why_it_matters": "A Chinese model outperforming Anthropic's Claude in cybersecurity benchmarks signals the AI competitive landscape is shifting faster than expected, with implications for which foundation model bets will pay off."
+      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
+      "why_it_matters": "A $135M Series A signals continued strong investor appetite for AI coding tools, validating the category and setting valuation benchmarks for competing startups in the space."
     },
     {
       "rank": 2,
-      "title": "The pro-AI movement is splintering",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/06/29/trump-ai-model-release-delays-tech-backlash",
-      "why_it_matters": "National security-driven restrictions on AI model releases could create regulatory moats for compliant startups while slowing go-to-market for others\u2014portfolio companies building on frontier models need to factor in potential deployment delays."
+      "title": "Omen AI's plan to optimize data centers is all wet",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "why_it_matters": "Data center infrastructure optimization is becoming a critical investment thesis as AI compute demand strains cooling and efficiency systems\u2014this $31M Series A highlights an emerging category worth monitoring."
     },
     {
       "rank": 3,
-      "title": "The KIDS Act would require age checks to get online",
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
       "source": "Hacker News",
-      "url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
-      "why_it_matters": "Mandatory age verification legislation creates immediate market opportunity for identity/verification startups while threatening business models of consumer apps that rely on frictionless onboarding."
+      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "why_it_matters": "Massive government capital flowing into memory chips and humanoid robotics creates downstream opportunities for startups building software, components, or applications in these ecosystems."
     }
   ]
 }
