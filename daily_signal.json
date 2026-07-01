@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "picks": [
     {
       "rank": 1,
-      "title": "Chamath Palihapitiya raises $135M Series A for his AI coding startup, takes CEO role",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/",
-      "why_it_matters": "A $135M Series A signals continued strong investor appetite for AI coding tools, validating the category and setting valuation benchmarks for competing startups in the space."
+      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "why_it_matters": "A startup reaching $1B in contracted revenue for AI inference chips signals massive enterprise demand for Nvidia alternatives, validating the AI infrastructure picks-and-shovels thesis and opening doors for adjacent startups in the AI chip ecosystem."
     },
     {
       "rank": 2,
-      "title": "Omen AI's plan to optimize data centers is all wet",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "why_it_matters": "Data center infrastructure optimization is becoming a critical investment thesis as AI compute demand strains cooling and efficiency systems\u2014this $31M Series A highlights an emerging category worth monitoring."
+      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "why_it_matters": "Elite AI talent spinning out of DeepMind to build a $500M+ fintech signals continued founder migration from big labs to startups, and validates AI-native approaches to quantitative finance as a fundable category."
     },
     {
       "rank": 3,
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "source": "Hacker News",
-      "url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "why_it_matters": "Massive government capital flowing into memory chips and humanoid robotics creates downstream opportunities for startups building software, components, or applications in these ecosystems."
+      "title": "Arcturus could halve the grid's electrical losses using its nano-infused metals",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
+      "why_it_matters": "With AI data centers straining power grids globally, a deep-tech startup offering 50% reduction in transmission losses addresses a critical infrastructure bottleneck that will only grow as energy demand from AI scales."
     }
   ]
 }
