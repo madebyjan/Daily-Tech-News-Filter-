@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "why_it_matters": "A startup reaching $1B in contracted revenue for AI inference chips signals massive enterprise demand for Nvidia alternatives, validating the AI infrastructure picks-and-shovels thesis and opening doors for adjacent startups in the AI chip ecosystem."
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "why_it_matters": "Serial founder Bhavin Turakhia self-funding $30M signals strong conviction in AI-native productivity software as a category ripe for disruption\u2014worth watching for co-investment opportunities or as a competitive benchmark for portfolio companies."
     },
     {
       "rank": 2,
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "why_it_matters": "Elite AI talent spinning out of DeepMind to build a $500M+ fintech signals continued founder migration from big labs to startups, and validates AI-native approaches to quantitative finance as a fundable category."
+      "title": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted",
+      "why_it_matters": "Regulatory clarity on AI model exports directly impacts how AI-native startups can scale internationally and which foundation models they can build on."
     },
     {
       "rank": 3,
-      "title": "Arcturus could halve the grid's electrical losses using its nano-infused metals",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/",
-      "why_it_matters": "With AI data centers straining power grids globally, a deep-tech startup offering 50% reduction in transmission losses addresses a critical infrastructure bottleneck that will only grow as energy demand from AI scales."
+      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
+      "source": "Hacker News",
+      "url": "https://www.weaverobotics.com/isaac-1",
+      "why_it_matters": "A sub-$8K consumer robot hitting market signals the home robotics category may finally be reaching viable price points, opening opportunities for adjacent software, components, and services startups."
     }
   ]
 }
