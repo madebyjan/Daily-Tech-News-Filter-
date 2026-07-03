@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "picks": [
     {
       "rank": 1,
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "why_it_matters": "Serial founder Bhavin Turakhia self-funding $30M signals strong conviction in AI-native productivity software as a category ripe for disruption\u2014worth watching for co-investment opportunities or as a competitive benchmark for portfolio companies."
+      "title": "Melinda Gates' venture firm backs Magnify Ventures' $46.6M Fund II",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/",
+      "why_it_matters": "Signals continued LP appetite for early-stage funds and highlights Pivotal Ventures as an active institutional backer to watch for co-investment opportunities."
     },
     {
       "rank": 2,
-      "title": "Anthropic's Fable 5 is back after the Trump administration lifted export controls",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/01/anthropic-fable-5-back-online-trump-export-controls-lifted",
-      "why_it_matters": "Regulatory clarity on AI model exports directly impacts how AI-native startups can scale internationally and which foundation models they can build on."
+      "title": "Virginia bans sale of geolocation data",
+      "source": "Hacker News",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "why_it_matters": "Creates regulatory headwinds for adtech and data broker startups while opening opportunities for privacy-first location intelligence and compliance tooling companies."
     },
     {
       "rank": 3,
-      "title": "Weave Robotics launches Isaac 1, a $7,999 home robot with Fall 2026 deliveries",
-      "source": "Hacker News",
-      "url": "https://www.weaverobotics.com/isaac-1",
-      "why_it_matters": "A sub-$8K consumer robot hitting market signals the home robotics category may finally be reaching viable price points, opening opportunities for adjacent software, components, and services startups."
+      "title": "Thiel Capital's Jack Selby nabs stakes in hot startups like Etched through Arizona connections",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/02/thiel-capitals-jack-selby-nabs-stakes-in-hot-startups-like-etched-through-arizona-connections/",
+      "why_it_matters": "Reveals a $300M fund raise and highlights Arizona as an emerging deal-flow hub worth monitoring for AI chip and deep tech opportunities."
     }
   ]
 }
