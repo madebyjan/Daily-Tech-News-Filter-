@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-05",
   "picks": [
     {
       "rank": 1,
-      "title": "How the world's top AI models were revived",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/03/anthropic-ai-models-revived-behind-the-scenes",
-      "why_it_matters": "The 20-day Anthropic shutdown signals serious regulatory uncertainty for AI startups\u2014founders building on third-party foundation models face platform risk that could evaporate their product overnight."
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "why_it_matters": "Mistral's rapid funding trajectory and open-source model strategy signals continued investor appetite for AI infrastructure plays that offer alternatives to closed ecosystems, creating potential co-investment and portfolio company partnership opportunities."
     },
     {
       "rank": 2,
-      "title": "Leanstral 1.5: Proof abundance for all",
-      "source": "Hacker News (Mistral)",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "why_it_matters": "Mistral releasing a formal verification-focused model opens investment opportunities in AI-assisted theorem proving, code verification, and developer tooling startups targeting enterprise software reliability."
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "source": "Hacker News",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "why_it_matters": "Performance issues in frontier AI coding tools create openings for startups building specialized developer tooling, code review, or AI reliability/observability solutions that address enterprise concerns about model consistency."
     },
     {
       "rank": 3,
-      "title": "Performance per dollar is getting faster and cheaper",
-      "source": "Hacker News (Wafer.ai)",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "why_it_matters": "Rapidly declining inference costs on AMD hardware could unlock new unit economics for AI-native startups previously constrained by GPU expenses, expanding the aperture for viable AI applications."
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "source": "Hacker News",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "why_it_matters": "Early-stage bio-inspired research like this often precedes spinout opportunities in regenerative medicine and wound care\u2014a massive market where breakthrough healing mechanisms could spawn fundable therapeutics or biomaterials startups."
     }
   ]
 }
