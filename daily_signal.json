@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "picks": [
     {
       "rank": 1,
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "why_it_matters": "Mistral's rapid funding trajectory and open-source model strategy signals continued investor appetite for AI infrastructure plays that offer alternatives to closed ecosystems, creating potential co-investment and portfolio company partnership opportunities."
+      "title": "Startup bets that investors want to trade compute like a commodity",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
+      "why_it_matters": "A $33M seed round from a16z for GPU compute trading signals strong conviction that compute infrastructure is becoming a fundable category with commodity-market dynamics\u2014potential for adjacent opportunities in AI infrastructure."
     },
     {
       "rank": 2,
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "source": "Hacker News",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "why_it_matters": "Performance issues in frontier AI coding tools create openings for startups building specialized developer tooling, code review, or AI reliability/observability solutions that address enterprise concerns about model consistency."
+      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "why_it_matters": "Ex-Apple team reaching unicorn status in wearables validates renewed investor appetite for AR/smart glasses hardware\u2014watch for emerging supply chain and software layer startups in this ecosystem."
     },
     {
       "rank": 3,
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "title": "Zuckerberg says AI agent development going slower than expected",
       "source": "Hacker News",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "why_it_matters": "Early-stage bio-inspired research like this often precedes spinout opportunities in regenerative medicine and wound care\u2014a massive market where breakthrough healing mechanisms could spawn fundable therapeutics or biomaterials startups."
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+      "why_it_matters": "Big Tech's AI agent struggles create a window for startups solving narrow, vertical agent use cases where reliability matters more than generality."
     }
   ]
 }
