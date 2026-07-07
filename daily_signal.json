@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "picks": [
     {
       "rank": 1,
-      "title": "Startup bets that investors want to trade compute like a commodity",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/06/ornn-gpu-compute-commodity",
-      "why_it_matters": "A $33M seed round from a16z for GPU compute trading signals strong conviction that compute infrastructure is becoming a fundable category with commodity-market dynamics\u2014potential for adjacent opportunities in AI infrastructure."
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "source": "Hacker News",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "why_it_matters": "Collapsing AI model margins signal a commoditization wave that could reshape which layers of the AI stack capture value\u2014critical for thesis development around AI infrastructure vs. application investments."
     },
     {
       "rank": 2,
-      "title": "Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
-      "why_it_matters": "Ex-Apple team reaching unicorn status in wearables validates renewed investor appetite for AR/smart glasses hardware\u2014watch for emerging supply chain and software layer startups in this ecosystem."
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "source": "Hacker News",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "why_it_matters": "Edge AI and small language models are opening up underserved markets with infrastructure constraints, creating white space for startups building lightweight, offline-first AI solutions."
     },
     {
       "rank": 3,
-      "title": "Zuckerberg says AI agent development going slower than expected",
-      "source": "Hacker News",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
-      "why_it_matters": "Big Tech's AI agent struggles create a window for startups solving narrow, vertical agent use cases where reliability matters more than generality."
+      "title": "Station F ramps up as a launchpad for Europe's hottest AI startups",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "why_it_matters": "A strengthening European AI accelerator pipeline means more deal flow opportunities for VCs looking at early-stage AI companies outside the overheated US market."
     }
   ]
 }
