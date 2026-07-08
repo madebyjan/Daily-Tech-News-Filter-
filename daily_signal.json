@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "picks": [
     {
       "rank": 1,
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "source": "Hacker News",
-      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-      "why_it_matters": "Collapsing AI model margins signal a commoditization wave that could reshape which layers of the AI stack capture value\u2014critical for thesis development around AI infrastructure vs. application investments."
+      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
+      "why_it_matters": "Signals continued strong appetite for vertical AI applications in professional services, validating the AI-for-legal category as a major opportunity for early-stage founders."
     },
     {
       "rank": 2,
-      "title": "Small AI Models Gain Traction In places with unreliable networks",
-      "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-      "why_it_matters": "Edge AI and small language models are opening up underserved markets with infrastructure constraints, creating white space for startups building lightweight, offline-first AI solutions."
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "why_it_matters": "Infrastructure plays that reduce AI inference costs create platform shifts\u2014startups building on cheaper inference could unlock new business models previously killed by compute economics."
     },
     {
       "rank": 3,
-      "title": "Station F ramps up as a launchpad for Europe's hottest AI startups",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "why_it_matters": "A strengthening European AI accelerator pipeline means more deal flow opportunities for VCs looking at early-stage AI companies outside the overheated US market."
+      "title": "VC firm Chemistry is raising $500M for its second fund",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
+      "why_it_matters": "A new $500M fund from well-pedigreed investors means more dry powder competing for early-stage deals\u2014important signal for understanding the competitive landscape and potential co-investor dynamics."
     }
   ]
 }
