@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "AI law startup Norm raises $120M, hits unicorn valuation",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/07/ai-law-startup-norm-raises-120m-hits-unicorn-valuation/",
-      "why_it_matters": "Signals continued strong appetite for vertical AI applications in professional services, validating the AI-for-legal category as a major opportunity for early-stage founders."
+      "url": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "why_it_matters": "A $130M Series A for a 2024-founded company signals strong investor appetite for enterprise AI agent infrastructure, validating the thesis that companies want to own their agentic AI capabilities rather than rely solely on frontier labs."
     },
     {
       "rank": 2,
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "why_it_matters": "Infrastructure plays that reduce AI inference costs create platform shifts\u2014startups building on cheaper inference could unlock new business models previously killed by compute economics."
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "why_it_matters": "A top AI executive moving to a reusable rocket startup signals potential convergence of AI talent and capital toward hardware/deep-tech sectors, suggesting new dealflow opportunities in space and adjacent verticals."
     },
     {
       "rank": 3,
-      "title": "VC firm Chemistry is raising $500M for its second fund",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/",
-      "why_it_matters": "A new $500M fund from well-pedigreed investors means more dry powder competing for early-stage deals\u2014important signal for understanding the competitive landscape and potential co-investor dynamics."
+      "title": "With EU backing, QuantumDiamonds aims to speed up chip manufacturing",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/",
+      "why_it_matters": "European Chips Act subsidies are creating a funded runway for deep-tech semiconductor startups, presenting co-investment opportunities in chip infrastructure plays with de-risked early capital from government backing."
     }
   ]
 }
