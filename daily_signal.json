@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "picks": [
     {
       "rank": 1,
-      "title": "Oratomic raises $300M to build a viable quantum computer that needs only 20K qubits",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/10/oratomic-raises-300m-to-build-a-viable-quantum-computer-that-needs-only-20k-qubits/",
-      "why_it_matters": "A $300M round led by ARCH, Spark, and Khosla signals top-tier VCs are making major bets on quantum computing reaching commercial viability sooner than expected, potentially opening adjacent opportunities in quantum software and applications."
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "source": "Hacker News",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "why_it_matters": "Distributed LLM inference could unlock new infrastructure plays and reduce dependency on centralized GPU clouds\u2014a potential platform shift for AI deployment startups."
     },
     {
       "rank": 2,
-      "title": "Hugging Face's CEO on why companies are done renting their AI",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-      "why_it_matters": "The shift from API-dependent AI to owned open-source models creates startup opportunities in fine-tuning, deployment infrastructure, and vertical AI applications built on open foundations."
+      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+      "source": "Hacker News",
+      "url": "https://antjs.org",
+      "why_it_matters": "New JS runtimes (like Deno and Bun before it) can spawn entire developer tooling ecosystems\u2014worth tracking for dev-tools deal flow and founder talent."
     },
     {
       "rank": 3,
-      "title": "Apple sues OpenAI for trade secret theft",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-      "why_it_matters": "This lawsuit highlights the intensifying AI talent war between incumbents and could make Big Tech employees more cautious about joining or founding AI startups, potentially affecting deal flow and founder availability."
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "why_it_matters": "Yosemite's expansion to 17 people amid biopharma patent cliffs signals renewed conviction in life sciences venture, potentially creating co-investment and syndicate opportunities."
     }
   ]
 }
