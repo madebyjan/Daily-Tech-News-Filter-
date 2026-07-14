@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-14",
   "picks": [
     {
       "rank": 1,
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "source": "Hacker News",
-      "url": "https://www.iroh.computer/blog/mesh-llm",
-      "why_it_matters": "Distributed LLM inference could unlock new infrastructure plays and reduce dependency on centralized GPU clouds\u2014a potential platform shift for AI deployment startups."
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "why_it_matters": "A $1.5B valuation for an AI agent infrastructure company signals continued strong investor appetite for agentic AI tooling, and the involvement of Robot Ventures and USV validates the category for seed-stage bets in adjacent spaces."
     },
     {
       "rank": 2,
-      "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
       "source": "Hacker News",
-      "url": "https://antjs.org",
-      "why_it_matters": "New JS runtimes (like Deno and Bun before it) can spawn entire developer tooling ecosystems\u2014worth tracking for dev-tools deal flow and founder talent."
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "why_it_matters": "A breakthrough in battery recycling efficiency could unlock new startup opportunities in circular economy and battery materials, especially as EV adoption scales and lithium supply constraints persist."
     },
     {
       "rank": 3,
-      "title": "Reed Jobs would rather talk about curing cancer than his last name",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
-      "why_it_matters": "Yosemite's expansion to 17 people amid biopharma patent cliffs signals renewed conviction in life sciences venture, potentially creating co-investment and syndicate opportunities."
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "source": "Hacker News",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "why_it_matters": "Apple shipping competitive on-device speech recognition changes the build-vs-buy calculus for voice AI startups and signals growing platform-level commoditization of transcription\u2014founders should consider differentiation beyond core ASR."
     }
   ]
 }
