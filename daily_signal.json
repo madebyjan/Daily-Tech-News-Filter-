@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "why_it_matters": "A top AI researcher spinning out of OpenAI to apply frontier models to drug discovery signals continued talent migration from foundation model labs into vertical AI applications\u2014a trend creating both co-investment opportunities and competitive intelligence on where elite builders see the highest-leverage problems."
+      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
+      "why_it_matters": "A $60M seed for identity management signals that AI agent infrastructure is becoming a major investable category, with authentication/authorization emerging as a critical bottleneck as autonomous agents proliferate."
     },
     {
       "rank": 2,
-      "title": "Exclusive: Google's Hassabis calls for U.S.-led global AI watchdog",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/14/demis-hassabis-ai-regulation-google-deepmind",
-      "why_it_matters": "A major AI lab CEO publicly advocating for coordinated slowdowns and screening of advanced models could foreshadow regulatory frameworks that reshape compute access, model deployment timelines, and competitive dynamics for AI startups across sectors."
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "why_it_matters": "Reaching $120M ARR and unicorn status in just over a year demonstrates the velocity possible in AI developer tools, while validating India as a source of globally competitive AI startups."
     },
     {
       "rank": 3,
-      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "source": "Hacker News",
-      "url": "https://prismml.com/news/bonsai-27b",
-      "why_it_matters": "Capable models running locally on consumer hardware fundamentally shifts the build-vs-API calculus for AI-native startups, enabling new categories of privacy-first, offline-capable, and latency-sensitive applications without cloud inference costs."
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "why_it_matters": "Major AI labs moving into services signals that enterprise AI deployment\u2014not model development\u2014is the emerging value layer, creating opportunities for startups building implementation tooling and vertical-specific solutions."
     }
   ]
 }
