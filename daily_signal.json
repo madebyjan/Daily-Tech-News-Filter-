@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "picks": [
     {
       "rank": 1,
-      "title": "Backed by $60M in funding, Oak steps out of stealth to fix the identity mess that AI agents are making worse",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/",
-      "why_it_matters": "A $60M seed for identity management signals that AI agent infrastructure is becoming a major investable category, with authentication/authorization emerging as a critical bottleneck as autonomous agents proliferate."
+      "title": "China's open-weight Kimi model stuns AI world with frontier-level results",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-openai-anthropic",
+      "why_it_matters": "A Chinese startup releasing frontier-level open-weight models at lower cost could dramatically shift AI infrastructure economics and create new opportunities for startups building on top of open models."
     },
     {
       "rank": 2,
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "title": "Ultrahuman's former hardware VP raises $5.5M for devices that control AI agents, not just record you",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "why_it_matters": "Reaching $120M ARR and unicorn status in just over a year demonstrates the velocity possible in AI developer tools, while validating India as a source of globally competitive AI startups."
+      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
+      "why_it_matters": "Early-stage seed round signals emerging category of AI-agent hardware interfaces\u2014a potential platform shift as agents move from software to physical interaction layers."
     },
     {
       "rank": 3,
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "why_it_matters": "Major AI labs moving into services signals that enterprise AI deployment\u2014not model development\u2014is the emerging value layer, creating opportunities for startups building implementation tooling and vertical-specific solutions."
+      "title": "AI godfathers converge on regulations",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
+      "why_it_matters": "Alignment among major AI labs on regulatory frameworks could shape compliance burdens and market access rules that early-stage AI startups will need to navigate."
     }
   ]
 }
