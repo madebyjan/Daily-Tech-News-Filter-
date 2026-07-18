@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "picks": [
     {
       "rank": 1,
-      "title": "China's open-weight Kimi model stuns AI world with frontier-level results",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/16/moonshot-kimi-ai-china-openai-anthropic",
-      "why_it_matters": "A Chinese startup releasing frontier-level open-weight models at lower cost could dramatically shift AI infrastructure economics and create new opportunities for startups building on top of open models."
+      "title": "Nuclear startup Valar Atomics in talks to raise new funding at $6B valuation",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/",
+      "why_it_matters": "Signals continued strong investor appetite for deep tech/climate infrastructure plays, and the trend toward complex deal structures that early-stage VCs should understand when negotiating terms with founders eyeing similar trajectories."
     },
     {
       "rank": 2,
-      "title": "Ultrahuman's former hardware VP raises $5.5M for devices that control AI agents, not just record you",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/",
-      "why_it_matters": "Early-stage seed round signals emerging category of AI-agent hardware interfaces\u2014a potential platform shift as agents move from software to physical interaction layers."
+      "title": "China just erased America's AI lead",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/17/china-ai-kimi-k3-open-source-anthropic-opus",
+      "why_it_matters": "A major shift in the AI competitive landscape\u2014Chinese models reaching frontier performance at lower cost reshapes the moat calculus for AI startups and may accelerate opportunities in AI applications over pure model plays."
     },
     {
       "rank": 3,
-      "title": "AI godfathers converge on regulations",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/16/ai-regulations-openai-anthropic-google",
-      "why_it_matters": "Alignment among major AI labs on regulatory frameworks could shape compliance burdens and market access rules that early-stage AI startups will need to navigate."
+      "title": "No product? No problem. This Disrupt 2026 session shows how to get pre-seed funding with conviction, storytelling",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/",
+      "why_it_matters": "Confirms that AI-driven seed competition is squeezing non-AI pre-seed founders, which may create valuation opportunities for VCs willing to back strong teams in overlooked verticals."
     }
   ]
 }
