@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-20",
   "picks": [
     {
       "rank": 1,
-      "title": "AI race splits in two as China wages open-weight insurgency",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
-      "why_it_matters": "China's open-weight AI strategy could reshape competitive dynamics for AI startups, potentially commoditizing frontier models and shifting value to applications and fine-tuning layers."
+      "title": "Natural raises $30M to reinvent payments for AI agents \u2014 and take on Stripe",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/20/natural-raises-30m-to-reinvent-payments-for-ai-agents-and-take-on-stripe/",
+      "why_it_matters": "Signals a new infrastructure layer emerging for agentic AI\u2014payments rails purpose-built for autonomous transactions could become foundational as AI agents proliferate, creating opportunities across the stack."
     },
     {
       "rank": 2,
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "source": "Hacker News",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "why_it_matters": "Ultra-lightweight on-device AI models unlock new edge computing opportunities in IoT, wearables, and embedded systems where cloud latency or connectivity is a dealbreaker."
+      "title": "Inference startup Infinity raises $15M from Touring Capital, OpenAI and Anthropic researchers",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/",
+      "why_it_matters": "Strategic angels from frontier labs backing inference infrastructure at $100M valuation validates continued investor appetite for AI picks-and-shovels plays at seed/Series A."
     },
     {
       "rank": 3,
-      "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-      "source": "Hacker News",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "why_it_matters": "Early signal of AI disclosure regulations expanding beyond hiring and finance into consumer-facing industries\u2014founders building AI-generated content tools should anticipate compliance requirements."
+      "title": "The secret Trump administration battle to fight Chinese AI",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/20/ai-us-china-open-source-kimi-anthropic-openai",
+      "why_it_matters": "Potential ban on Chinese AI models would reshape competitive dynamics for US AI startups\u2014reducing open-source alternatives while potentially creating regulatory moats for domestic players."
     }
   ]
 }
