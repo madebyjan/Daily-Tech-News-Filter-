@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Bluecore Energy raises $10M to build portable nuclear reactors on barges",
+      "title": "Cascade raises $3.5M to help construction firms find and win projects",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/",
-      "why_it_matters": "A $10M pre-seed for maritime nuclear energy signals deep tech climate infrastructure is attracting serious early capital, and the Uber founder pedigree suggests operator-founders are moving into hard tech energy plays."
+      "url": "https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/",
+      "why_it_matters": "A seed-stage deal with strong syndicate (a16z Speedrun, Ada, Snowball) validating vertical SaaS opportunity in the underdigitized $1.8T construction industry."
     },
     {
       "rank": 2,
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "source": "Hacker News",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "why_it_matters": "A high-profile founder entering the AI-native developer tools space validates the thesis that agentic workflows will reshape how engineering teams collaborate, creating both competition and acquisition opportunities for startups in this category."
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "why_it_matters": "Signals a major new attack surface category\u2014AI agent endpoint security\u2014that early-stage founders can build around as enterprises rapidly deploy autonomous tools."
     },
     {
       "rank": 3,
-      "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-      "source": "Hacker News",
-      "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-      "why_it_matters": "This landmark settlement establishes a costly precedent for training data liability, making data provenance and licensing infrastructure an increasingly urgent investment opportunity for AI startups."
+      "title": "Menlo Ventures' Matt Murphy explains what AI startups founders must do differently",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "why_it_matters": "Direct insight from a top-tier AI investor on what differentiates winning AI startups, useful for calibrating diligence and founder coaching."
     }
   ]
 }
