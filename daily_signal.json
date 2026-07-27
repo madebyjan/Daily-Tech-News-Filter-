@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-27",
   "picks": [
     {
       "rank": 1,
-      "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript)",
+      "title": "Kimi-K3 Releases on HuggingFace 7/27",
       "source": "Hacker News",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "why_it_matters": "DeepSeek's fundraising pause and leaked candid assessment of China's compute disadvantage signals potential openings for US-based AI infrastructure and model startups to capture enterprise deals that might have gone to Chinese alternatives."
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "why_it_matters": "New open-weight model releases from Moonshot AI signal continued commoditization of frontier capabilities, creating opportunities for startups building application layers rather than foundation models."
     },
     {
       "rank": 2,
-      "title": "Inflect-Micro-v2: complete voice in 9.36M parameters",
+      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
       "source": "Hacker News",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "why_it_matters": "A production-quality voice model at under 10M parameters demonstrates the rapid commoditization of edge AI, creating investment opportunities in voice-enabled embedded applications and on-device AI startups."
+      "url": "https://github.com/vercel-labs/scriptc",
+      "why_it_matters": "Vercel's move into native compilation from TypeScript could reshape developer tooling and edge computing infrastructure\u2014a space where portfolio companies may need to adapt or find adjacent opportunities."
     },
     {
       "rank": 3,
-      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
-      "source": "Hacker News",
-      "url": "https://spectrum.ieee.org/sodium-ion-battery-peak-energy",
-      "why_it_matters": "GM's validation of sodium-ion for grid storage signals a major OEM demand signal for startups in alternative battery chemistries and domestic energy storage supply chains."
+      "title": "Off-grid data centers aren't the panacea that some AI firms hoped",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning",
+      "why_it_matters": "AI infrastructure bottlenecks intensifying means startups solving for compute efficiency, model optimization, or alternative deployment strategies have an expanded market window."
     }
   ]
 }
