@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "picks": [
     {
       "rank": 1,
-      "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "source": "Hacker News",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "why_it_matters": "New open-weight model releases from Moonshot AI signal continued commoditization of frontier capabilities, creating opportunities for startups building application layers rather than foundation models."
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "why_it_matters": "A $71M seed round led by Index and Ribbit signals massive investor appetite for robotics UX/interface plays, and validates that simplifying robot control is now a fundable category at scale."
     },
     {
       "rank": 2,
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "source": "Hacker News",
-      "url": "https://github.com/vercel-labs/scriptc",
-      "why_it_matters": "Vercel's move into native compilation from TypeScript could reshape developer tooling and edge computing infrastructure\u2014a space where portfolio companies may need to adapt or find adjacent opportunities."
+      "title": "Ilya Sutskever's Safe Superintelligence partners with Nvidia to scale its AI research",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "why_it_matters": "A strategic Nvidia partnership with an elite AI safety lab emerging from stealth could reshape compute access dynamics and signals which AI safety approaches are gaining infrastructure backing."
     },
     {
       "rank": 3,
-      "title": "Off-grid data centers aren't the panacea that some AI firms hoped",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/27/off-grid-ai-data-centers-reckoning",
-      "why_it_matters": "AI infrastructure bottlenecks intensifying means startups solving for compute efficiency, model optimization, or alternative deployment strategies have an expanded market window."
+      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
+      "why_it_matters": "A massive raise for small modular reactors with DoD as anchor customer validates defense-as-first-customer as a viable GTM for deeptech energy startups, opening dealflow opportunities in adjacent nuclear supply chain plays."
     }
   ]
 }
