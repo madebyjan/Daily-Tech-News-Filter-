@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
-      "why_it_matters": "A $71M seed round led by Index and Ribbit signals massive investor appetite for robotics UX/interface plays, and validates that simplifying robot control is now a fundable category at scale."
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "why_it_matters": "A $200M growth round in bot detection signals strong investor conviction that AI-generated traffic is creating massive demand for authentication infrastructure\u2014a space where early-stage startups can still carve out specialized niches."
     },
     {
       "rank": 2,
-      "title": "Ilya Sutskever's Safe Superintelligence partners with Nvidia to scale its AI research",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "why_it_matters": "A strategic Nvidia partnership with an elite AI safety lab emerging from stealth could reshape compute access dynamics and signals which AI safety approaches are gaining infrastructure backing."
+      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+      "source": "Hacker News",
+      "url": "https://learnvector.ai/",
+      "why_it_matters": "Andrew Ng launching an AI-native education startup validates the AI tutoring thesis and will likely accelerate founder and investor interest in personalized learning\u2014creating both competitive pressure and legitimacy for the category."
     },
     {
       "rank": 3,
-      "title": "Antares raises $470M to build nuclear reactors for the US military",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/27/antares-raises-470m-to-build-nuclear-reactors-for-the-u-s-military/",
-      "why_it_matters": "A massive raise for small modular reactors with DoD as anchor customer validates defense-as-first-customer as a viable GTM for deeptech energy startups, opening dealflow opportunities in adjacent nuclear supply chain plays."
+      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "why_it_matters": "This lawsuit highlights both the strategic importance of MCP gateway infrastructure in the emerging agent ecosystem and the existential risk startups face when enterprise incumbents evaluate their products during sales cycles."
     }
   ]
 }
