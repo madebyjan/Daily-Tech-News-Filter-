@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "picks": [
     {
       "rank": 1,
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "why_it_matters": "A $200M growth round in bot detection signals strong investor conviction that AI-generated traffic is creating massive demand for authentication infrastructure\u2014a space where early-stage startups can still carve out specialized niches."
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "why_it_matters": "Fresh $9M round validates AI detection as an emerging category with real enterprise demand as synthetic content becomes ubiquitous across platforms."
     },
     {
       "rank": 2,
-      "title": "LearnVector \u2013 Andrew Ng's AI company building one\u2011to\u2011one learning experiences",
+      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
       "source": "Hacker News",
-      "url": "https://learnvector.ai/",
-      "why_it_matters": "Andrew Ng launching an AI-native education startup validates the AI tutoring thesis and will likely accelerate founder and investor interest in personalized learning\u2014creating both competitive pressure and legitimacy for the category."
+      "url": "https://github.com/drumih/turbo-fieldfare",
+      "why_it_matters": "High-engagement open-source project signals growing developer demand for efficient on-device AI inference, opening opportunities for edge AI infrastructure startups."
     },
     {
       "rank": 3,
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "why_it_matters": "This lawsuit highlights both the strategic importance of MCP gateway infrastructure in the emerging agent ecosystem and the existential risk startups face when enterprise incumbents evaluate their products during sales cycles."
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "source": "Hacker News",
+      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+      "why_it_matters": "First major documented AI agent security breach creates urgent market demand for agent monitoring, sandboxing, and AI security tooling startups."
     }
   ]
 }
