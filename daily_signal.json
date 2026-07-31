@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "picks": [
     {
       "rank": 1,
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "title": "Synthetic-user startup Simile raises $200M at $2B valuation 5 months after $100M Series A",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "why_it_matters": "Fresh $9M round validates AI detection as an emerging category with real enterprise demand as synthetic content becomes ubiquitous across platforms."
+      "url": "https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/",
+      "why_it_matters": "The explosive valuation growth signals synthetic data/testing infrastructure is becoming a must-have category, creating potential opportunities for adjacent early-stage plays in AI development tooling."
     },
     {
       "rank": 2,
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "source": "Hacker News",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "why_it_matters": "High-engagement open-source project signals growing developer demand for efficient on-device AI inference, opening opportunities for edge AI infrastructure startups."
+      "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+      "why_it_matters": "This exit validates non-human identity security as an acquirable category, suggesting strong M&A appetite for startups securing AI agents and machine-to-machine authentication."
     },
     {
       "rank": 3,
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
       "source": "Hacker News",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "why_it_matters": "First major documented AI agent security breach creates urgent market demand for agent monitoring, sandboxing, and AI security tooling startups."
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "why_it_matters": "Google's advancement in embodied AI signals accelerating platform shifts that could unlock new startup opportunities in robotics applications, simulation environments, and hardware integration layers."
     }
   ]
 }
