@@ -1,26 +1,26 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "picks": [
     {
       "rank": 1,
-      "title": "Repeat founder Ryan Williams raises $10M seed for an AI startup for private credit managers",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/",
-      "why_it_matters": "A proven repeat founder entering the AI-for-finance vertical signals growing investor appetite for vertical AI applications in traditionally underdigitized sectors like private credit."
+      "title": "DeepSeek's new bargain model accelerates AI's race to zero",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
+      "why_it_matters": "Rapidly falling AI inference costs reshape unit economics for AI-native startups, creating openings for new applications while pressuring companies whose moats depend on model access."
     },
     {
       "rank": 2,
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "why_it_matters": "Voice AI infrastructure is becoming a competitive battleground, and this raise validates market timing for startups building realistic real-time voice models for enterprise automation."
+      "title": "Seedance 2.5",
+      "source": "Hacker News",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "why_it_matters": "ByteDance's advancement in video generation signals accelerating competition in AI creative tools, a category attracting significant seed and Series A activity."
     },
     {
       "rank": 3,
-      "title": "Inside Europe's lessons on AI safety as U.S. rules loom",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/07/31/inside-europe-lessons-ai-safety-trump-rules-loom",
-      "why_it_matters": "Imminent U.S. AI safety regulations could create compliance burdens for AI startups while opening opportunities for governance and testing tooling plays."
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "source": "Hacker News",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "why_it_matters": "AMD hardware matching or beating Nvidia on AI inference cost-performance could unlock new infrastructure startups and reduce compute dependency risks for portfolio companies."
     }
   ]
 }
