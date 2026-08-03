@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-03",
   "picks": [
     {
       "rank": 1,
-      "title": "DeepSeek's new bargain model accelerates AI's race to zero",
+      "title": "AI's manifesto war",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/01/deepseek-model-cheap-ai-price-war",
-      "why_it_matters": "Rapidly falling AI inference costs reshape unit economics for AI-native startups, creating openings for new applications while pressuring companies whose moats depend on model access."
+      "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
+      "why_it_matters": "The open vs. closed AI model debate will directly shape regulatory frameworks, competitive moats, and which AI startups can access frontier capabilities\u2014critical for any VC evaluating the AI stack."
     },
     {
       "rank": 2,
-      "title": "Seedance 2.5",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
       "source": "Hacker News",
-      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
-      "why_it_matters": "ByteDance's advancement in video generation signals accelerating competition in AI creative tools, a category attracting significant seed and Series A activity."
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "why_it_matters": "A major new coding-focused LLM signals continued compression of AI capabilities into developer tools, creating both platform opportunities and existential risk for code-assistant startups built on prior model generations."
     },
     {
       "rank": 3,
-      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
-      "source": "Hacker News",
-      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "why_it_matters": "AMD hardware matching or beating Nvidia on AI inference cost-performance could unlock new infrastructure startups and reduce compute dependency risks for portfolio companies."
+      "title": "How America is adapting to climate extremes",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
+      "why_it_matters": "Climate adaptation moving from planning to deployment signals growing market pull for startups in infrastructure resilience, wildfire tech, water management, and climate risk analytics."
     }
   ]
 }
