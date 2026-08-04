@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "AI's manifesto war",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/02/ai-manifesto-open-weight-models",
-      "why_it_matters": "The open vs. closed AI model debate will directly shape regulatory frameworks, competitive moats, and which AI startups can access frontier capabilities\u2014critical for any VC evaluating the AI stack."
+      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "why_it_matters": "With 5.3M users providing human evaluations to frontier labs, this signals a fundable opportunity in the AI data quality/RLHF tooling layer that early-stage VCs can still access at reasonable valuations."
     },
     {
       "rank": 2,
-      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "source": "Hacker News",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "why_it_matters": "A major new coding-focused LLM signals continued compression of AI capabilities into developer tools, creating both platform opportunities and existential risk for code-assistant startups built on prior model generations."
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "why_it_matters": "A $20M pre-seed for AI deployment tooling with marquee backing validates enterprise AI adoption friction as a massive early-stage opportunity with proven investor appetite."
     },
     {
       "rank": 3,
-      "title": "How America is adapting to climate extremes",
+      "title": "White House finalizes AI framework behind closed doors",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/03/us-climate-change-adaptation-extreme-weather",
-      "why_it_matters": "Climate adaptation moving from planning to deployment signals growing market pull for startups in infrastructure resilience, wildfire tech, water management, and climate risk analytics."
+      "url": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors/",
+      "why_it_matters": "The new voluntary federal AI framework will shape compliance requirements and market positioning for AI startups\u2014early-stage founders building in regulated verticals need to track this closely."
     }
   ]
 }
