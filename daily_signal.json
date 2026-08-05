@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "picks": [
     {
       "rank": 1,
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+      "title": "Bending Spoons to buy Airtable for $1.28B",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "why_it_matters": "With 5.3M users providing human evaluations to frontier labs, this signals a fundable opportunity in the AI data quality/RLHF tooling layer that early-stage VCs can still access at reasonable valuations."
+      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
+      "why_it_matters": "A landmark down-round acquisition (from $11B to $1.28B) signals continued valuation compression in productivity SaaS and creates potential talent/customer displacement opportunities for emerging startups."
     },
     {
       "rank": 2,
-      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-      "why_it_matters": "A $20M pre-seed for AI deployment tooling with marquee backing validates enterprise AI adoption friction as a massive early-stage opportunity with proven investor appetite."
+      "title": "Scoop: Inside Trump's AI framework",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
+      "why_it_matters": "Excluding open-source models from government AI testing frameworks could reshape competitive dynamics, potentially disadvantaging startups building on open models while favoring closed-source incumbents."
     },
     {
       "rank": 3,
-      "title": "White House finalizes AI framework behind closed doors",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/03/white-house-finalizes-ai-framework-behind-closed-doors/",
-      "why_it_matters": "The new voluntary federal AI framework will shape compliance requirements and market positioning for AI startups\u2014early-stage founders building in regulated verticals need to track this closely."
+      "title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on iPhone",
+      "source": "Hacker News",
+      "url": "https://deepgrove.ai/maple-preview",
+      "why_it_matters": "On-device inference at this speed for a 20B parameter model signals a major shift toward edge AI applications, opening new startup opportunities in privacy-first and offline-capable AI products."
     }
   ]
 }
