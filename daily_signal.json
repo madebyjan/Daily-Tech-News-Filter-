@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "picks": [
     {
       "rank": 1,
-      "title": "Bending Spoons to buy Airtable for $1.28B",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/04/bending-spoons-to-buy-airtable-for-1-28b/",
-      "why_it_matters": "A landmark down-round acquisition (from $11B to $1.28B) signals continued valuation compression in productivity SaaS and creates potential talent/customer displacement opportunities for emerging startups."
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "source": "Hacker News",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "why_it_matters": "Major AI leadership reshuffling at one of the most influential labs signals potential talent availability and strategic pivots that could reshape competitive dynamics for AI startups."
     },
     {
       "rank": 2,
-      "title": "Scoop: Inside Trump's AI framework",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/04/trump-ai-framework-open-models",
-      "why_it_matters": "Excluding open-source models from government AI testing frameworks could reshape competitive dynamics, potentially disadvantaging startups building on open models while favoring closed-source incumbents."
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "why_it_matters": "A $250M round for AV fleet management infrastructure validates the picks-and-shovels opportunity in autonomous mobility and signals investor appetite for capital-intensive mobility plays."
     },
     {
       "rank": 3,
-      "title": "Show HN: Maple-Preview \u2013 Ternary 20B MoE running at 120 tok/s on iPhone",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "source": "Hacker News",
-      "url": "https://deepgrove.ai/maple-preview",
-      "why_it_matters": "On-device inference at this speed for a 20B parameter model signals a major shift toward edge AI applications, opening new startup opportunities in privacy-first and offline-capable AI products."
+      "url": "https://blog.cloudflare.com/cloudflare-os/",
+      "why_it_matters": "A major infrastructure player launching an agent platform creates new distribution rails for AI-native startups while potentially commoditizing certain agentic middleware plays."
     }
   ]
 }
