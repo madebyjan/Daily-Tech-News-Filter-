@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "picks": [
     {
       "rank": 1,
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "title": "DeepSeek V4 Flash 0731",
       "source": "Hacker News",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "why_it_matters": "AMD's acquisition signals a major shift toward custom silicon for AI inference, validating the market for startups building specialized AI hardware and creating potential acqui-hire opportunities in the chip space."
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "why_it_matters": "New frontier model releases signal shifting competitive dynamics in AI infrastructure\u2014critical for evaluating which layers of the stack remain defensible for startups building on foundation models."
     },
     {
       "rank": 2,
-      "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "why_it_matters": "This round validates investor appetite for 'vibe-coding' infrastructure plays that could dramatically reduce the operational overhead for new startups\u2014a trend that may reshape how founders build companies."
+      "title": "2027 memory capacity is reportedly sold out",
+      "source": "Hacker News",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "why_it_matters": "Continued memory supply constraints create opportunities for startups in memory-efficient computing, optimization software, and alternative chip architectures while threatening hardware-dependent AI companies' scaling plans."
     },
     {
       "rank": 3,
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "source": "Hacker News",
-      "url": "https://provenmetal.com",
-      "why_it_matters": "Hardware iteration speed is a persistent bottleneck for deep tech startups; a YC-backed company solving PCB turnaround time signals growing infrastructure support for the hardware renaissance."
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "why_it_matters": "Cloudflare's agent-first browser infrastructure signals enterprise readiness for AI agents, validating the market for startups building agentic workflows while raising the bar on what's now table-stakes infrastructure."
     }
   ]
 }
