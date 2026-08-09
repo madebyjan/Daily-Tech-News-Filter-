@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "picks": [
     {
       "rank": 1,
-      "title": "DeepSeek V4 Flash 0731",
-      "source": "Hacker News",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "why_it_matters": "New frontier model releases signal shifting competitive dynamics in AI infrastructure\u2014critical for evaluating which layers of the stack remain defensible for startups building on foundation models."
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "why_it_matters": "Signals OpenAI's expansion into productivity tools through acqui-hires, creating potential opportunities for AI-native workflow startups while validating the presentation/document automation space."
     },
     {
       "rank": 2,
-      "title": "2027 memory capacity is reportedly sold out",
+      "title": "Fastmail offers EU data region",
       "source": "Hacker News",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "why_it_matters": "Continued memory supply constraints create opportunities for startups in memory-efficient computing, optimization software, and alternative chip architectures while threatening hardware-dependent AI companies' scaling plans."
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "why_it_matters": "Growing demand for EU data sovereignty creates tailwinds for startups building region-specific infrastructure, compliance tooling, or privacy-first alternatives to US-based SaaS."
     },
     {
       "rank": 3,
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "source": "Hacker News",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "why_it_matters": "Cloudflare's agent-first browser infrastructure signals enterprise readiness for AI agents, validating the market for startups building agentic workflows while raising the bar on what's now table-stakes infrastructure."
+      "title": "Suspected AI use is the entertainment industry's scarlet letter",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+      "why_it_matters": "The emerging backlash against AI in creative work signals market opportunity for startups building provenance tracking, content authentication, and human-verification tools."
     }
   ]
 }
