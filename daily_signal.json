@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "why_it_matters": "Signals OpenAI's expansion into productivity tools through acqui-hires, creating potential opportunities for AI-native workflow startups while validating the presentation/document automation space."
+      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+      "source": "Hacker News",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "why_it_matters": "Docker entering the AI agent infrastructure space signals maturing demand for secure agent execution environments\u2014a critical enabler for enterprise AI adoption and a potential platform shift founders should build on."
     },
     {
       "rank": 2,
-      "title": "Fastmail offers EU data region",
+      "title": "OpenChamber: An Agentic Development Environment",
       "source": "Hacker News",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "why_it_matters": "Growing demand for EU data sovereignty creates tailwinds for startups building region-specific infrastructure, compliance tooling, or privacy-first alternatives to US-based SaaS."
+      "url": "https://openchamber.dev/",
+      "why_it_matters": "New agentic dev environments represent emerging tooling infrastructure for the AI-native developer workflow, creating investment opportunities in the picks-and-shovels layer of the agent economy."
     },
     {
       "rank": 3,
-      "title": "Suspected AI use is the entertainment industry's scarlet letter",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
-      "why_it_matters": "The emerging backlash against AI in creative work signals market opportunity for startups building provenance tracking, content authentication, and human-verification tools."
+      "title": "Auto mode is now the default in Claude Code",
+      "source": "Hacker News",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "why_it_matters": "Anthropic defaulting to autonomous coding signals accelerating AI agent capabilities, which will unlock new startup opportunities in code review, security, and human-AI collaboration tooling."
     }
   ]
 }
