@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "picks": [
     {
       "rank": 1,
-      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "source": "Hacker News",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "why_it_matters": "Docker entering the AI agent infrastructure space signals maturing demand for secure agent execution environments\u2014a critical enabler for enterprise AI adoption and a potential platform shift founders should build on."
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "why_it_matters": "A $9M seed round in AI-driven materials discovery signals continued investor appetite for deep tech startups tackling chip efficiency\u2014a critical bottleneck as AI compute demand explodes."
     },
     {
       "rank": 2,
-      "title": "OpenChamber: An Agentic Development Environment",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "source": "Hacker News",
-      "url": "https://openchamber.dev/",
-      "why_it_matters": "New agentic dev environments represent emerging tooling infrastructure for the AI-native developer workflow, creating investment opportunities in the picks-and-shovels layer of the agent economy."
+      "url": "https://cactuscompute.com/needle",
+      "why_it_matters": "A 14MB on-device agentic model getting strong HN traction (292 upvotes) validates the emerging edge AI infrastructure opportunity and suggests founder-market fit in embedded/IoT AI."
     },
     {
       "rank": 3,
-      "title": "Auto mode is now the default in Claude Code",
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "source": "Hacker News",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "why_it_matters": "Anthropic defaulting to autonomous coding signals accelerating AI agent capabilities, which will unlock new startup opportunities in code review, security, and human-AI collaboration tooling."
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "why_it_matters": "Meta releasing an open agentic model with 1,098 upvotes signals a platform shift toward local-first AI agents\u2014creating new opportunities for startups building agentic tooling, orchestration, and applications on open infrastructure."
     }
   ]
 }
