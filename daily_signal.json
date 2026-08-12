@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "picks": [
     {
       "rank": 1,
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "why_it_matters": "A $9M seed round in AI-driven materials discovery signals continued investor appetite for deep tech startups tackling chip efficiency\u2014a critical bottleneck as AI compute demand explodes."
+      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "why_it_matters": "A $1.1B seed-stage round for an xAI co-founder's personal agents startup signals that top-tier VCs are making massive bets on agentic AI as the next platform shift, compressing timelines for early-stage competitors in the space."
     },
     {
       "rank": 2,
-      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-      "source": "Hacker News",
-      "url": "https://cactuscompute.com/needle",
-      "why_it_matters": "A 14MB on-device agentic model getting strong HN traction (292 upvotes) validates the emerging edge AI infrastructure opportunity and suggests founder-market fit in embedded/IoT AI."
+      "title": "Tech giants are pushing for a new AI agent incident reporting framework",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
+      "why_it_matters": "A 120+ company coalition proposing AI agent safety standards suggests regulatory frameworks are forming now\u2014startups building in the agent space should design for compliance early or risk being locked out of enterprise deals."
     },
     {
       "rank": 3,
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "source": "Hacker News",
-      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "why_it_matters": "Meta releasing an open agentic model with 1,098 upvotes signals a platform shift toward local-first AI agents\u2014creating new opportunities for startups building agentic tooling, orchestration, and applications on open infrastructure."
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "why_it_matters": "Rapid oversubscription of a major India fund with 55% of the prior fund still undeployed signals strong LP appetite for emerging market tech and increased competition for early-stage deals in the region."
     }
   ]
 }
