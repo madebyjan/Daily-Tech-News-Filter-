@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "picks": [
     {
       "rank": 1,
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "why_it_matters": "A $1.1B seed-stage round for an xAI co-founder's personal agents startup signals that top-tier VCs are making massive bets on agentic AI as the next platform shift, compressing timelines for early-stage competitors in the space."
+      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+      "why_it_matters": "A 10x valuation jump with 10x revenue growth in under a year signals that AI-powered code testing/validation is becoming a critical infrastructure layer as AI-generated code proliferates\u2014an emerging category worth watching for seed opportunities."
     },
     {
       "rank": 2,
-      "title": "Tech giants are pushing for a new AI agent incident reporting framework",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/11/open-source-security-ai-agent-reporting",
-      "why_it_matters": "A 120+ company coalition proposing AI agent safety standards suggests regulatory frameworks are forming now\u2014startups building in the agent space should design for compliance early or risk being locked out of enterprise deals."
+      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+      "source": "Hacker News",
+      "url": "https://discoveredmaterials.com/research/",
+      "why_it_matters": "Fresh YC company applying AI agents to materials science represents the expansion of AI from software into hard-tech R&D, opening potential co-investment or follow-on opportunities in the emerging AI-for-science vertical."
     },
     {
       "rank": 3,
-      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
-      "why_it_matters": "Rapid oversubscription of a major India fund with 55% of the prior fund still undeployed signals strong LP appetite for emerging market tech and increased competition for early-stage deals in the region."
+      "title": "Anthropic's text watermarks signal new front in AI detection",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
+      "why_it_matters": "EU-driven watermarking requirements from a leading foundation model provider will create compliance needs across the stack\u2014signaling opportunities for startups building AI governance, detection, and content provenance tools."
     }
   ]
 }
