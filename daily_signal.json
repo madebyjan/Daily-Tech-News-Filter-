@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "picks": [
     {
       "rank": 1,
-      "title": "AI code-testing startup Blacksmith's valuation jumps almost 10x in less than a year",
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-      "why_it_matters": "A 10x valuation jump with 10x revenue growth in under a year signals that AI-powered code testing/validation is becoming a critical infrastructure layer as AI-generated code proliferates\u2014an emerging category worth watching for seed opportunities."
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "why_it_matters": "Signals extreme late-stage capital concentration in AI infrastructure plays, which could squeeze early-stage valuations or create acqui-hire pressure as smaller data/AI startups struggle to compete for talent and compute."
     },
     {
       "rank": 2,
-      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
-      "source": "Hacker News",
-      "url": "https://discoveredmaterials.com/research/",
-      "why_it_matters": "Fresh YC company applying AI agents to materials science represents the expansion of AI from software into hard-tech R&D, opening potential co-investment or follow-on opportunities in the emerging AI-for-science vertical."
+      "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
+      "why_it_matters": "The AI foundation model race is consolidating around a handful of well-resourced players, reinforcing the thesis that early-stage opportunity lies in vertical applications and tooling rather than competing at the model layer."
     },
     {
       "rank": 3,
-      "title": "Anthropic's text watermarks signal new front in AI detection",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/12/anthropic-claude-watermarks-ai-detection",
-      "why_it_matters": "EU-driven watermarking requirements from a leading foundation model provider will create compliance needs across the stack\u2014signaling opportunities for startups building AI governance, detection, and content provenance tools."
+      "title": "DeepSeek Harness developer preview",
+      "source": "Hacker News",
+      "url": "https://deepseek.com/harness/en/",
+      "why_it_matters": "New developer tooling from a rising Chinese AI lab could lower barriers for startups building on open-weight models and signals continued fragmentation of the AI stack into investable infrastructure layers."
     }
   ]
 }
