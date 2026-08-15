@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "picks": [
     {
       "rank": 1,
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "why_it_matters": "Signals extreme late-stage capital concentration in AI infrastructure plays, which could squeeze early-stage valuations or create acqui-hire pressure as smaller data/AI startups struggle to compete for talent and compute."
+      "title": "OpenAI sheds senior execs in pre-IPO refresh",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/14/openai-executive-greg-brockman-ipo",
+      "why_it_matters": "Major leadership turnover at the dominant AI platform company signals both talent coming to market and potential instability that could create openings for well-positioned competitors in your portfolio."
     },
     {
       "rank": 2,
-      "title": "Musk and Zuckerberg claw back into AI race with new model momentum",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
-      "why_it_matters": "The AI foundation model race is consolidating around a handful of well-resourced players, reinforcing the thesis that early-stage opportunity lies in vertical applications and tooling rather than competing at the model layer."
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "why_it_matters": "Infrastructure optimization for agentic AI workloads is becoming critical as inference costs dominate deployment economics\u2014French startup Kog represents an emerging category worth tracking for deal flow."
     },
     {
       "rank": 3,
-      "title": "DeepSeek Harness developer preview",
+      "title": "Google is making private AI practical with homomorphic encryption",
       "source": "Hacker News",
-      "url": "https://deepseek.com/harness/en/",
-      "why_it_matters": "New developer tooling from a rising Chinese AI lab could lower barriers for startups building on open-weight models and signals continued fragmentation of the AI stack into investable infrastructure layers."
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "why_it_matters": "Privacy-preserving AI compute is shifting from academic to practical, creating a potential platform shift that startups building on confidential computing or enterprise AI could ride."
     }
   ]
 }
