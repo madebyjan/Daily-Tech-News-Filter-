@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-18",
   "picks": [
     {
       "rank": 1,
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "why_it_matters": "A $7B+ exit for an AI infrastructure startup signals massive acquirer appetite for the 'picks and shovels' layer of AI, validating the AI gateway/routing category as a fundable thesis."
+      "title": "Cursor launches Origin, GitHub alternative",
+      "source": "Hacker News",
+      "url": "https://cursor.com/changelog/origin-code-hosting",
+      "why_it_matters": "A leading AI-native code editor expanding into code hosting signals a potential platform shift in developer tools, creating both competitive pressure on GitHub and new infrastructure opportunities for startups building in the dev ecosystem."
     },
     {
       "rank": 2,
-      "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "source": "Reuters via Hacker News",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
-      "why_it_matters": "Nvidia pulling back on infrastructure financing could tighten compute access for frontier labs, creating opportunities for startups building efficient inference, model optimization, or alternative compute solutions."
+      "title": "Etched's valuation doubles to $21B in a month",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "why_it_matters": "Jane Street's validation of custom AI silicon through rapid follow-on investment confirms massive enterprise demand for specialized AI infrastructure, signaling opportunities for startups building complementary hardware and software in the AI stack."
     },
     {
       "rank": 3,
-      "title": "The AI Credit Resale Economy",
-      "source": "Hacker News",
-      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
-      "why_it_matters": "An emerging secondary market for AI compute credits suggests infrastructure commoditization is accelerating, opening potential startup opportunities in brokerage, arbitrage, and cost optimization tooling."
+      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
+      "why_it_matters": "A climate/hardtech startup reaching manufacturing milestone for solid-state battery materials indicates the technology is approaching commercial viability, opening investment opportunities in adjacent supply chain and battery-enabled applications."
     }
   ]
 }
