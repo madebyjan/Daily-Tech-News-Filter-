@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "picks": [
     {
       "rank": 1,
-      "title": "Cursor launches Origin, GitHub alternative",
-      "source": "Hacker News",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "why_it_matters": "A leading AI-native code editor expanding into code hosting signals a potential platform shift in developer tools, creating both competitive pressure on GitHub and new infrastructure opportunities for startups building in the dev ecosystem."
+      "title": "Rillet raises $100M Series C at $1B valuation \u2014 2 years after emerging from stealth",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/",
+      "why_it_matters": "A 2-year path from stealth to unicorn with doubled ARR signals that AI-native vertical SaaS (specifically accounting) is a validated category with strong growth potential for early-stage bets."
     },
     {
       "rank": 2,
-      "title": "Etched's valuation doubles to $21B in a month",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "why_it_matters": "Jane Street's validation of custom AI silicon through rapid follow-on investment confirms massive enterprise demand for specialized AI infrastructure, signaling opportunities for startups building complementary hardware and software in the AI stack."
+      "title": "OpenRouter is joining Stripe",
+      "source": "Hacker News",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "why_it_matters": "Stripe acquiring AI infrastructure tooling validates the emerging 'AI middleware' layer as a strategic category and signals M&A appetite for startups building picks-and-shovels for AI developers."
     },
     {
       "rank": 3,
-      "title": "Anthro Energy breaks ground on factory that could pave the road to solid-state batteries",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/",
-      "why_it_matters": "A climate/hardtech startup reaching manufacturing milestone for solid-state battery materials indicates the technology is approaching commercial viability, opening investment opportunities in adjacent supply chain and battery-enabled applications."
+      "title": "Behind the Curtain: The new existential threat to AI",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/19/data-centers-ai-political-opinion",
+      "why_it_matters": "Rising political opposition to data centers creates regulatory risk for AI infrastructure plays but opens opportunity for startups focused on efficiency, edge computing, and sustainable AI infrastructure."
     }
   ]
 }
