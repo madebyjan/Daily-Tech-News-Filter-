@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "picks": [
     {
       "rank": 1,
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "why_it_matters": "A $250M raise for space infrastructure signals strong investor appetite for frontier compute solutions, and the 'launch options drying up' angle suggests emerging scarcity dynamics that could create opportunities for early-stage launch and space logistics startups."
+      "title": "Will the DOJ's investigation into a16z spook other VCs?",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+      "why_it_matters": "DOJ scrutiny of VC board seat practices could reshape governance norms and deal structures across the early-stage ecosystem."
     },
     {
       "rank": 2,
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
-      "why_it_matters": "Demonstrates that AI-native vertical SaaS replacing legacy back-office software can still command premium valuations and intense investor competition\u2014a signal to look for similar plays in other unsexy enterprise categories."
+      "title": "New MCP Roadmap",
+      "source": "Hacker News",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "why_it_matters": "The Model Context Protocol is becoming critical infrastructure for AI agents\u2014startups building on or extending MCP could capture significant value as the standard matures."
     },
     {
       "rank": 3,
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "why_it_matters": "DOJ scrutiny of board seat practices at a top-tier firm could reshape governance norms across VC, potentially affecting how early-stage investors structure board involvement and manage portfolio conflicts."
+      "title": "Autolith: A programming agent with a live runtime",
+      "source": "Hacker News",
+      "url": "https://www.lambda-symbolics.com/autolith",
+      "why_it_matters": "Live-runtime programming agents represent the next evolution in AI dev tools, signaling investment opportunities in autonomous coding infrastructure."
     }
   ]
 }
