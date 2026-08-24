@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "picks": [
     {
       "rank": 1,
-      "title": "Will the DOJ's investigation into a16z spook other VCs?",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-      "why_it_matters": "DOJ scrutiny of VC board seat practices could reshape governance norms and deal structures across the early-stage ecosystem."
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "source": "Hacker News / Financial Times",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "why_it_matters": "Signals a potential market shift where AI commoditization is accelerating faster than expected, creating openings for startups building cost-efficient or specialized AI tooling rather than competing on raw model performance."
     },
     {
       "rank": 2,
-      "title": "New MCP Roadmap",
-      "source": "Hacker News",
-      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "why_it_matters": "The Model Context Protocol is becoming critical infrastructure for AI agents\u2014startups building on or extending MCP could capture significant value as the standard matures."
+      "title": "Texas welcomed the AI boom. Now Abbott says data centers 'dug their own grave'",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
+      "why_it_matters": "Growing bipartisan backlash against AI infrastructure creates regulatory risk for compute-heavy startups while opening opportunities in energy-efficient AI, edge computing, and grid solutions."
     },
     {
       "rank": 3,
-      "title": "Autolith: A programming agent with a live runtime",
-      "source": "Hacker News",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "why_it_matters": "Live-runtime programming agents represent the next evolution in AI dev tools, signaling investment opportunities in autonomous coding infrastructure."
+      "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
+      "why_it_matters": "Surveillance tech facing political headwinds suggests due diligence on AI/computer vision deals should now include regulatory scenario planning, while privacy-first alternatives may see tailwinds."
     }
   ]
 }
