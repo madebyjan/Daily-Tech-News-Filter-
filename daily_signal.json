@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "picks": [
     {
       "rank": 1,
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "source": "Hacker News / Financial Times",
-      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "why_it_matters": "Signals a potential market shift where AI commoditization is accelerating faster than expected, creating openings for startups building cost-efficient or specialized AI tooling rather than competing on raw model performance."
+      "title": "India's Airbound bags $37M to take on trucks with rocket-like drones",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/24/indias-airbound-bags-37m-to-take-on-trucks-with-rocket-like-drones/",
+      "why_it_matters": "A $37M round led by Greenoaks with strategic backing from DoorDash signals growing conviction in drone logistics as a viable last-mile alternative, opening co-investment or follow-on opportunities in the autonomous delivery stack."
     },
     {
       "rank": 2,
-      "title": "Texas welcomed the AI boom. Now Abbott says data centers 'dug their own grave'",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
-      "why_it_matters": "Growing bipartisan backlash against AI infrastructure creates regulatory risk for compute-heavy startups while opening opportunities in energy-efficient AI, edge computing, and grid solutions."
+      "title": "US nutrition startup Berry Street merges with India's Healthify as GLP-1 trends upwards",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "why_it_matters": "This cross-border merger validates the massive emerging market around GLP-1 companion services, signaling deal flow opportunities in nutrition, behavioral health, and metabolic wellness startups riding the Ozempic wave."
     },
     {
       "rank": 3,
-      "title": "Flock cameras join data centers as a top AI boogeyman in 2026 midterms",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/23/flock-cameras-data-centers-ai-midterms-2026-tech",
-      "why_it_matters": "Surveillance tech facing political headwinds suggests due diligence on AI/computer vision deals should now include regulatory scenario planning, while privacy-first alternatives may see tailwinds."
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "source": "Hacker News",
+      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
+      "why_it_matters": "Regulatory burdens pushing hardware makers out of Europe could create arbitrage opportunities for US-based startups and platforms serving indie hardware founders, while signaling caution for EU-focused portfolio companies."
     }
   ]
 }
