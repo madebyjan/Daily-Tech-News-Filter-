@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-27",
   "picks": [
     {
       "rank": 1,
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "why_it_matters": "A $26M seed round for AI agent infrastructure signals strong investor appetite for the picks-and-shovels layer of the agentic AI stack, a category early-stage VCs should be mapping."
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "source": "Hacker News",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "why_it_matters": "This massive acquisition consolidates AI infrastructure under Nvidia and signals that open-source ML tooling has become strategically critical, potentially reshaping which AI startups can compete independently."
     },
     {
       "rank": 2,
-      "title": "Self-driving truck startup Gatik raises $200M following PepsiCo deal",
+      "title": "This former PG&E engineer is building a 'Google Maps for the underground'",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/",
-      "why_it_matters": "A major growth round paired with enterprise validation from PepsiCo suggests autonomous logistics is hitting commercial inflection, creating opportunities for adjacent startups in fleet software, safety, and mapping."
+      "url": "https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/",
+      "why_it_matters": "A $26M Series A for infrastructure mapping software with clear founder-market fit highlights growing VC appetite for vertical B2B software solving unsexy but critical utility and construction pain points."
     },
     {
       "rank": 3,
-      "title": "Fitbit founders launch Luffu Link, an LTE health and safety band",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/25/fitbit-founders-launch-luffu-link-an-lte-health-and-safety-band/",
-      "why_it_matters": "Repeat founders from a $2B+ exit re-entering wearables with a phone-independent device signals renewed conviction in standalone health hardware\u2014a space worth monitoring for seed deals."
+      "title": "Tech giants warn time is running out to prepare for AI threats",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/27/openai-anthropic-issue-dire-cyber-threat-warning",
+      "why_it_matters": "Coordinated warnings from OpenAI, Anthropic, and cloud giants about imminent AI-enabled cyberattacks signal an emerging category opportunity for startups building AI-native security tools."
     }
   ]
 }
