@@ -6,21 +6,21 @@
       "title": "a16z creates a $1.1B 'Machine Age' fund to 'accelerate the physical buildout of AI'",
       "source": "TechCrunch Venture",
       "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "why_it_matters": "A major VC doubling down on AI infrastructure signals a thesis shift toward hardware/physical layer startups, creating co-investment opportunities and validating founders building in data centers, chips, and robotics."
+      "why_it_matters": "A major VC's billion-dollar bet on AI hardware signals a strategic shift from software to infrastructure, opening opportunities for early-stage startups in chips, cooling, and data center tech."
     },
     {
       "rank": 2,
-      "title": "The EU AI Act gets real",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
-      "why_it_matters": "Enforcement of EU AI regulations will reshape compliance requirements for AI startups seeking European market access, creating opportunities in RegTech and potentially slowing deployment timelines for portfolio companies."
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "why_it_matters": "A major developer tools acquisition by SpaceX validates the AI-assisted coding category and may create market gaps as platform dynamics shift, presenting entry points for competing startups."
     },
     {
       "rank": 3,
-      "title": "Judge blocks Pentagon's Anthropic blacklist",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
-      "why_it_matters": "This ruling reduces regulatory uncertainty for AI startups pursuing government contracts and signals that national security concerns may not arbitrarily block defense-tech market access for frontier AI companies."
+      "title": "GLM-5.3 is now open-weight",
+      "source": "Hacker News",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "why_it_matters": "New open-weight foundation models lower barriers for AI startups to build differentiated applications without dependency on closed APIs, reducing compute costs and enabling novel use cases."
     }
   ]
 }
