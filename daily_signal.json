@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-28",
+  "date": "2024-08-29",
   "picks": [
     {
       "rank": 1,
-      "title": "a16z creates a $1.1B 'Machine Age' fund to 'accelerate the physical buildout of AI'",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
-      "why_it_matters": "A major VC's billion-dollar bet on AI hardware signals a strategic shift from software to infrastructure, opening opportunities for early-stage startups in chips, cooling, and data center tech."
+      "title": "Music publishers sue Anthropic, allege 'blatant theft' of copyrighted music",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+      "why_it_matters": "Major copyright litigation against leading AI labs creates regulatory uncertainty that could reshape training data practices and increase legal/licensing costs for AI startups across the stack."
     },
     {
       "rank": 2,
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "source": "Hacker News",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "why_it_matters": "A major developer tools acquisition by SpaceX validates the AI-assisted coding category and may create market gaps as platform dynamics shift, presenting entry points for competing startups."
+      "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
+      "why_it_matters": "A major security breach at core AI infrastructure signals growing demand for AI security, model protection, and supply chain integrity startups as enterprises prioritize safeguarding proprietary models."
     },
     {
       "rank": 3,
-      "title": "GLM-5.3 is now open-weight",
+      "title": "RISC-V is now officially supported by CPython",
       "source": "Hacker News",
-      "url": "https://huggingface.co/zai-org/GLM-5.3",
-      "why_it_matters": "New open-weight foundation models lower barriers for AI startups to build differentiated applications without dependency on closed APIs, reducing compute costs and enabling novel use cases."
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "why_it_matters": "Official Python support accelerates RISC-V's path to mainstream adoption, opening opportunities for startups building chips, dev tools, and edge computing solutions on the open-source architecture."
     }
   ]
 }
