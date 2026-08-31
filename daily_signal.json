@@ -1,26 +1,26 @@
 {
-  "date": "2024-08-29",
+  "date": "2026-08-31",
   "picks": [
     {
       "rank": 1,
-      "title": "Music publishers sue Anthropic, allege 'blatant theft' of copyrighted music",
+      "title": "AI giants lean into health care to stall public backlash",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-      "why_it_matters": "Major copyright litigation against leading AI labs creates regulatory uncertainty that could reshape training data practices and increase legal/licensing costs for AI startups across the stack."
+      "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
+      "why_it_matters": "Major AI players pivoting to healthcare signals a massive market opening for startups building compliant, specialized health AI applications that can partner with or sell to these platforms."
     },
     {
       "rank": 2,
-      "title": "The 5 craziest discoveries from OpenAI's HuggingFace investigation",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/29/openai-huggingface-hack-investigation-highlights",
-      "why_it_matters": "A major security breach at core AI infrastructure signals growing demand for AI security, model protection, and supply chain integrity startups as enterprises prioritize safeguarding proprietary models."
+      "title": "Liux's Big microcar bets on sustainability to take on Chinese rivals",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "why_it_matters": "A European EV startup competing against Chinese incumbents on sustainability rather than cost represents a potential thesis for backing regional hardware plays with strong regulatory tailwinds and supply chain resilience."
     },
     {
       "rank": 3,
-      "title": "RISC-V is now officially supported by CPython",
+      "title": "How to build a diffusion language model",
       "source": "Hacker News",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "why_it_matters": "Official Python support accelerates RISC-V's path to mainstream adoption, opening opportunities for startups building chips, dev tools, and edge computing solutions on the open-source architecture."
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "why_it_matters": "Diffusion-based LLMs represent an emerging architecture shift that could spawn a new generation of foundation model startups challenging transformer-dominant incumbents."
     }
   ]
 }
