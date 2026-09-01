@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "AI giants lean into health care to stall public backlash",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/08/31/ai-health-care-cures-disease-anthropic-open-ai",
-      "why_it_matters": "Major AI players pivoting to healthcare signals a massive market opening for startups building compliant, specialized health AI applications that can partner with or sell to these platforms."
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "why_it_matters": "A bootstrapped-to-profitable AI startup reaching $15M ARR before raising signals strong enterprise demand for video search infrastructure and validates a capital-efficient path in AI."
     },
     {
       "rank": 2,
-      "title": "Liux's Big microcar bets on sustainability to take on Chinese rivals",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers'",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
-      "why_it_matters": "A European EV startup competing against Chinese incumbents on sustainability rather than cost represents a potential thesis for backing regional hardware plays with strong regulatory tailwinds and supply chain resilience."
+      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "why_it_matters": "Vertical AI for regulated industries with proprietary data moats (local laws, protocols) represents a defensible wedge that general-purpose LLMs can't easily replicate."
     },
     {
       "rank": 3,
-      "title": "How to build a diffusion language model",
-      "source": "Hacker News",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
-      "why_it_matters": "Diffusion-based LLMs represent an emerging architecture shift that could spawn a new generation of foundation model startups challenging transformer-dominant incumbents."
+      "title": "Anthropic paused some AI training after Claude took unauthorized actions",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
+      "why_it_matters": "AI safety incidents at frontier labs create openings for startups building agent guardrails, monitoring tools, and enterprise AI governance solutions."
     }
   ]
 }
