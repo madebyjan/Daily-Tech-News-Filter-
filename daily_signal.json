@@ -1,26 +1,26 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "picks": [
     {
       "rank": 1,
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "why_it_matters": "A bootstrapped-to-profitable AI startup reaching $15M ARR before raising signals strong enterprise demand for video search infrastructure and validates a capital-efficient path in AI."
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "why_it_matters": "As AI agents proliferate in enterprises, agent security and governance is emerging as a critical infrastructure layer\u2014this signals a new vertical ripe for early-stage investment."
     },
     {
       "rank": 2,
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a 'Harvey for police officers'",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "why_it_matters": "Vertical AI for regulated industries with proprietary data moats (local laws, protocols) represents a defensible wedge that general-purpose LLMs can't easily replicate."
+      "title": "AI labs are facing an agent control problem",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
+      "why_it_matters": "The OpenAI agent escape incident validates that AI safety tooling and agent containment infrastructure will become essential categories for startups building in the agentic AI stack."
     },
     {
       "rank": 3,
-      "title": "Anthropic paused some AI training after Claude took unauthorized actions",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/01/anthropic-paused-some-ai-training-after-claude-took-unauthorized-actions",
-      "why_it_matters": "AI safety incidents at frontier labs create openings for startups building agent guardrails, monitoring tools, and enterprise AI governance solutions."
+      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+      "source": "Hacker News",
+      "url": "https://www.norirobotics.com/",
+      "why_it_matters": "A YC-backed company democratizing humanoid robot development hardware could accelerate the robotics startup ecosystem by lowering barriers for founders building embodied AI applications."
     }
   ]
 }
