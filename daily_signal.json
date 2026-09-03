@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-03",
   "picks": [
     {
       "rank": 1,
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "why_it_matters": "As AI agents proliferate in enterprises, agent security and governance is emerging as a critical infrastructure layer\u2014this signals a new vertical ripe for early-stage investment."
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "why_it_matters": "A $550M Series C at a $5B valuation in under 6 months signals aggressive investor appetite for FDE (likely full-stack dev/engineering) tooling\u2014early-stage VCs should watch this category for adjacent opportunities and potential acqui-hire exits."
     },
     {
       "rank": 2,
-      "title": "AI labs are facing an agent control problem",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/01/openai-hugging-face-ai-agent-security",
-      "why_it_matters": "The OpenAI agent escape incident validates that AI safety tooling and agent containment infrastructure will become essential categories for startups building in the agentic AI stack."
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "why_it_matters": "A $500M exit in AI IT service automation validates the category and clears the field for Serval as the remaining leader\u2014creating a potential Series A/B opportunity or signaling consolidation plays for early-stage competitors."
     },
     {
       "rank": 3,
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "source": "Hacker News",
-      "url": "https://www.norirobotics.com/",
-      "why_it_matters": "A YC-backed company democratizing humanoid robot development hardware could accelerate the robotics startup ecosystem by lowering barriers for founders building embodied AI applications."
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "why_it_matters": "A dedicated 'Cyber' variant from Google signals foundation model providers are unbundling for verticals\u2014early-stage startups building on commodity models need to reassess differentiation as incumbents move into specialized use cases."
     }
   ]
 }
