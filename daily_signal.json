@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "picks": [
     {
       "rank": 1,
-      "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-      "why_it_matters": "Strategic corporate backing from Qualcomm validates the wearables-as-compute-platform thesis and signals distribution advantages for startups building in this space."
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "why_it_matters": "A robot data startup hitting unicorn status within three months of launch signals intense investor appetite for robotics infrastructure plays and may indicate a broader market timing opportunity in the space."
     },
     {
       "rank": 2,
-      "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-      "why_it_matters": "AI-driven energy demand is creating urgent enterprise customers for deep tech energy startups, shortening the path to revenue for a sector historically dependent on long R&D cycles."
+      "title": "GPT-6 Astra",
+      "source": "Hacker News",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "why_it_matters": "A major new frontier model release reshapes the capabilities available to startups building AI-native products, potentially obsoleting some current approaches while opening new application categories."
     },
     {
       "rank": 3,
-      "title": "Startup ARR is less secure than ever, new research shows",
+      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
-      "why_it_matters": "Shifting enterprise buying patterns in the AI era require VCs to reassess revenue quality and retention assumptions when underwriting B2B SaaS investments."
+      "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+      "why_it_matters": "A strategic corporate investor deploying $500M+ into India's non-gaming tech ecosystem validates the market opportunity and could create favorable co-investment or exit dynamics for early-stage India-focused portfolios."
     }
   ]
 }
