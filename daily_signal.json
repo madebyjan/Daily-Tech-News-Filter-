@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "picks": [
     {
       "rank": 1,
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-      "why_it_matters": "A robot data startup hitting unicorn status within three months of launch signals intense investor appetite for robotics infrastructure plays and may indicate a broader market timing opportunity in the space."
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "source": "Hacker News",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "why_it_matters": "A European launch startup achieving orbit validates the commercial space thesis outside SpaceX's dominance and signals maturing deal flow in the space infrastructure sector."
     },
     {
       "rank": 2,
-      "title": "GPT-6 Astra",
+      "title": "GPT-6 Astra on robot arms",
       "source": "Hacker News",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "why_it_matters": "A major new frontier model release reshapes the capabilities available to startups building AI-native products, potentially obsoleting some current approaches while opening new application categories."
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "why_it_matters": "Foundation models integrating with physical robotics represents a major platform shift that will spawn new startup opportunities in industrial automation, logistics, and embodied AI."
     },
     {
       "rank": 3,
-      "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-      "why_it_matters": "A strategic corporate investor deploying $500M+ into India's non-gaming tech ecosystem validates the market opportunity and could create favorable co-investment or exit dynamics for early-stage India-focused portfolios."
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "source": "Hacker News",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "why_it_matters": "High HN engagement (423 points) for self-hosting tooling suggests growing developer appetite for cloud alternatives\u2014a potential wedge for infrastructure startups targeting SMBs and privacy-conscious users."
     }
   ]
 }
