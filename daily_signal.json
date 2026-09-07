@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-07",
   "picks": [
     {
       "rank": 1,
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "source": "Hacker News",
-      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "why_it_matters": "A European launch startup achieving orbit validates the commercial space thesis outside SpaceX's dominance and signals maturing deal flow in the space infrastructure sector."
+      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "why_it_matters": "A proven unicorn founder re-entering autonomous mobility signals renewed conviction in the space and could catalyze deal flow, talent movement, and co-investment opportunities in AV infrastructure startups."
     },
     {
       "rank": 2,
-      "title": "GPT-6 Astra on robot arms",
-      "source": "Hacker News",
-      "url": "https://openai.robocurve.org/gpt-6-astra/",
-      "why_it_matters": "Foundation models integrating with physical robotics represents a major platform shift that will spawn new startup opportunities in industrial automation, logistics, and embodied AI."
+      "title": "A growing movement wants AI out of schools",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
+      "why_it_matters": "Major school district AI bans reveal a regulatory headwind for edtech AI startups but also create whitespace for founders building compliant, research-backed tools that can navigate institutional procurement."
     },
     {
       "rank": 3,
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "title": "Research acceleration: The view inside OpenAI",
       "source": "Hacker News",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "why_it_matters": "High HN engagement (423 points) for self-hosting tooling suggests growing developer appetite for cloud alternatives\u2014a potential wedge for infrastructure startups targeting SMBs and privacy-conscious users."
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "why_it_matters": "OpenAI's internal research roadmap signals where frontier AI capabilities are heading, helping VCs identify which application-layer startups will benefit from near-term model improvements."
     }
   ]
 }
