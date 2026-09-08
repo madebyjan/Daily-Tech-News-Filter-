@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "picks": [
     {
       "rank": 1,
-      "title": "Travis Kalanick's Atoms might be getting into the robotaxi business",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "why_it_matters": "A proven unicorn founder re-entering autonomous mobility signals renewed conviction in the space and could catalyze deal flow, talent movement, and co-investment opportunities in AV infrastructure startups."
+      "title": "Mistral raises \u20ac3B",
+      "source": "Hacker News",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "why_it_matters": "A \u20ac3B raise for an open-weight AI company signals continued massive capital flows into foundational AI infrastructure and validates the European AI ecosystem as a serious competitor to US players."
     },
     {
       "rank": 2,
-      "title": "A growing movement wants AI out of schools",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/07/ai-schools-backlash-bans-new-york-los-angeles",
-      "why_it_matters": "Major school district AI bans reveal a regulatory headwind for edtech AI startups but also create whitespace for founders building compliant, research-backed tools that can navigate institutional procurement."
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "source": "Hacker News",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "why_it_matters": "Broadcom's aggressive VMware lock-in creates a window for startups building migration tools, alternative virtualization platforms, or cloud-native infrastructure to capture enterprise customers seeking exits."
     },
     {
       "rank": 3,
-      "title": "Research acceleration: The view inside OpenAI",
+      "title": "TALA Is Open-Source",
       "source": "Hacker News",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "why_it_matters": "OpenAI's internal research roadmap signals where frontier AI capabilities are heading, helping VCs identify which application-layer startups will benefit from near-term model improvements."
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "why_it_matters": "Open-sourcing TALA (automatic layout engine for D2) strengthens the developer tooling ecosystem and may accelerate adoption of diagram-as-code workflows\u2014worth watching for adjacent opportunities in technical documentation and AI-assisted diagramming."
     }
   ]
 }
