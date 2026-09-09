@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Mistral raises \u20ac3B",
-      "source": "Hacker News",
-      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "why_it_matters": "A \u20ac3B raise for an open-weight AI company signals continued massive capital flows into foundational AI infrastructure and validates the European AI ecosystem as a serious competitor to US players."
+      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+      "why_it_matters": "A $50M oversubscribed seed round two months post-launch signals exceptional investor appetite for nuclear/energy infrastructure startups and sets a new bar for pre-revenue deep tech valuations."
     },
     {
       "rank": 2,
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "source": "Hacker News",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "why_it_matters": "Broadcom's aggressive VMware lock-in creates a window for startups building migration tools, alternative virtualization platforms, or cloud-native infrastructure to capture enterprise customers seeking exits."
+      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+      "why_it_matters": "Autonomous cargo aviation represents a massive logistics market opportunity, and this raise ahead of a key technical milestone suggests growing VC conviction in aerospace automation plays."
     },
     {
       "rank": 3,
-      "title": "TALA Is Open-Source",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "source": "Hacker News",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "why_it_matters": "Open-sourcing TALA (automatic layout engine for D2) strengthens the developer tooling ecosystem and may accelerate adoption of diagram-as-code workflows\u2014worth watching for adjacent opportunities in technical documentation and AI-assisted diagramming."
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "why_it_matters": "DeepMind's new genomics foundation model creates immediate platform opportunities for startups building drug discovery, diagnostics, and precision medicine applications on top of this infrastructure."
     }
   ]
 }
