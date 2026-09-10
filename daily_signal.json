@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-10",
   "picks": [
     {
       "rank": 1,
-      "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "why_it_matters": "A $50M oversubscribed seed round two months post-launch signals exceptional investor appetite for nuclear/energy infrastructure startups and sets a new bar for pre-revenue deep tech valuations."
+      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "why_it_matters": "Sequoia's follow-on investment signals that AI agent security and non-human identity management is emerging as a critical enterprise category with significant runway for new startups."
     },
     {
       "rank": 2,
-      "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-      "why_it_matters": "Autonomous cargo aviation represents a massive logistics market opportunity, and this raise ahead of a key technical milestone suggests growing VC conviction in aerospace automation plays."
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "why_it_matters": "A hot AI startup walking away from a signed term sheet for acquisition talks suggests strategic buyers are aggressively competing with VCs for top AI assets, potentially compressing hold periods for early investors."
     },
     {
       "rank": 3,
-      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "title": "Desert Ant Labs: local, fast models that run on device",
       "source": "Hacker News",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "why_it_matters": "DeepMind's new genomics foundation model creates immediate platform opportunities for startups building drug discovery, diagnostics, and precision medicine applications on top of this infrastructure."
+      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+      "why_it_matters": "Strong HN traction for on-device AI infrastructure indicates growing developer demand for privacy-first, latency-sensitive edge ML\u2014a space still early enough for seed-stage opportunities."
     }
   ]
 }
