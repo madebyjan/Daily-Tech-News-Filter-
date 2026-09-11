@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "picks": [
     {
       "rank": 1,
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "why_it_matters": "Sequoia's follow-on investment signals that AI agent security and non-human identity management is emerging as a critical enterprise category with significant runway for new startups."
+      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "why_it_matters": "A $100M Series A with active deployments signals robotics-as-a-service is maturing fast, creating pressure on earlier-stage robotics plays to differentiate or accelerate."
     },
     {
       "rank": 2,
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "why_it_matters": "A hot AI startup walking away from a signed term sheet for acquisition talks suggests strategic buyers are aggressively competing with VCs for top AI assets, potentially compressing hold periods for early investors."
+      "title": "India's Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "why_it_matters": "AI slashing content production costs by 80x is a replicable playbook\u2014founders applying similar automation to other content verticals could see massive margin expansion."
     },
     {
       "rank": 3,
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "source": "Hacker News",
-      "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "why_it_matters": "Strong HN traction for on-device AI infrastructure indicates growing developer demand for privacy-first, latency-sensitive edge ML\u2014a space still early enough for seed-stage opportunities."
+      "title": "Congress gripped by AI panic after doomsday warnings",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/11/congress-ai-anthropic-coxon-researcher-democrats",
+      "why_it_matters": "Accelerating regulatory urgency around AI safety could reshape compliance requirements and create openings for governance/safety tooling startups."
     }
   ]
 }
