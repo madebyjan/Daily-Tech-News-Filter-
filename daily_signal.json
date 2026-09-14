@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "picks": [
     {
       "rank": 1,
-      "title": "OpenAI delaying IPO amid AI safety concerns, Sam Altman says",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/12/openai-public-ipo-delay-sam-altman",
-      "why_it_matters": "OpenAI staying private longer extends the runway for AI startups to compete before facing a publicly-capitalized giant, while signaling that safety concerns may slow the broader sector's commercialization pace."
+      "title": "The 9 buzziest startups from Y Combinator's latest Demo Day, according to VCs",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+      "why_it_matters": "YC Demo Day is the highest-signal dealflow event of the year\u2014knowing which companies peers are excited about helps calibrate where competitive rounds will form and which sectors (nuclear, neurotech) are gaining momentum."
     },
     {
       "rank": 2,
-      "title": "Anthropic, OpenAI CEOs call for slowdown in AI development",
+      "title": "AI's most powerful CEOs hit the brakes",
       "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
-      "why_it_matters": "Major AI labs advocating for development slowdowns could trigger regulatory action that reshapes competitive dynamics, potentially creating openings for startups focused on safety tooling, alignment, or compliant AI infrastructure."
+      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
+      "why_it_matters": "A coordinated slowdown from frontier labs reshapes the AI startup landscape\u2014creating openings for vertical AI applications and infra plays while signaling potential regulatory moats that could protect or constrain portfolio companies."
     },
     {
       "rank": 3,
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "source": "Hacker News",
-      "url": "https://eiln.github.io/posts/ane-dma.html",
-      "why_it_matters": "Unlocking underutilized Apple silicon performance creates opportunities for startups building on-device AI applications that bypass cloud costs and latency constraints."
+      "title": "Johnson calls for AI solutions but says Congress won't take the lead",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
+      "why_it_matters": "Congressional inaction on AI regulation extends the window of regulatory uncertainty\u2014founders building in healthcare, fintech, or defense AI need to price in state-level patchwork rules rather than federal clarity."
     }
   ]
 }
