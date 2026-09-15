@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "The 9 buzziest startups from Y Combinator's latest Demo Day, according to VCs",
+      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-      "why_it_matters": "YC Demo Day is the highest-signal dealflow event of the year\u2014knowing which companies peers are excited about helps calibrate where competitive rounds will form and which sectors (nuclear, neurotech) are gaining momentum."
+      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+      "why_it_matters": "A $205M raise for AI infrastructure targeting GPU inefficiency signals continued investor appetite for picks-and-shovels plays in the AI stack and validates the thesis that Nvidia's dominance creates opportunities for specialized networking/fabric solutions."
     },
     {
       "rank": 2,
-      "title": "AI's most powerful CEOs hit the brakes",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/13/ai-labs-regulation-safety",
-      "why_it_matters": "A coordinated slowdown from frontier labs reshapes the AI startup landscape\u2014creating openings for vertical AI applications and infra plays while signaling potential regulatory moats that could protect or constrain portfolio companies."
+      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+      "why_it_matters": "A successful YC exit via acquisition shows the consolidation play in AI productivity tools is accelerating, with established platforms acquiring point solutions that have proven user traction (400K MAU) to build agentic workflows."
     },
     {
       "rank": 3,
-      "title": "Johnson calls for AI solutions but says Congress won't take the lead",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/13/ai-safety-congress-law-mike-johnson",
-      "why_it_matters": "Congressional inaction on AI regulation extends the window of regulatory uncertainty\u2014founders building in healthcare, fintech, or defense AI need to price in state-level patchwork rules rather than federal clarity."
+      "title": "Pion, an agent designed to run any company autonomously",
+      "source": "Hacker News",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "why_it_matters": "High HN engagement (419 points, 519 comments) on an autonomous company-running agent indicates strong developer/founder interest in the next wave of AI agents moving from task-level to business-level automation\u2014a space ripe for early-stage investment."
     }
   ]
 }
