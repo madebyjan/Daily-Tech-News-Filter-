@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "picks": [
     {
       "rank": 1,
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia's dominance",
+      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-      "why_it_matters": "A $205M raise for AI infrastructure targeting GPU inefficiency signals continued investor appetite for picks-and-shovels plays in the AI stack and validates the thesis that Nvidia's dominance creates opportunities for specialized networking/fabric solutions."
+      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+      "why_it_matters": "Strong founder pedigree (Anthropic + METR) tackling AI safety infrastructure at $40M Series A signals growing enterprise demand for agent guardrails as autonomous AI deployments accelerate."
     },
     {
       "rank": 2,
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+      "title": "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "why_it_matters": "A successful YC exit via acquisition shows the consolidation play in AI productivity tools is accelerating, with established platforms acquiring point solutions that have proven user traction (400K MAU) to build agentic workflows."
+      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "why_it_matters": "Series B in femtech with a data-moat thesis validates continued investor appetite for underserved women's health markets and proprietary biomarker datasets."
     },
     {
       "rank": 3,
-      "title": "Pion, an agent designed to run any company autonomously",
+      "title": "Introducing System One Models and Jev",
       "source": "Hacker News",
-      "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "why_it_matters": "High HN engagement (419 points, 519 comments) on an autonomous company-running agent indicates strong developer/founder interest in the next wave of AI agents moving from task-level to business-level automation\u2014a space ripe for early-stage investment."
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "why_it_matters": "With 1,400+ HN upvotes and heavy discussion, this new model architecture is capturing serious developer attention\u2014worth tracking as a potential platform shift that could spawn new tooling and infra opportunities."
     }
   ]
 }
