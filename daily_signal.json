@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-17",
   "picks": [
     {
       "rank": 1,
-      "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
-      "why_it_matters": "Strong founder pedigree (Anthropic + METR) tackling AI safety infrastructure at $40M Series A signals growing enterprise demand for agent guardrails as autonomous AI deployments accelerate."
+      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+      "why_it_matters": "A $163M raise backed by Thrive and Founders Fund signals major VC conviction that AI-enabled medical devices can disrupt entrenched healthcare incumbents\u2014a thesis early-stage investors can apply to adjacent regulated markets."
     },
     {
       "rank": 2,
-      "title": "Evvy raises $40M as it seeks to further women's health research with vaginal microbiome data",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
-      "why_it_matters": "Series B in femtech with a data-moat thesis validates continued investor appetite for underserved women's health markets and proprietary biomarker datasets."
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "why_it_matters": "A $34M Series A for agentic security/compliance automation validates growing enterprise appetite for AI that handles tedious regulatory work\u2014a category where early-stage startups can still compete on vertical specialization."
     },
     {
       "rank": 3,
-      "title": "Introducing System One Models and Jev",
-      "source": "Hacker News",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "why_it_matters": "With 1,400+ HN upvotes and heavy discussion, this new model architecture is capturing serious developer attention\u2014worth tracking as a potential platform shift that could spawn new tooling and infra opportunities."
+      "title": "Pulley, a Carta rival, is shutting down",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
+      "why_it_matters": "Despite backing from GC, Stripe, and Founders Fund, Pulley's shutdown reveals how brutal it is to unseat entrenched fintech infrastructure\u2014a cautionary signal for founders pitching 'better Carta' plays and a reminder that strong cap tables don't guarantee survival."
     }
   ]
 }
