@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "picks": [
     {
       "rank": 1,
-      "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-      "why_it_matters": "A $163M raise backed by Thrive and Founders Fund signals major VC conviction that AI-enabled medical devices can disrupt entrenched healthcare incumbents\u2014a thesis early-stage investors can apply to adjacent regulated markets."
+      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
+      "why_it_matters": "A $34M Series A for agentic security/compliance signals strong investor appetite for AI-native solutions tackling enterprise pain points\u2014a category early-stage founders should watch."
     },
     {
       "rank": 2,
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
       "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "why_it_matters": "A $34M Series A for agentic security/compliance automation validates growing enterprise appetite for AI that handles tedious regulatory work\u2014a category where early-stage startups can still compete on vertical specialization."
+      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
+      "why_it_matters": "BCV's explicit focus on early-stage AGI and AI infrastructure founders reveals where major capital is flowing and what thesis areas may get crowded or validated."
     },
     {
       "rank": 3,
-      "title": "Pulley, a Carta rival, is shutting down",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/",
-      "why_it_matters": "Despite backing from GC, Stripe, and Founders Fund, Pulley's shutdown reveals how brutal it is to unseat entrenched fintech infrastructure\u2014a cautionary signal for founders pitching 'better Carta' plays and a reminder that strong cap tables don't guarantee survival."
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "why_it_matters": "Efficient small-model approaches (also seen in PrismML's Bonsai compression on HN) could reshape edge AI and on-device deployment\u2014creating new platform opportunities for startups."
     }
   ]
 }
