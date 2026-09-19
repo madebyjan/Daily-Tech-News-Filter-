@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-      "why_it_matters": "A $34M Series A for agentic security/compliance signals strong investor appetite for AI-native solutions tackling enterprise pain points\u2014a category early-stage founders should watch."
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "why_it_matters": "A new AI architecture from a proven founder offering cheaper and faster inference could reshape the competitive landscape for AI-native startups and create new platform opportunities."
     },
     {
       "rank": 2,
-      "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-      "why_it_matters": "BCV's explicit focus on early-stage AGI and AI infrastructure founders reveals where major capital is flowing and what thesis areas may get crowded or validated."
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "why_it_matters": "A $100M raise for a venture studio focused on physical AI signals strong investor conviction in industrial robotics/automation and validates the studio model for capital-intensive deep tech."
     },
     {
       "rank": 3,
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "why_it_matters": "Efficient small-model approaches (also seen in PrismML's Bonsai compression on HN) could reshape edge AI and on-device deployment\u2014creating new platform opportunities for startups."
+      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+      "why_it_matters": "A YC alum reaching $2.7B while profitable in SMB health insurance proves there's still massive upside in vertical fintech serving underbanked business segments."
     }
   ]
 }
