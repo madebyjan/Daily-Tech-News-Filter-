@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "picks": [
     {
       "rank": 1,
-      "title": "AX \u2013 Google's Open Agentic Orchestrator",
-      "source": "Hacker News",
-      "url": "https://agentexecutor.io",
-      "why_it_matters": "Google open-sourcing agentic infrastructure signals a platform shift that will spawn new startups building vertical AI agents, while potentially commoditizing current orchestration plays."
+      "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
+      "why_it_matters": "A $25M seed round signals strong investor conviction in vertical SaaS plays targeting the underserved SMB benefits market\u2014a space with recurring revenue potential and clear distribution advantages."
     },
     {
       "rank": 2,
-      "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "source": "Hacker News",
-      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "why_it_matters": "Expanded HBM4 supply could ease GPU constraints for AI startups, lowering compute costs and enabling more capital-efficient model training for early-stage companies."
+      "title": "Morphotonics raises \u20ac40M to expand its display tech into data centers",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+      "why_it_matters": "Deeptech hardware crossing from consumer displays into data center infrastructure suggests a pivot toward AI compute demand\u2014worth watching for adjacent opportunities in cooling, optics, and photonics."
     },
     {
       "rank": 3,
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "why_it_matters": "Student founders tackling edtech with a mobile-native, short-form content approach represents a generational bet on how Gen Z and Gen Alpha will consume educational content."
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "source": "Hacker News",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
+      "why_it_matters": "High engagement on developer tooling pain points around AI-generated code velocity indicates a real emerging market gap in CI/CD infrastructure optimized for agentic development workflows."
     }
   ]
 }
