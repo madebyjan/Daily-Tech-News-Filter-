@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "picks": [
     {
       "rank": 1,
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "why_it_matters": "A $350M Series E at 3x valuation signals that AI data infrastructure remains a hot category with strong growth-stage appetite, validating early-stage bets in the data labeling and training data pipeline space."
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "why_it_matters": "With $140M raised and enterprise customers including Google and Microsoft, Ema validates the massive opportunity in AI agents replacing traditional enterprise software\u2014a category early-stage founders should be building in."
     },
     {
       "rank": 2,
-      "title": "Singapore's Nexstrom wants to bring 2D semiconductors to chip fabs",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-      "why_it_matters": "Early-stage deep tech in next-gen semiconductor manufacturing represents a potential platform shift opportunity as chipmakers seek alternatives to silicon scaling limits."
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "source": "Hacker News",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "why_it_matters": "AI making genuine scientific discoveries signals a paradigm shift in biotech R&D, opening investment opportunities in startups building AI-native drug discovery and research platforms."
     },
     {
       "rank": 3,
-      "title": "a16z is challenging Silicon Valley's love for drop-outs by launching a school",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
-      "why_it_matters": "A major VC creating a new founder pipeline signals evolving deal sourcing strategies and could produce a new cohort of fundable founders outside traditional networks."
+      "title": "Modal Motors is trying to cut China out of electric motors entirely",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+      "why_it_matters": "Rare-earth-free motors for drones and robots address a critical supply chain vulnerability, positioning this startup at the intersection of defense tech, robotics, and reshoring\u2014all hot investment themes."
     }
   ]
 }
