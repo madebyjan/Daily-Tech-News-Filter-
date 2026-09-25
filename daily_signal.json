@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "picks": [
     {
       "rank": 1,
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "why_it_matters": "With $140M raised and enterprise customers including Google and Microsoft, Ema validates the massive opportunity in AI agents replacing traditional enterprise software\u2014a category early-stage founders should be building in."
+      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+      "why_it_matters": "Signals continued LP appetite for early-stage AI and validates India as a competitive market for seed deals\u2014potential co-investment opportunities or increased competition for founders building in the region."
     },
     {
       "rank": 2,
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "source": "Hacker News",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "why_it_matters": "AI making genuine scientific discoveries signals a paradigm shift in biotech R&D, opening investment opportunities in startups building AI-native drug discovery and research platforms."
+      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+      "why_it_matters": "Active strategic acquirer signals strong M&A exit environment for data/productivity tools, creating near-term liquidity paths for portfolio companies in adjacent spaces."
     },
     {
       "rank": 3,
-      "title": "Modal Motors is trying to cut China out of electric motors entirely",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
-      "why_it_matters": "Rare-earth-free motors for drones and robots address a critical supply chain vulnerability, positioning this startup at the intersection of defense tech, robotics, and reshoring\u2014all hot investment themes."
+      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
+      "source": "Hacker News",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "why_it_matters": "Fresh YC-backed dev tools company gaining strong Hacker News traction (324 upvotes) indicates founder-market fit worth monitoring for follow-on or competitive landscape awareness."
     }
   ]
 }
