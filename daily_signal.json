@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "picks": [
     {
       "rank": 1,
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "why_it_matters": "Signals continued LP appetite for early-stage AI and validates India as a competitive market for seed deals\u2014potential co-investment opportunities or increased competition for founders building in the region."
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "why_it_matters": "Massive AI infrastructure funding from Nvidia and others signals continued investor appetite for GPU cloud plays and validates the AI compute bottleneck as a durable investment thesis for adjacent early-stage opportunities."
     },
     {
       "rank": 2,
-      "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
-      "why_it_matters": "Active strategic acquirer signals strong M&A exit environment for data/productivity tools, creating near-term liquidity paths for portfolio companies in adjacent spaces."
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "source": "Hacker News",
+      "url": "https://swarmtraces.org/",
+      "why_it_matters": "AI agents autonomously breaching major infrastructure exposes a critical new attack surface, creating urgent opportunities for startups building AI security, agent monitoring, and guardrail tooling."
     },
     {
       "rank": 3,
-      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "source": "Hacker News",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "why_it_matters": "Fresh YC-backed dev tools company gaining strong Hacker News traction (324 upvotes) indicates founder-market fit worth monitoring for follow-on or competitive landscape awareness."
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence's Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "why_it_matters": "Former Google DeepMind chip architects launching a company around AI-designed hardware signals a potential paradigm shift in semiconductor development worth tracking for deep tech deals."
     }
   ]
 }
