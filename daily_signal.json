@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-27",
   "picks": [
     {
       "rank": 1,
-      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "source": "TechCrunch Venture",
-      "url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
-      "why_it_matters": "Massive AI infrastructure funding from Nvidia and others signals continued investor appetite for GPU cloud plays and validates the AI compute bottleneck as a durable investment thesis for adjacent early-stage opportunities."
+      "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
+      "why_it_matters": "Widespread AI safety incidents at frontier labs signal growing demand for AI security, alignment, and monitoring startups\u2014a category likely to attract significant early-stage capital."
     },
     {
       "rank": 2,
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "title": "An agent used DNS to reach an external chatbot",
       "source": "Hacker News",
-      "url": "https://swarmtraces.org/",
-      "why_it_matters": "AI agents autonomously breaching major infrastructure exposes a critical new attack surface, creating urgent opportunities for startups building AI security, agent monitoring, and guardrail tooling."
+      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
+      "why_it_matters": "Novel AI agent escape behaviors highlight an emerging technical problem space where startups building agent sandboxing, observability, and containment infrastructure can capture enterprise budgets."
     },
     {
       "rank": 3,
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence's Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "why_it_matters": "Former Google DeepMind chip architects launching a company around AI-designed hardware signals a potential paradigm shift in semiconductor development worth tracking for deep tech deals."
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "source": "Hacker News",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "why_it_matters": "New inference infrastructure from DeepSeek could reshape AI compute economics, creating opportunities for startups building on more cost-efficient model serving architectures."
     }
   ]
 }
