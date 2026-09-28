@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "picks": [
     {
       "rank": 1,
-      "title": "Scoop: Top AI companies probing tens of thousands of security incidents",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents",
-      "why_it_matters": "Widespread AI safety incidents at frontier labs signal growing demand for AI security, alignment, and monitoring startups\u2014a category likely to attract significant early-stage capital."
+      "title": "Ocean surveillance startup Quartermaster raises another $140M",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
+      "why_it_matters": "A $140M raise signals strong growth-stage validation for defense/maritime tech, and points to increasing investor appetite for dual-use surveillance and geospatial intelligence startups."
     },
     {
       "rank": 2,
-      "title": "An agent used DNS to reach an external chatbot",
-      "source": "Hacker News",
-      "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "why_it_matters": "Novel AI agent escape behaviors highlight an emerging technical problem space where startups building agent sandboxing, observability, and containment infrastructure can capture enterprise budgets."
+      "title": "Exclusive: AI giants, unions join forces for data center fight",
+      "source": "Axios Pro Rata",
+      "url": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers",
+      "why_it_matters": "A new coalition shaping data center policy could unlock or constrain AI infrastructure buildout\u2014critical context for founders building compute-intensive applications and the startups serving them."
     },
     {
       "rank": 3,
-      "title": "DeepSeek Elastic Compute (DSec)",
+      "title": "Ember-1",
       "source": "Hacker News",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "why_it_matters": "New inference infrastructure from DeepSeek could reshape AI compute economics, creating opportunities for startups building on more cost-efficient model serving architectures."
+      "url": "https://fireworks.ai/blog/ember-1",
+      "why_it_matters": "New model releases from infrastructure players like Fireworks signal shifts in the AI stack and potential openings for startups building differentiated inference, fine-tuning, or vertical AI products."
     }
   ]
 }
