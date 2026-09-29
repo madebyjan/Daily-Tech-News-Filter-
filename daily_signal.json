@@ -1,26 +1,26 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "picks": [
     {
       "rank": 1,
-      "title": "Ocean surveillance startup Quartermaster raises another $140M",
+      "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
       "source": "TechCrunch Startups",
-      "url": "https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/",
-      "why_it_matters": "A $140M raise signals strong growth-stage validation for defense/maritime tech, and points to increasing investor appetite for dual-use surveillance and geospatial intelligence startups."
+      "url": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+      "why_it_matters": "Strong founder pedigree (ex-Tesla) combined with enterprise traction at DoorDash and HelloFresh signals agentic AI is moving from hype to real B2B adoption in supply chain\u2014a massive market ripe for automation."
     },
     {
       "rank": 2,
-      "title": "Exclusive: AI giants, unions join forces for data center fight",
-      "source": "Axios Pro Rata",
-      "url": "https://www.axios.com/2026/09/28/ai-industry-unions-data-centers",
-      "why_it_matters": "A new coalition shaping data center policy could unlock or constrain AI infrastructure buildout\u2014critical context for founders building compute-intensive applications and the startups serving them."
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "source": "TechCrunch Venture",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "why_it_matters": "Peak XV increasing seed check sizes reflects the rising Series A bar globally, signaling early-stage VCs must write larger checks and provide more runway as competition for breakout companies intensifies."
     },
     {
       "rank": 3,
-      "title": "Ember-1",
-      "source": "Hacker News",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "why_it_matters": "New model releases from infrastructure players like Fireworks signal shifts in the AI stack and potential openings for startups building differentiated inference, fine-tuning, or vertical AI products."
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "source": "TechCrunch Startups",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+      "why_it_matters": "Rapid back-to-back funding suggests AI-powered workflow automation in insurance is hitting strong product-market fit\u2014a signal that similar vertical AI plays in other paper-heavy industries may be timely."
     }
   ]
 }
